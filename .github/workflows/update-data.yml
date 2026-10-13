@@ -1,0 +1,74 @@
+name: Update ERA5 data & deploy
+
+# Downloads new/missing ERA5 days from Open-Meteo, recomputes heatwave days,
+# commits the data and redeploys the map to GitHub Pages.
+on:
+  schedule:
+    - cron: "17 0 * * *"        # daily, 00:17 UTC
+  workflow_dispatch:
+    inputs:
+      budget:
+        description: "Max Open-Meteo calls for this run (free tier is 10,000/day)"
+        default: "9000"
+  push:
+    branches: [main]
+    paths:
+      - "data/points.csv"
+      - "scripts/**"
+      - ".github/workflows/update-data.yml"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: data
+  cancel-in-progress: false
+
+jobs:
+  data:
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Fetch ERA5 daily Tmax (resumable, paced to the free-tier limits)
+        env:
+          OPEN_METEO_API_KEY: ${{ secrets.OPEN_METEO_API_KEY }}
+        run: python scripts/fetch.py --budget "${{ inputs.budget || '9000' }}" --max-minutes 300
+
+      - name: Compute heatwave days
+        run: python scripts/compute.py
+
+      - name: Commit data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/raw web/data
+          if git diff --cached --quiet; then echo "No data changes"; exit 0; fi
+          git commit -m "data: ERA5 update $(date -u +%F)"
+          git pull --rebase origin main
+          git push origin HEAD:main
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: web
+
+  deploy:
+    needs: data
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

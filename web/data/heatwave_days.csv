@@ -1,0 +1,4753 @@
+iso,country,place,year,heatwave_days,heatwave_events,data_coverage
+CHN,China,Beijing,2000,3,1,1.0
+CHN,China,Beijing,2001,13,3,1.0
+CHN,China,Beijing,2002,14,4,1.0
+CHN,China,Beijing,2003,9,3,1.0
+CHN,China,Beijing,2004,5,1,1.0
+CHN,China,Beijing,2005,3,1,1.0
+CHN,China,Beijing,2006,9,2,1.0
+CHN,China,Beijing,2007,7,2,1.0
+CHN,China,Beijing,2008,4,1,1.0
+CHN,China,Beijing,2009,3,1,1.0
+CHN,China,Beijing,2010,8,2,1.0
+CHN,China,Beijing,2011,0,0,1.0
+CHN,China,Beijing,2012,4,1,1.0
+CHN,China,Beijing,2013,5,2,1.0
+CHN,China,Beijing,2014,4,1,1.0
+CHN,China,Beijing,2015,4,1,1.0
+CHN,China,Beijing,2016,0,0,1.0
+CHN,China,Beijing,2017,3,1,1.0
+CHN,China,Beijing,2018,4,1,1.0
+CHN,China,Beijing,2019,18,5,1.0
+CHN,China,Beijing,2020,3,1,1.0
+CHN,China,Beijing,2021,6,2,1.0
+CHN,China,Beijing,2022,0,0,1.0
+CHN,China,Beijing,2023,10,3,1.0
+CHN,China,Beijing,2024,3,1,1.0
+CHN,China,Beijing,2025,14,4,1.0
+CHN,China,Beijing,2026,6,2,0.767
+IND,India,New Delhi,2000,7,2,1.0
+IND,India,New Delhi,2001,15,3,1.0
+IND,India,New Delhi,2002,34,5,1.0
+IND,India,New Delhi,2003,0,0,1.0
+IND,India,New Delhi,2004,7,2,1.0
+IND,India,New Delhi,2005,6,1,1.0
+IND,India,New Delhi,2006,26,6,1.0
+IND,India,New Delhi,2007,4,1,1.0
+IND,India,New Delhi,2008,6,2,1.0
+IND,India,New Delhi,2009,19,3,1.0
+IND,India,New Delhi,2010,19,5,1.0
+IND,India,New Delhi,2011,0,0,1.0
+IND,India,New Delhi,2012,3,1,1.0
+IND,India,New Delhi,2013,0,0,1.0
+IND,India,New Delhi,2014,23,5,1.0
+IND,India,New Delhi,2015,0,0,1.0
+IND,India,New Delhi,2016,13,4,1.0
+IND,India,New Delhi,2017,3,1,1.0
+IND,India,New Delhi,2018,0,0,1.0
+IND,India,New Delhi,2019,3,1,1.0
+IND,India,New Delhi,2020,11,2,1.0
+IND,India,New Delhi,2021,15,4,1.0
+IND,India,New Delhi,2022,11,3,1.0
+IND,India,New Delhi,2023,7,2,1.0
+IND,India,New Delhi,2024,17,4,1.0
+IND,India,New Delhi,2025,0,0,1.0
+IND,India,New Delhi,2026,8,1,0.767
+USA,United States of America,"Washington, D.C.",2000,6,2,1.0
+USA,United States of America,"Washington, D.C.",2001,4,1,1.0
+USA,United States of America,"Washington, D.C.",2002,14,4,1.0
+USA,United States of America,"Washington, D.C.",2003,0,0,1.0
+USA,United States of America,"Washington, D.C.",2004,0,0,1.0
+USA,United States of America,"Washington, D.C.",2005,3,1,1.0
+USA,United States of America,"Washington, D.C.",2006,3,1,1.0
+USA,United States of America,"Washington, D.C.",2007,7,2,1.0
+USA,United States of America,"Washington, D.C.",2008,4,1,1.0
+USA,United States of America,"Washington, D.C.",2009,4,1,1.0
+USA,United States of America,"Washington, D.C.",2010,20,6,1.0
+USA,United States of America,"Washington, D.C.",2011,6,2,1.0
+USA,United States of America,"Washington, D.C.",2012,8,2,1.0
+USA,United States of America,"Washington, D.C.",2013,12,4,1.0
+USA,United States of America,"Washington, D.C.",2014,0,0,1.0
+USA,United States of America,"Washington, D.C.",2015,8,2,1.0
+USA,United States of America,"Washington, D.C.",2016,10,3,1.0
+USA,United States of America,"Washington, D.C.",2017,9,3,1.0
+USA,United States of America,"Washington, D.C.",2018,6,2,1.0
+USA,United States of America,"Washington, D.C.",2019,6,2,1.0
+USA,United States of America,"Washington, D.C.",2020,6,2,1.0
+USA,United States of America,"Washington, D.C.",2021,3,1,1.0
+USA,United States of America,"Washington, D.C.",2022,0,0,1.0
+USA,United States of America,"Washington, D.C.",2023,8,2,1.0
+USA,United States of America,"Washington, D.C.",2024,9,3,1.0
+USA,United States of America,"Washington, D.C.",2025,3,1,1.0
+USA,United States of America,"Washington, D.C.",2026,15,4,0.764
+IDN,Indonesia,Jakarta,2000,0,0,1.0
+IDN,Indonesia,Jakarta,2001,0,0,1.0
+IDN,Indonesia,Jakarta,2002,0,0,1.0
+IDN,Indonesia,Jakarta,2003,3,1,1.0
+IDN,Indonesia,Jakarta,2004,3,1,1.0
+IDN,Indonesia,Jakarta,2005,0,0,1.0
+IDN,Indonesia,Jakarta,2006,3,1,1.0
+IDN,Indonesia,Jakarta,2007,11,3,1.0
+IDN,Indonesia,Jakarta,2008,3,1,1.0
+IDN,Indonesia,Jakarta,2009,6,2,1.0
+IDN,Indonesia,Jakarta,2010,8,2,1.0
+IDN,Indonesia,Jakarta,2011,0,0,1.0
+IDN,Indonesia,Jakarta,2012,3,1,1.0
+IDN,Indonesia,Jakarta,2013,0,0,1.0
+IDN,Indonesia,Jakarta,2014,6,2,1.0
+IDN,Indonesia,Jakarta,2015,11,2,1.0
+IDN,Indonesia,Jakarta,2016,0,0,1.0
+IDN,Indonesia,Jakarta,2017,3,1,1.0
+IDN,Indonesia,Jakarta,2018,6,2,1.0
+IDN,Indonesia,Jakarta,2019,9,3,1.0
+IDN,Indonesia,Jakarta,2020,3,1,1.0
+IDN,Indonesia,Jakarta,2021,0,0,1.0
+IDN,Indonesia,Jakarta,2022,4,1,1.0
+IDN,Indonesia,Jakarta,2023,28,5,1.0
+IDN,Indonesia,Jakarta,2024,5,1,1.0
+IDN,Indonesia,Jakarta,2025,3,1,1.0
+IDN,Indonesia,Jakarta,2026,25,6,0.767
+PAK,Pakistan,Islamabad,2000,0,0,1.0
+PAK,Pakistan,Islamabad,2001,4,1,1.0
+PAK,Pakistan,Islamabad,2002,7,2,1.0
+PAK,Pakistan,Islamabad,2003,3,1,1.0
+PAK,Pakistan,Islamabad,2004,9,3,1.0
+PAK,Pakistan,Islamabad,2005,4,1,1.0
+PAK,Pakistan,Islamabad,2006,19,5,1.0
+PAK,Pakistan,Islamabad,2007,12,3,1.0
+PAK,Pakistan,Islamabad,2008,9,3,1.0
+PAK,Pakistan,Islamabad,2009,6,2,1.0
+PAK,Pakistan,Islamabad,2010,13,4,1.0
+PAK,Pakistan,Islamabad,2011,5,1,1.0
+PAK,Pakistan,Islamabad,2012,4,1,1.0
+PAK,Pakistan,Islamabad,2013,3,1,1.0
+PAK,Pakistan,Islamabad,2014,0,0,1.0
+PAK,Pakistan,Islamabad,2015,3,1,1.0
+PAK,Pakistan,Islamabad,2016,13,4,1.0
+PAK,Pakistan,Islamabad,2017,13,3,1.0
+PAK,Pakistan,Islamabad,2018,0,0,1.0
+PAK,Pakistan,Islamabad,2019,7,2,1.0
+PAK,Pakistan,Islamabad,2020,0,0,1.0
+PAK,Pakistan,Islamabad,2021,3,1,1.0
+PAK,Pakistan,Islamabad,2022,29,6,1.0
+PAK,Pakistan,Islamabad,2023,27,7,1.0
+PAK,Pakistan,Islamabad,2024,20,4,1.0
+PAK,Pakistan,Islamabad,2025,8,2,1.0
+PAK,Pakistan,Islamabad,2026,19,2,0.767
+BRA,Brazil,Brasília,2000,3,1,1.0
+BRA,Brazil,Brasília,2001,9,3,1.0
+BRA,Brazil,Brasília,2002,22,5,1.0
+BRA,Brazil,Brasília,2003,4,1,1.0
+BRA,Brazil,Brasília,2004,3,1,1.0
+BRA,Brazil,Brasília,2005,0,0,1.0
+BRA,Brazil,Brasília,2006,0,0,1.0
+BRA,Brazil,Brasília,2007,0,0,1.0
+BRA,Brazil,Brasília,2008,3,1,1.0
+BRA,Brazil,Brasília,2009,6,2,1.0
+BRA,Brazil,Brasília,2010,29,7,1.0
+BRA,Brazil,Brasília,2011,3,1,1.0
+BRA,Brazil,Brasília,2012,7,3,1.0
+BRA,Brazil,Brasília,2013,5,1,1.0
+BRA,Brazil,Brasília,2014,6,1,1.0
+BRA,Brazil,Brasília,2015,18,4,1.0
+BRA,Brazil,Brasília,2016,39,8,1.0
+BRA,Brazil,Brasília,2017,3,1,1.0
+BRA,Brazil,Brasília,2018,0,0,1.0
+BRA,Brazil,Brasília,2019,10,3,1.0
+BRA,Brazil,Brasília,2020,7,2,1.0
+BRA,Brazil,Brasília,2021,3,1,1.0
+BRA,Brazil,Brasília,2022,0,0,1.0
+BRA,Brazil,Brasília,2023,11,2,1.0
+BRA,Brazil,Brasília,2024,4,1,1.0
+BRA,Brazil,Brasília,2025,5,1,1.0
+BRA,Brazil,Brasília,2026,7,2,0.764
+NGA,Nigeria,Abuja,2000,0,0,1.0
+NGA,Nigeria,Abuja,2001,0,0,1.0
+NGA,Nigeria,Abuja,2002,0,0,1.0
+NGA,Nigeria,Abuja,2003,4,1,1.0
+NGA,Nigeria,Abuja,2004,3,1,1.0
+NGA,Nigeria,Abuja,2005,0,0,1.0
+NGA,Nigeria,Abuja,2006,4,1,1.0
+NGA,Nigeria,Abuja,2007,0,0,1.0
+NGA,Nigeria,Abuja,2008,0,0,1.0
+NGA,Nigeria,Abuja,2009,3,1,1.0
+NGA,Nigeria,Abuja,2010,8,2,1.0
+NGA,Nigeria,Abuja,2011,0,0,1.0
+NGA,Nigeria,Abuja,2012,0,0,1.0
+NGA,Nigeria,Abuja,2013,0,0,1.0
+NGA,Nigeria,Abuja,2014,0,0,1.0
+NGA,Nigeria,Abuja,2015,8,2,1.0
+NGA,Nigeria,Abuja,2016,3,1,1.0
+NGA,Nigeria,Abuja,2017,0,0,1.0
+NGA,Nigeria,Abuja,2018,3,1,1.0
+NGA,Nigeria,Abuja,2019,0,0,1.0
+NGA,Nigeria,Abuja,2020,3,1,1.0
+NGA,Nigeria,Abuja,2021,10,3,1.0
+NGA,Nigeria,Abuja,2022,3,1,1.0
+NGA,Nigeria,Abuja,2023,6,2,1.0
+NGA,Nigeria,Abuja,2024,7,2,1.0
+NGA,Nigeria,Abuja,2025,11,4,1.0
+NGA,Nigeria,Abuja,2026,12,3,0.767
+BGD,Bangladesh,Dhaka,2000,0,0,1.0
+BGD,Bangladesh,Dhaka,2001,0,0,1.0
+BGD,Bangladesh,Dhaka,2002,0,0,1.0
+BGD,Bangladesh,Dhaka,2003,0,0,1.0
+BGD,Bangladesh,Dhaka,2004,0,0,1.0
+BGD,Bangladesh,Dhaka,2005,0,0,1.0
+BGD,Bangladesh,Dhaka,2006,7,2,1.0
+BGD,Bangladesh,Dhaka,2007,0,0,1.0
+BGD,Bangladesh,Dhaka,2008,0,0,1.0
+BGD,Bangladesh,Dhaka,2009,3,1,1.0
+BGD,Bangladesh,Dhaka,2010,10,2,1.0
+BGD,Bangladesh,Dhaka,2011,5,1,1.0
+BGD,Bangladesh,Dhaka,2012,0,0,1.0
+BGD,Bangladesh,Dhaka,2013,3,1,1.0
+BGD,Bangladesh,Dhaka,2014,10,3,1.0
+BGD,Bangladesh,Dhaka,2015,0,0,1.0
+BGD,Bangladesh,Dhaka,2016,10,3,1.0
+BGD,Bangladesh,Dhaka,2017,0,0,1.0
+BGD,Bangladesh,Dhaka,2018,6,2,1.0
+BGD,Bangladesh,Dhaka,2019,15,4,1.0
+BGD,Bangladesh,Dhaka,2020,8,2,1.0
+BGD,Bangladesh,Dhaka,2021,10,3,1.0
+BGD,Bangladesh,Dhaka,2022,7,2,1.0
+BGD,Bangladesh,Dhaka,2023,29,5,1.0
+BGD,Bangladesh,Dhaka,2024,10,3,1.0
+BGD,Bangladesh,Dhaka,2025,8,2,1.0
+BGD,Bangladesh,Dhaka,2026,0,0,0.767
+RUS,Russia,Moscow,2000,0,0,1.0
+RUS,Russia,Moscow,2001,0,0,1.0
+RUS,Russia,Moscow,2002,4,1,1.0
+RUS,Russia,Moscow,2003,0,0,1.0
+RUS,Russia,Moscow,2004,0,0,1.0
+RUS,Russia,Moscow,2005,6,2,1.0
+RUS,Russia,Moscow,2006,3,1,1.0
+RUS,Russia,Moscow,2007,23,6,1.0
+RUS,Russia,Moscow,2008,6,1,1.0
+RUS,Russia,Moscow,2009,10,3,1.0
+RUS,Russia,Moscow,2010,35,6,1.0
+RUS,Russia,Moscow,2011,3,1,1.0
+RUS,Russia,Moscow,2012,0,0,1.0
+RUS,Russia,Moscow,2013,8,2,1.0
+RUS,Russia,Moscow,2014,15,4,1.0
+RUS,Russia,Moscow,2015,10,2,1.0
+RUS,Russia,Moscow,2016,0,0,1.0
+RUS,Russia,Moscow,2017,0,0,1.0
+RUS,Russia,Moscow,2018,9,2,1.0
+RUS,Russia,Moscow,2019,7,2,1.0
+RUS,Russia,Moscow,2020,13,3,1.0
+RUS,Russia,Moscow,2021,10,2,1.0
+RUS,Russia,Moscow,2022,6,1,1.0
+RUS,Russia,Moscow,2023,6,2,1.0
+RUS,Russia,Moscow,2024,15,3,1.0
+RUS,Russia,Moscow,2025,24,4,1.0
+RUS,Russia,Moscow,2026,20,5,0.767
+MEX,Mexico,Mexico City,2000,7,2,1.0
+MEX,Mexico,Mexico City,2001,4,1,1.0
+MEX,Mexico,Mexico City,2002,0,0,1.0
+MEX,Mexico,Mexico City,2003,3,1,1.0
+MEX,Mexico,Mexico City,2004,0,0,1.0
+MEX,Mexico,Mexico City,2005,3,1,1.0
+MEX,Mexico,Mexico City,2006,0,0,1.0
+MEX,Mexico,Mexico City,2007,3,1,1.0
+MEX,Mexico,Mexico City,2008,3,1,1.0
+MEX,Mexico,Mexico City,2009,9,2,1.0
+MEX,Mexico,Mexico City,2010,6,1,1.0
+MEX,Mexico,Mexico City,2011,6,2,1.0
+MEX,Mexico,Mexico City,2012,12,3,1.0
+MEX,Mexico,Mexico City,2013,4,1,1.0
+MEX,Mexico,Mexico City,2014,0,0,1.0
+MEX,Mexico,Mexico City,2015,0,0,1.0
+MEX,Mexico,Mexico City,2016,0,0,1.0
+MEX,Mexico,Mexico City,2017,0,0,1.0
+MEX,Mexico,Mexico City,2018,3,1,1.0
+MEX,Mexico,Mexico City,2019,10,3,1.0
+MEX,Mexico,Mexico City,2020,31,7,1.0
+MEX,Mexico,Mexico City,2021,10,3,1.0
+MEX,Mexico,Mexico City,2022,0,0,1.0
+MEX,Mexico,Mexico City,2023,43,7,1.0
+MEX,Mexico,Mexico City,2024,52,10,1.0
+MEX,Mexico,Mexico City,2025,0,0,1.0
+MEX,Mexico,Mexico City,2026,6,2,0.764
+JPN,Japan,Tokyo,2000,0,0,1.0
+JPN,Japan,Tokyo,2001,0,0,1.0
+JPN,Japan,Tokyo,2002,0,0,1.0
+JPN,Japan,Tokyo,2003,0,0,1.0
+JPN,Japan,Tokyo,2004,0,0,1.0
+JPN,Japan,Tokyo,2005,0,0,1.0
+JPN,Japan,Tokyo,2006,0,0,1.0
+JPN,Japan,Tokyo,2007,0,0,1.0
+JPN,Japan,Tokyo,2008,0,0,1.0
+JPN,Japan,Tokyo,2009,0,0,1.0
+JPN,Japan,Tokyo,2010,3,1,1.0
+JPN,Japan,Tokyo,2011,0,0,1.0
+JPN,Japan,Tokyo,2012,0,0,1.0
+JPN,Japan,Tokyo,2013,6,2,1.0
+JPN,Japan,Tokyo,2014,3,1,1.0
+JPN,Japan,Tokyo,2015,0,0,1.0
+JPN,Japan,Tokyo,2016,3,1,1.0
+JPN,Japan,Tokyo,2017,0,0,1.0
+JPN,Japan,Tokyo,2018,6,2,1.0
+JPN,Japan,Tokyo,2019,4,1,1.0
+JPN,Japan,Tokyo,2020,0,0,1.0
+JPN,Japan,Tokyo,2021,0,0,1.0
+JPN,Japan,Tokyo,2022,8,1,1.0
+JPN,Japan,Tokyo,2023,16,4,1.0
+JPN,Japan,Tokyo,2024,14,4,1.0
+JPN,Japan,Tokyo,2025,22,5,1.0
+JPN,Japan,Tokyo,2026,7,2,0.767
+ETH,Ethiopia,Addis Ababa,2000,0,0,1.0
+ETH,Ethiopia,Addis Ababa,2001,0,0,1.0
+ETH,Ethiopia,Addis Ababa,2002,0,0,1.0
+ETH,Ethiopia,Addis Ababa,2003,0,0,1.0
+ETH,Ethiopia,Addis Ababa,2004,0,0,1.0
+ETH,Ethiopia,Addis Ababa,2005,3,1,1.0
+ETH,Ethiopia,Addis Ababa,2006,0,0,1.0
+ETH,Ethiopia,Addis Ababa,2007,0,0,1.0
+ETH,Ethiopia,Addis Ababa,2008,0,0,1.0
+ETH,Ethiopia,Addis Ababa,2009,23,7,1.0
+ETH,Ethiopia,Addis Ababa,2010,0,0,1.0
+ETH,Ethiopia,Addis Ababa,2011,0,0,1.0
+ETH,Ethiopia,Addis Ababa,2012,0,0,1.0
+ETH,Ethiopia,Addis Ababa,2013,0,0,1.0
+ETH,Ethiopia,Addis Ababa,2014,0,0,1.0
+ETH,Ethiopia,Addis Ababa,2015,17,4,1.0
+ETH,Ethiopia,Addis Ababa,2016,10,3,1.0
+ETH,Ethiopia,Addis Ababa,2017,6,2,1.0
+ETH,Ethiopia,Addis Ababa,2018,14,4,1.0
+ETH,Ethiopia,Addis Ababa,2019,11,3,1.0
+ETH,Ethiopia,Addis Ababa,2020,3,1,1.0
+ETH,Ethiopia,Addis Ababa,2021,6,2,1.0
+ETH,Ethiopia,Addis Ababa,2022,8,2,1.0
+ETH,Ethiopia,Addis Ababa,2023,0,0,1.0
+ETH,Ethiopia,Addis Ababa,2024,0,0,1.0
+ETH,Ethiopia,Addis Ababa,2025,0,0,1.0
+ETH,Ethiopia,Addis Ababa,2026,10,3,0.767
+PHL,Philippines,Manila,2000,0,0,1.0
+PHL,Philippines,Manila,2001,0,0,1.0
+PHL,Philippines,Manila,2002,12,3,1.0
+PHL,Philippines,Manila,2003,0,0,1.0
+PHL,Philippines,Manila,2004,4,1,1.0
+PHL,Philippines,Manila,2005,3,1,1.0
+PHL,Philippines,Manila,2006,0,0,1.0
+PHL,Philippines,Manila,2007,7,2,1.0
+PHL,Philippines,Manila,2008,0,0,1.0
+PHL,Philippines,Manila,2009,0,0,1.0
+PHL,Philippines,Manila,2010,3,1,1.0
+PHL,Philippines,Manila,2011,0,0,1.0
+PHL,Philippines,Manila,2012,6,2,1.0
+PHL,Philippines,Manila,2013,0,0,1.0
+PHL,Philippines,Manila,2014,9,2,1.0
+PHL,Philippines,Manila,2015,21,6,1.0
+PHL,Philippines,Manila,2016,3,1,1.0
+PHL,Philippines,Manila,2017,3,1,1.0
+PHL,Philippines,Manila,2018,0,0,1.0
+PHL,Philippines,Manila,2019,9,3,1.0
+PHL,Philippines,Manila,2020,6,2,1.0
+PHL,Philippines,Manila,2021,0,0,1.0
+PHL,Philippines,Manila,2022,3,1,1.0
+PHL,Philippines,Manila,2023,17,3,1.0
+PHL,Philippines,Manila,2024,21,6,1.0
+PHL,Philippines,Manila,2025,12,4,1.0
+PHL,Philippines,Manila,2026,9,2,0.767
+EGY,Egypt,Cairo,2000,0,0,1.0
+EGY,Egypt,Cairo,2001,0,0,1.0
+EGY,Egypt,Cairo,2002,5,1,1.0
+EGY,Egypt,Cairo,2003,6,2,1.0
+EGY,Egypt,Cairo,2004,3,1,1.0
+EGY,Egypt,Cairo,2005,7,2,1.0
+EGY,Egypt,Cairo,2006,0,0,1.0
+EGY,Egypt,Cairo,2007,7,2,1.0
+EGY,Egypt,Cairo,2008,8,2,1.0
+EGY,Egypt,Cairo,2009,4,1,1.0
+EGY,Egypt,Cairo,2010,27,7,1.0
+EGY,Egypt,Cairo,2011,0,0,1.0
+EGY,Egypt,Cairo,2012,3,1,1.0
+EGY,Egypt,Cairo,2013,3,1,1.0
+EGY,Egypt,Cairo,2014,0,0,1.0
+EGY,Egypt,Cairo,2015,3,1,1.0
+EGY,Egypt,Cairo,2016,7,2,1.0
+EGY,Egypt,Cairo,2017,3,1,1.0
+EGY,Egypt,Cairo,2018,0,0,1.0
+EGY,Egypt,Cairo,2019,3,1,1.0
+EGY,Egypt,Cairo,2020,5,1,1.0
+EGY,Egypt,Cairo,2021,19,5,1.0
+EGY,Egypt,Cairo,2022,6,2,1.0
+EGY,Egypt,Cairo,2023,6,2,1.0
+EGY,Egypt,Cairo,2024,3,1,1.0
+EGY,Egypt,Cairo,2025,3,1,1.0
+EGY,Egypt,Cairo,2026,4,1,0.767
+VNM,Vietnam,Hanoi,2000,0,0,1.0
+VNM,Vietnam,Hanoi,2001,5,1,1.0
+VNM,Vietnam,Hanoi,2002,8,2,1.0
+VNM,Vietnam,Hanoi,2003,9,3,1.0
+VNM,Vietnam,Hanoi,2004,0,0,1.0
+VNM,Vietnam,Hanoi,2005,0,0,1.0
+VNM,Vietnam,Hanoi,2006,3,1,1.0
+VNM,Vietnam,Hanoi,2007,0,0,1.0
+VNM,Vietnam,Hanoi,2008,0,0,1.0
+VNM,Vietnam,Hanoi,2009,8,2,1.0
+VNM,Vietnam,Hanoi,2010,25,5,1.0
+VNM,Vietnam,Hanoi,2011,0,0,1.0
+VNM,Vietnam,Hanoi,2012,8,2,1.0
+VNM,Vietnam,Hanoi,2013,0,0,1.0
+VNM,Vietnam,Hanoi,2014,7,2,1.0
+VNM,Vietnam,Hanoi,2015,26,7,1.0
+VNM,Vietnam,Hanoi,2016,6,2,1.0
+VNM,Vietnam,Hanoi,2017,5,1,1.0
+VNM,Vietnam,Hanoi,2018,10,2,1.0
+VNM,Vietnam,Hanoi,2019,13,4,1.0
+VNM,Vietnam,Hanoi,2020,3,1,1.0
+VNM,Vietnam,Hanoi,2021,8,2,1.0
+VNM,Vietnam,Hanoi,2022,3,1,1.0
+VNM,Vietnam,Hanoi,2023,13,4,1.0
+VNM,Vietnam,Hanoi,2024,9,2,1.0
+VNM,Vietnam,Hanoi,2025,3,1,1.0
+VNM,Vietnam,Hanoi,2026,21,4,0.767
+COD,Dem. Rep. Congo,Kinshasa,2000,0,0,1.0
+COD,Dem. Rep. Congo,Kinshasa,2001,0,0,1.0
+COD,Dem. Rep. Congo,Kinshasa,2002,0,0,1.0
+COD,Dem. Rep. Congo,Kinshasa,2003,3,1,1.0
+COD,Dem. Rep. Congo,Kinshasa,2004,0,0,1.0
+COD,Dem. Rep. Congo,Kinshasa,2005,0,0,1.0
+COD,Dem. Rep. Congo,Kinshasa,2006,0,0,1.0
+COD,Dem. Rep. Congo,Kinshasa,2007,0,0,1.0
+COD,Dem. Rep. Congo,Kinshasa,2008,0,0,1.0
+COD,Dem. Rep. Congo,Kinshasa,2009,0,0,1.0
+COD,Dem. Rep. Congo,Kinshasa,2010,6,2,1.0
+COD,Dem. Rep. Congo,Kinshasa,2011,0,0,1.0
+COD,Dem. Rep. Congo,Kinshasa,2012,0,0,1.0
+COD,Dem. Rep. Congo,Kinshasa,2013,3,1,1.0
+COD,Dem. Rep. Congo,Kinshasa,2014,0,0,1.0
+COD,Dem. Rep. Congo,Kinshasa,2015,4,1,1.0
+COD,Dem. Rep. Congo,Kinshasa,2016,0,0,1.0
+COD,Dem. Rep. Congo,Kinshasa,2017,3,1,1.0
+COD,Dem. Rep. Congo,Kinshasa,2018,0,0,1.0
+COD,Dem. Rep. Congo,Kinshasa,2019,0,0,1.0
+COD,Dem. Rep. Congo,Kinshasa,2020,3,1,1.0
+COD,Dem. Rep. Congo,Kinshasa,2021,5,1,1.0
+COD,Dem. Rep. Congo,Kinshasa,2022,0,0,1.0
+COD,Dem. Rep. Congo,Kinshasa,2023,3,1,1.0
+COD,Dem. Rep. Congo,Kinshasa,2024,11,3,1.0
+COD,Dem. Rep. Congo,Kinshasa,2025,0,0,1.0
+COD,Dem. Rep. Congo,Kinshasa,2026,19,5,0.767
+TUR,Turkey,Ankara,2000,3,1,1.0
+TUR,Turkey,Ankara,2001,7,2,1.0
+TUR,Turkey,Ankara,2002,0,0,1.0
+TUR,Turkey,Ankara,2003,15,5,1.0
+TUR,Turkey,Ankara,2004,6,2,1.0
+TUR,Turkey,Ankara,2005,4,1,1.0
+TUR,Turkey,Ankara,2006,13,3,1.0
+TUR,Turkey,Ankara,2007,0,0,1.0
+TUR,Turkey,Ankara,2008,6,2,1.0
+TUR,Turkey,Ankara,2009,0,0,1.0
+TUR,Turkey,Ankara,2010,20,4,1.0
+TUR,Turkey,Ankara,2011,3,1,1.0
+TUR,Turkey,Ankara,2012,16,4,1.0
+TUR,Turkey,Ankara,2013,4,1,1.0
+TUR,Turkey,Ankara,2014,4,1,1.0
+TUR,Turkey,Ankara,2015,0,0,1.0
+TUR,Turkey,Ankara,2016,8,2,1.0
+TUR,Turkey,Ankara,2017,15,3,1.0
+TUR,Turkey,Ankara,2018,0,0,1.0
+TUR,Turkey,Ankara,2019,6,1,1.0
+TUR,Turkey,Ankara,2020,23,5,1.0
+TUR,Turkey,Ankara,2021,17,4,1.0
+TUR,Turkey,Ankara,2022,3,1,1.0
+TUR,Turkey,Ankara,2023,17,4,1.0
+TUR,Turkey,Ankara,2024,10,3,1.0
+TUR,Turkey,Ankara,2025,15,3,1.0
+TUR,Turkey,Ankara,2026,0,0,0.767
+DEU,Germany,Berlin,2000,12,4,1.0
+DEU,Germany,Berlin,2001,0,0,1.0
+DEU,Germany,Berlin,2002,4,1,1.0
+DEU,Germany,Berlin,2003,4,1,1.0
+DEU,Germany,Berlin,2004,4,1,1.0
+DEU,Germany,Berlin,2005,0,0,1.0
+DEU,Germany,Berlin,2006,7,2,1.0
+DEU,Germany,Berlin,2007,0,0,1.0
+DEU,Germany,Berlin,2008,3,1,1.0
+DEU,Germany,Berlin,2009,3,1,1.0
+DEU,Germany,Berlin,2010,4,1,1.0
+DEU,Germany,Berlin,2011,3,1,1.0
+DEU,Germany,Berlin,2012,7,2,1.0
+DEU,Germany,Berlin,2013,0,0,1.0
+DEU,Germany,Berlin,2014,0,0,1.0
+DEU,Germany,Berlin,2015,13,4,1.0
+DEU,Germany,Berlin,2016,7,2,1.0
+DEU,Germany,Berlin,2017,0,0,1.0
+DEU,Germany,Berlin,2018,21,5,1.0
+DEU,Germany,Berlin,2019,16,4,1.0
+DEU,Germany,Berlin,2020,0,0,1.0
+DEU,Germany,Berlin,2021,9,3,1.0
+DEU,Germany,Berlin,2022,7,2,1.0
+DEU,Germany,Berlin,2023,10,2,1.0
+DEU,Germany,Berlin,2024,13,3,1.0
+DEU,Germany,Berlin,2025,12,3,1.0
+DEU,Germany,Berlin,2026,14,3,0.767
+IRN,Iran,Tehran,2000,0,0,1.0
+IRN,Iran,Tehran,2001,10,3,1.0
+IRN,Iran,Tehran,2002,5,1,1.0
+IRN,Iran,Tehran,2003,6,2,1.0
+IRN,Iran,Tehran,2004,5,1,1.0
+IRN,Iran,Tehran,2005,6,2,1.0
+IRN,Iran,Tehran,2006,0,0,1.0
+IRN,Iran,Tehran,2007,7,2,1.0
+IRN,Iran,Tehran,2008,9,2,1.0
+IRN,Iran,Tehran,2009,0,0,1.0
+IRN,Iran,Tehran,2010,22,5,1.0
+IRN,Iran,Tehran,2011,4,1,1.0
+IRN,Iran,Tehran,2012,3,1,1.0
+IRN,Iran,Tehran,2013,9,3,1.0
+IRN,Iran,Tehran,2014,4,1,1.0
+IRN,Iran,Tehran,2015,0,0,1.0
+IRN,Iran,Tehran,2016,7,2,1.0
+IRN,Iran,Tehran,2017,13,2,1.0
+IRN,Iran,Tehran,2018,3,1,1.0
+IRN,Iran,Tehran,2019,0,0,1.0
+IRN,Iran,Tehran,2020,3,1,1.0
+IRN,Iran,Tehran,2021,15,3,1.0
+IRN,Iran,Tehran,2022,3,1,1.0
+IRN,Iran,Tehran,2023,0,0,1.0
+IRN,Iran,Tehran,2024,12,3,1.0
+IRN,Iran,Tehran,2025,17,5,1.0
+IRN,Iran,Tehran,2026,24,4,0.767
+THA,Thailand,Bangkok,2000,15,4,1.0
+THA,Thailand,Bangkok,2001,33,8,1.0
+THA,Thailand,Bangkok,2002,0,0,1.0
+THA,Thailand,Bangkok,2003,7,2,1.0
+THA,Thailand,Bangkok,2004,29,5,1.0
+THA,Thailand,Bangkok,2005,0,0,1.0
+THA,Thailand,Bangkok,2006,7,2,1.0
+THA,Thailand,Bangkok,2007,4,1,1.0
+THA,Thailand,Bangkok,2008,0,0,1.0
+THA,Thailand,Bangkok,2009,9,3,1.0
+THA,Thailand,Bangkok,2010,3,1,1.0
+THA,Thailand,Bangkok,2011,0,0,1.0
+THA,Thailand,Bangkok,2012,6,2,1.0
+THA,Thailand,Bangkok,2013,0,0,1.0
+THA,Thailand,Bangkok,2014,0,0,1.0
+THA,Thailand,Bangkok,2015,17,5,1.0
+THA,Thailand,Bangkok,2016,0,0,1.0
+THA,Thailand,Bangkok,2017,0,0,1.0
+THA,Thailand,Bangkok,2018,3,1,1.0
+THA,Thailand,Bangkok,2019,16,4,1.0
+THA,Thailand,Bangkok,2020,4,1,1.0
+THA,Thailand,Bangkok,2021,3,1,1.0
+THA,Thailand,Bangkok,2022,0,0,1.0
+THA,Thailand,Bangkok,2023,11,4,1.0
+THA,Thailand,Bangkok,2024,6,1,1.0
+THA,Thailand,Bangkok,2025,0,0,1.0
+THA,Thailand,Bangkok,2026,4,1,0.767
+FRA,France,Paris,2000,0,0,1.0
+FRA,France,Paris,2001,0,0,1.0
+FRA,France,Paris,2002,0,0,1.0
+FRA,France,Paris,2003,16,3,1.0
+FRA,France,Paris,2004,6,1,1.0
+FRA,France,Paris,2005,0,0,1.0
+FRA,France,Paris,2006,7,2,1.0
+FRA,France,Paris,2007,13,3,1.0
+FRA,France,Paris,2008,0,0,1.0
+FRA,France,Paris,2009,3,1,1.0
+FRA,France,Paris,2010,0,0,1.0
+FRA,France,Paris,2011,6,1,1.0
+FRA,France,Paris,2012,4,1,1.0
+FRA,France,Paris,2013,0,0,1.0
+FRA,France,Paris,2014,3,1,1.0
+FRA,France,Paris,2015,4,1,1.0
+FRA,France,Paris,2016,5,1,1.0
+FRA,France,Paris,2017,7,2,1.0
+FRA,France,Paris,2018,15,3,1.0
+FRA,France,Paris,2019,12,4,1.0
+FRA,France,Paris,2020,13,4,1.0
+FRA,France,Paris,2021,13,3,1.0
+FRA,France,Paris,2022,8,2,1.0
+FRA,France,Paris,2023,15,2,1.0
+FRA,France,Paris,2024,0,0,1.0
+FRA,France,Paris,2025,15,4,1.0
+FRA,France,Paris,2026,43,6,0.767
+GBR,United Kingdom,London,2000,0,0,1.0
+GBR,United Kingdom,London,2001,0,0,1.0
+GBR,United Kingdom,London,2002,0,0,1.0
+GBR,United Kingdom,London,2003,3,1,1.0
+GBR,United Kingdom,London,2004,4,1,1.0
+GBR,United Kingdom,London,2005,3,1,1.0
+GBR,United Kingdom,London,2006,8,2,1.0
+GBR,United Kingdom,London,2007,11,3,1.0
+GBR,United Kingdom,London,2008,9,2,1.0
+GBR,United Kingdom,London,2009,0,0,1.0
+GBR,United Kingdom,London,2010,0,0,1.0
+GBR,United Kingdom,London,2011,15,3,1.0
+GBR,United Kingdom,London,2012,0,0,1.0
+GBR,United Kingdom,London,2013,0,0,1.0
+GBR,United Kingdom,London,2014,0,0,1.0
+GBR,United Kingdom,London,2015,11,3,1.0
+GBR,United Kingdom,London,2016,7,2,1.0
+GBR,United Kingdom,London,2017,3,1,1.0
+GBR,United Kingdom,London,2018,18,5,1.0
+GBR,United Kingdom,London,2019,15,4,1.0
+GBR,United Kingdom,London,2020,11,3,1.0
+GBR,United Kingdom,London,2021,6,2,1.0
+GBR,United Kingdom,London,2022,19,5,1.0
+GBR,United Kingdom,London,2023,11,2,1.0
+GBR,United Kingdom,London,2024,0,0,1.0
+GBR,United Kingdom,London,2025,16,4,1.0
+GBR,United Kingdom,London,2026,17,4,0.767
+ITA,Italy,Rome,2000,0,0,1.0
+ITA,Italy,Rome,2001,0,0,1.0
+ITA,Italy,Rome,2002,10,3,1.0
+ITA,Italy,Rome,2003,10,2,1.0
+ITA,Italy,Rome,2004,3,1,1.0
+ITA,Italy,Rome,2005,0,0,1.0
+ITA,Italy,Rome,2006,3,1,1.0
+ITA,Italy,Rome,2007,6,1,1.0
+ITA,Italy,Rome,2008,4,1,1.0
+ITA,Italy,Rome,2009,11,2,1.0
+ITA,Italy,Rome,2010,6,2,1.0
+ITA,Italy,Rome,2011,9,2,1.0
+ITA,Italy,Rome,2012,7,2,1.0
+ITA,Italy,Rome,2013,0,0,1.0
+ITA,Italy,Rome,2014,9,2,1.0
+ITA,Italy,Rome,2015,6,2,1.0
+ITA,Italy,Rome,2016,6,2,1.0
+ITA,Italy,Rome,2017,4,1,1.0
+ITA,Italy,Rome,2018,3,1,1.0
+ITA,Italy,Rome,2019,10,3,1.0
+ITA,Italy,Rome,2020,6,2,1.0
+ITA,Italy,Rome,2021,6,2,1.0
+ITA,Italy,Rome,2022,20,6,1.0
+ITA,Italy,Rome,2023,16,3,1.0
+ITA,Italy,Rome,2024,15,4,1.0
+ITA,Italy,Rome,2025,16,3,1.0
+ITA,Italy,Rome,2026,24,6,0.767
+ZAF,South Africa,Johannesburg,2000,0,0,1.0
+ZAF,South Africa,Johannesburg,2001,0,0,1.0
+ZAF,South Africa,Johannesburg,2002,0,0,1.0
+ZAF,South Africa,Johannesburg,2003,6,2,1.0
+ZAF,South Africa,Johannesburg,2004,3,1,1.0
+ZAF,South Africa,Johannesburg,2005,6,2,1.0
+ZAF,South Africa,Johannesburg,2006,0,0,1.0
+ZAF,South Africa,Johannesburg,2007,7,2,1.0
+ZAF,South Africa,Johannesburg,2008,0,0,1.0
+ZAF,South Africa,Johannesburg,2009,0,0,1.0
+ZAF,South Africa,Johannesburg,2010,0,0,1.0
+ZAF,South Africa,Johannesburg,2011,0,0,1.0
+ZAF,South Africa,Johannesburg,2012,11,3,1.0
+ZAF,South Africa,Johannesburg,2013,4,1,1.0
+ZAF,South Africa,Johannesburg,2014,5,1,1.0
+ZAF,South Africa,Johannesburg,2015,32,8,1.0
+ZAF,South Africa,Johannesburg,2016,11,3,1.0
+ZAF,South Africa,Johannesburg,2017,7,2,1.0
+ZAF,South Africa,Johannesburg,2018,20,5,1.0
+ZAF,South Africa,Johannesburg,2019,15,4,1.0
+ZAF,South Africa,Johannesburg,2020,0,0,1.0
+ZAF,South Africa,Johannesburg,2021,7,1,1.0
+ZAF,South Africa,Johannesburg,2022,0,0,1.0
+ZAF,South Africa,Johannesburg,2023,15,3,1.0
+ZAF,South Africa,Johannesburg,2024,41,9,1.0
+ZAF,South Africa,Johannesburg,2025,3,1,1.0
+ZAF,South Africa,Johannesburg,2026,0,0,0.767
+TZA,Tanzania,Dar es Salaam,2000,0,0,1.0
+TZA,Tanzania,Dar es Salaam,2001,0,0,1.0
+TZA,Tanzania,Dar es Salaam,2002,0,0,1.0
+TZA,Tanzania,Dar es Salaam,2003,12,3,1.0
+TZA,Tanzania,Dar es Salaam,2004,0,0,1.0
+TZA,Tanzania,Dar es Salaam,2005,0,0,1.0
+TZA,Tanzania,Dar es Salaam,2006,0,0,1.0
+TZA,Tanzania,Dar es Salaam,2007,0,0,1.0
+TZA,Tanzania,Dar es Salaam,2008,0,0,1.0
+TZA,Tanzania,Dar es Salaam,2009,0,0,1.0
+TZA,Tanzania,Dar es Salaam,2010,3,1,1.0
+TZA,Tanzania,Dar es Salaam,2011,0,0,1.0
+TZA,Tanzania,Dar es Salaam,2012,0,0,1.0
+TZA,Tanzania,Dar es Salaam,2013,3,1,1.0
+TZA,Tanzania,Dar es Salaam,2014,6,2,1.0
+TZA,Tanzania,Dar es Salaam,2015,3,1,1.0
+TZA,Tanzania,Dar es Salaam,2016,12,3,1.0
+TZA,Tanzania,Dar es Salaam,2017,3,1,1.0
+TZA,Tanzania,Dar es Salaam,2018,0,0,1.0
+TZA,Tanzania,Dar es Salaam,2019,14,4,1.0
+TZA,Tanzania,Dar es Salaam,2020,13,4,1.0
+TZA,Tanzania,Dar es Salaam,2021,7,2,1.0
+TZA,Tanzania,Dar es Salaam,2022,8,2,1.0
+TZA,Tanzania,Dar es Salaam,2023,19,6,1.0
+TZA,Tanzania,Dar es Salaam,2024,22,6,1.0
+TZA,Tanzania,Dar es Salaam,2025,3,1,1.0
+TZA,Tanzania,Dar es Salaam,2026,0,0,0.767
+MMR,Myanmar,Yangon,2000,0,0,1.0
+MMR,Myanmar,Yangon,2001,3,1,1.0
+MMR,Myanmar,Yangon,2002,0,0,1.0
+MMR,Myanmar,Yangon,2003,0,0,1.0
+MMR,Myanmar,Yangon,2004,7,2,1.0
+MMR,Myanmar,Yangon,2005,0,0,1.0
+MMR,Myanmar,Yangon,2006,13,3,1.0
+MMR,Myanmar,Yangon,2007,11,3,1.0
+MMR,Myanmar,Yangon,2008,0,0,1.0
+MMR,Myanmar,Yangon,2009,7,2,1.0
+MMR,Myanmar,Yangon,2010,20,6,1.0
+MMR,Myanmar,Yangon,2011,0,0,1.0
+MMR,Myanmar,Yangon,2012,6,2,1.0
+MMR,Myanmar,Yangon,2013,0,0,1.0
+MMR,Myanmar,Yangon,2014,0,0,1.0
+MMR,Myanmar,Yangon,2015,0,0,1.0
+MMR,Myanmar,Yangon,2016,0,0,1.0
+MMR,Myanmar,Yangon,2017,0,0,1.0
+MMR,Myanmar,Yangon,2018,3,1,1.0
+MMR,Myanmar,Yangon,2019,20,4,1.0
+MMR,Myanmar,Yangon,2020,7,2,1.0
+MMR,Myanmar,Yangon,2021,6,2,1.0
+MMR,Myanmar,Yangon,2022,4,1,1.0
+MMR,Myanmar,Yangon,2023,3,1,1.0
+MMR,Myanmar,Yangon,2024,10,3,1.0
+MMR,Myanmar,Yangon,2025,3,1,1.0
+MMR,Myanmar,Yangon,2026,3,1,0.767
+KEN,Kenya,Nairobi,2000,0,0,1.0
+KEN,Kenya,Nairobi,2001,0,0,1.0
+KEN,Kenya,Nairobi,2002,0,0,1.0
+KEN,Kenya,Nairobi,2003,0,0,1.0
+KEN,Kenya,Nairobi,2004,0,0,1.0
+KEN,Kenya,Nairobi,2005,3,1,1.0
+KEN,Kenya,Nairobi,2006,0,0,1.0
+KEN,Kenya,Nairobi,2007,4,1,1.0
+KEN,Kenya,Nairobi,2008,6,2,1.0
+KEN,Kenya,Nairobi,2009,3,1,1.0
+KEN,Kenya,Nairobi,2010,3,1,1.0
+KEN,Kenya,Nairobi,2011,20,5,1.0
+KEN,Kenya,Nairobi,2012,9,3,1.0
+KEN,Kenya,Nairobi,2013,0,0,1.0
+KEN,Kenya,Nairobi,2014,4,1,1.0
+KEN,Kenya,Nairobi,2015,9,2,1.0
+KEN,Kenya,Nairobi,2016,11,3,1.0
+KEN,Kenya,Nairobi,2017,11,3,1.0
+KEN,Kenya,Nairobi,2018,3,1,1.0
+KEN,Kenya,Nairobi,2019,18,4,1.0
+KEN,Kenya,Nairobi,2020,5,1,1.0
+KEN,Kenya,Nairobi,2021,11,3,1.0
+KEN,Kenya,Nairobi,2022,16,5,1.0
+KEN,Kenya,Nairobi,2023,7,2,1.0
+KEN,Kenya,Nairobi,2024,3,1,1.0
+KEN,Kenya,Nairobi,2025,0,0,1.0
+KEN,Kenya,Nairobi,2026,14,4,0.767
+KOR,South Korea,Seoul,2000,0,0,1.0
+KOR,South Korea,Seoul,2001,0,0,1.0
+KOR,South Korea,Seoul,2002,5,1,1.0
+KOR,South Korea,Seoul,2003,0,0,1.0
+KOR,South Korea,Seoul,2004,3,1,1.0
+KOR,South Korea,Seoul,2005,0,0,1.0
+KOR,South Korea,Seoul,2006,4,1,1.0
+KOR,South Korea,Seoul,2007,6,2,1.0
+KOR,South Korea,Seoul,2008,3,1,1.0
+KOR,South Korea,Seoul,2009,5,1,1.0
+KOR,South Korea,Seoul,2010,4,1,1.0
+KOR,South Korea,Seoul,2011,6,1,1.0
+KOR,South Korea,Seoul,2012,6,2,1.0
+KOR,South Korea,Seoul,2013,0,0,1.0
+KOR,South Korea,Seoul,2014,3,1,1.0
+KOR,South Korea,Seoul,2015,3,1,1.0
+KOR,South Korea,Seoul,2016,12,3,1.0
+KOR,South Korea,Seoul,2017,5,1,1.0
+KOR,South Korea,Seoul,2018,10,2,1.0
+KOR,South Korea,Seoul,2019,0,0,1.0
+KOR,South Korea,Seoul,2020,4,1,1.0
+KOR,South Korea,Seoul,2021,13,3,1.0
+KOR,South Korea,Seoul,2022,0,0,1.0
+KOR,South Korea,Seoul,2023,17,5,1.0
+KOR,South Korea,Seoul,2024,15,4,1.0
+KOR,South Korea,Seoul,2025,8,2,1.0
+KOR,South Korea,Seoul,2026,9,2,0.767
+COL,Colombia,Bogota,2000,3,1,1.0
+COL,Colombia,Bogota,2001,1,1,1.0
+COL,Colombia,Bogota,2002,6,1,1.0
+COL,Colombia,Bogota,2003,0,0,1.0
+COL,Colombia,Bogota,2004,7,2,1.0
+COL,Colombia,Bogota,2005,16,3,1.0
+COL,Colombia,Bogota,2006,0,0,1.0
+COL,Colombia,Bogota,2007,3,1,1.0
+COL,Colombia,Bogota,2008,0,0,1.0
+COL,Colombia,Bogota,2009,17,3,1.0
+COL,Colombia,Bogota,2010,24,6,1.0
+COL,Colombia,Bogota,2011,0,0,1.0
+COL,Colombia,Bogota,2012,0,0,1.0
+COL,Colombia,Bogota,2013,0,0,1.0
+COL,Colombia,Bogota,2014,0,0,1.0
+COL,Colombia,Bogota,2015,0,0,1.0
+COL,Colombia,Bogota,2016,5,1,1.0
+COL,Colombia,Bogota,2017,0,0,1.0
+COL,Colombia,Bogota,2018,0,0,1.0
+COL,Colombia,Bogota,2019,0,0,1.0
+COL,Colombia,Bogota,2020,0,0,1.0
+COL,Colombia,Bogota,2021,0,0,1.0
+COL,Colombia,Bogota,2022,0,0,1.0
+COL,Colombia,Bogota,2023,0,0,1.0
+COL,Colombia,Bogota,2024,0,0,1.0
+COL,Colombia,Bogota,2025,0,0,1.0
+COL,Colombia,Bogota,2026,0,0,0.764
+ESP,Spain,Madrid,2000,3,1,1.0
+ESP,Spain,Madrid,2001,7,1,1.0
+ESP,Spain,Madrid,2002,4,1,1.0
+ESP,Spain,Madrid,2003,0,0,1.0
+ESP,Spain,Madrid,2004,7,2,1.0
+ESP,Spain,Madrid,2005,0,0,1.0
+ESP,Spain,Madrid,2006,5,1,1.0
+ESP,Spain,Madrid,2007,0,0,1.0
+ESP,Spain,Madrid,2008,0,0,1.0
+ESP,Spain,Madrid,2009,0,0,1.0
+ESP,Spain,Madrid,2010,0,0,1.0
+ESP,Spain,Madrid,2011,7,2,1.0
+ESP,Spain,Madrid,2012,7,2,1.0
+ESP,Spain,Madrid,2013,0,0,1.0
+ESP,Spain,Madrid,2014,10,3,1.0
+ESP,Spain,Madrid,2015,20,5,1.0
+ESP,Spain,Madrid,2016,5,1,1.0
+ESP,Spain,Madrid,2017,26,6,1.0
+ESP,Spain,Madrid,2018,10,2,1.0
+ESP,Spain,Madrid,2019,9,2,1.0
+ESP,Spain,Madrid,2020,7,2,1.0
+ESP,Spain,Madrid,2021,5,2,1.0
+ESP,Spain,Madrid,2022,13,3,1.0
+ESP,Spain,Madrid,2023,17,4,1.0
+ESP,Spain,Madrid,2024,8,2,1.0
+ESP,Spain,Madrid,2025,4,1,1.0
+ESP,Spain,Madrid,2026,25,6,0.767
+ARG,Argentina,Buenos Aires,2000,0,0,1.0
+ARG,Argentina,Buenos Aires,2001,3,1,1.0
+ARG,Argentina,Buenos Aires,2002,7,2,1.0
+ARG,Argentina,Buenos Aires,2003,0,0,1.0
+ARG,Argentina,Buenos Aires,2004,13,3,1.0
+ARG,Argentina,Buenos Aires,2005,3,1,1.0
+ARG,Argentina,Buenos Aires,2006,3,1,1.0
+ARG,Argentina,Buenos Aires,2007,7,2,1.0
+ARG,Argentina,Buenos Aires,2008,11,3,1.0
+ARG,Argentina,Buenos Aires,2009,11,3,1.0
+ARG,Argentina,Buenos Aires,2010,3,1,1.0
+ARG,Argentina,Buenos Aires,2011,0,0,1.0
+ARG,Argentina,Buenos Aires,2012,4,1,1.0
+ARG,Argentina,Buenos Aires,2013,13,4,1.0
+ARG,Argentina,Buenos Aires,2014,4,1,1.0
+ARG,Argentina,Buenos Aires,2015,7,1,1.0
+ARG,Argentina,Buenos Aires,2016,0,0,1.0
+ARG,Argentina,Buenos Aires,2017,9,2,1.0
+ARG,Argentina,Buenos Aires,2018,3,1,1.0
+ARG,Argentina,Buenos Aires,2019,4,1,1.0
+ARG,Argentina,Buenos Aires,2020,4,1,1.0
+ARG,Argentina,Buenos Aires,2021,8,2,1.0
+ARG,Argentina,Buenos Aires,2022,8,2,1.0
+ARG,Argentina,Buenos Aires,2023,23,6,1.0
+ARG,Argentina,Buenos Aires,2024,7,2,1.0
+ARG,Argentina,Buenos Aires,2025,3,1,1.0
+ARG,Argentina,Buenos Aires,2026,0,0,0.764
+UKR,Ukraine,Kyiv,2000,0,0,1.0
+UKR,Ukraine,Kyiv,2001,3,1,1.0
+UKR,Ukraine,Kyiv,2002,13,3,1.0
+UKR,Ukraine,Kyiv,2003,3,1,1.0
+UKR,Ukraine,Kyiv,2004,0,0,1.0
+UKR,Ukraine,Kyiv,2005,7,2,1.0
+UKR,Ukraine,Kyiv,2006,0,0,1.0
+UKR,Ukraine,Kyiv,2007,22,4,1.0
+UKR,Ukraine,Kyiv,2008,8,2,1.0
+UKR,Ukraine,Kyiv,2009,3,1,1.0
+UKR,Ukraine,Kyiv,2010,28,6,1.0
+UKR,Ukraine,Kyiv,2011,7,2,1.0
+UKR,Ukraine,Kyiv,2012,7,2,1.0
+UKR,Ukraine,Kyiv,2013,8,2,1.0
+UKR,Ukraine,Kyiv,2014,12,3,1.0
+UKR,Ukraine,Kyiv,2015,7,2,1.0
+UKR,Ukraine,Kyiv,2016,0,0,1.0
+UKR,Ukraine,Kyiv,2017,0,0,1.0
+UKR,Ukraine,Kyiv,2018,13,3,1.0
+UKR,Ukraine,Kyiv,2019,18,4,1.0
+UKR,Ukraine,Kyiv,2020,11,4,1.0
+UKR,Ukraine,Kyiv,2021,9,2,1.0
+UKR,Ukraine,Kyiv,2022,0,0,1.0
+UKR,Ukraine,Kyiv,2023,9,3,1.0
+UKR,Ukraine,Kyiv,2024,18,4,1.0
+UKR,Ukraine,Kyiv,2025,25,5,1.0
+UKR,Ukraine,Kyiv,2026,10,3,0.767
+UGA,Uganda,Kampala,2000,0,0,1.0
+UGA,Uganda,Kampala,2001,0,0,1.0
+UGA,Uganda,Kampala,2002,0,0,1.0
+UGA,Uganda,Kampala,2003,3,1,1.0
+UGA,Uganda,Kampala,2004,0,0,1.0
+UGA,Uganda,Kampala,2005,9,2,1.0
+UGA,Uganda,Kampala,2006,3,1,1.0
+UGA,Uganda,Kampala,2007,0,0,1.0
+UGA,Uganda,Kampala,2008,0,0,1.0
+UGA,Uganda,Kampala,2009,3,1,1.0
+UGA,Uganda,Kampala,2010,0,0,1.0
+UGA,Uganda,Kampala,2011,0,0,1.0
+UGA,Uganda,Kampala,2012,10,3,1.0
+UGA,Uganda,Kampala,2013,0,0,1.0
+UGA,Uganda,Kampala,2014,8,2,1.0
+UGA,Uganda,Kampala,2015,23,6,1.0
+UGA,Uganda,Kampala,2016,14,4,1.0
+UGA,Uganda,Kampala,2017,3,1,1.0
+UGA,Uganda,Kampala,2018,0,0,1.0
+UGA,Uganda,Kampala,2019,9,3,1.0
+UGA,Uganda,Kampala,2020,0,0,1.0
+UGA,Uganda,Kampala,2021,6,2,1.0
+UGA,Uganda,Kampala,2022,3,1,1.0
+UGA,Uganda,Kampala,2023,15,4,1.0
+UGA,Uganda,Kampala,2024,36,9,1.0
+UGA,Uganda,Kampala,2025,13,3,1.0
+UGA,Uganda,Kampala,2026,36,8,0.767
+DZA,Algeria,Algiers,2000,0,0,1.0
+DZA,Algeria,Algiers,2001,4,1,1.0
+DZA,Algeria,Algiers,2002,0,0,1.0
+DZA,Algeria,Algiers,2003,0,0,1.0
+DZA,Algeria,Algiers,2004,4,1,1.0
+DZA,Algeria,Algiers,2005,0,0,1.0
+DZA,Algeria,Algiers,2006,0,0,1.0
+DZA,Algeria,Algiers,2007,5,1,1.0
+DZA,Algeria,Algiers,2008,0,0,1.0
+DZA,Algeria,Algiers,2009,11,3,1.0
+DZA,Algeria,Algiers,2010,4,1,1.0
+DZA,Algeria,Algiers,2011,0,0,1.0
+DZA,Algeria,Algiers,2012,0,0,1.0
+DZA,Algeria,Algiers,2013,0,0,1.0
+DZA,Algeria,Algiers,2014,4,1,1.0
+DZA,Algeria,Algiers,2015,8,2,1.0
+DZA,Algeria,Algiers,2016,6,2,1.0
+DZA,Algeria,Algiers,2017,3,1,1.0
+DZA,Algeria,Algiers,2018,0,0,1.0
+DZA,Algeria,Algiers,2019,3,1,1.0
+DZA,Algeria,Algiers,2020,0,0,1.0
+DZA,Algeria,Algiers,2021,7,2,1.0
+DZA,Algeria,Algiers,2022,20,5,1.0
+DZA,Algeria,Algiers,2023,8,2,1.0
+DZA,Algeria,Algiers,2024,19,5,1.0
+DZA,Algeria,Algiers,2025,3,1,1.0
+DZA,Algeria,Algiers,2026,4,1,0.767
+SDN,Sudan,Khartoum,2000,0,0,1.0
+SDN,Sudan,Khartoum,2001,0,0,1.0
+SDN,Sudan,Khartoum,2002,7,2,1.0
+SDN,Sudan,Khartoum,2003,11,2,1.0
+SDN,Sudan,Khartoum,2004,7,2,1.0
+SDN,Sudan,Khartoum,2005,7,2,1.0
+SDN,Sudan,Khartoum,2006,6,2,1.0
+SDN,Sudan,Khartoum,2007,0,0,1.0
+SDN,Sudan,Khartoum,2008,0,0,1.0
+SDN,Sudan,Khartoum,2009,6,2,1.0
+SDN,Sudan,Khartoum,2010,7,2,1.0
+SDN,Sudan,Khartoum,2011,3,1,1.0
+SDN,Sudan,Khartoum,2012,0,0,1.0
+SDN,Sudan,Khartoum,2013,3,1,1.0
+SDN,Sudan,Khartoum,2014,0,0,1.0
+SDN,Sudan,Khartoum,2015,6,2,1.0
+SDN,Sudan,Khartoum,2016,7,2,1.0
+SDN,Sudan,Khartoum,2017,7,2,1.0
+SDN,Sudan,Khartoum,2018,10,3,1.0
+SDN,Sudan,Khartoum,2019,10,3,1.0
+SDN,Sudan,Khartoum,2020,0,0,1.0
+SDN,Sudan,Khartoum,2021,0,0,1.0
+SDN,Sudan,Khartoum,2022,3,1,1.0
+SDN,Sudan,Khartoum,2023,17,5,1.0
+SDN,Sudan,Khartoum,2024,4,1,1.0
+SDN,Sudan,Khartoum,2025,3,1,1.0
+SDN,Sudan,Khartoum,2026,46,6,0.767
+IRQ,Iraq,Baghdad,2000,7,2,1.0
+IRQ,Iraq,Baghdad,2001,9,3,1.0
+IRQ,Iraq,Baghdad,2002,3,1,1.0
+IRQ,Iraq,Baghdad,2003,8,2,1.0
+IRQ,Iraq,Baghdad,2004,5,1,1.0
+IRQ,Iraq,Baghdad,2005,16,2,1.0
+IRQ,Iraq,Baghdad,2006,3,1,1.0
+IRQ,Iraq,Baghdad,2007,4,1,1.0
+IRQ,Iraq,Baghdad,2008,16,3,1.0
+IRQ,Iraq,Baghdad,2009,3,1,1.0
+IRQ,Iraq,Baghdad,2010,37,9,1.0
+IRQ,Iraq,Baghdad,2011,4,1,1.0
+IRQ,Iraq,Baghdad,2012,3,1,1.0
+IRQ,Iraq,Baghdad,2013,0,0,1.0
+IRQ,Iraq,Baghdad,2014,0,0,1.0
+IRQ,Iraq,Baghdad,2015,0,0,1.0
+IRQ,Iraq,Baghdad,2016,7,2,1.0
+IRQ,Iraq,Baghdad,2017,16,4,1.0
+IRQ,Iraq,Baghdad,2018,0,0,1.0
+IRQ,Iraq,Baghdad,2019,0,0,1.0
+IRQ,Iraq,Baghdad,2020,7,2,1.0
+IRQ,Iraq,Baghdad,2021,13,4,1.0
+IRQ,Iraq,Baghdad,2022,10,3,1.0
+IRQ,Iraq,Baghdad,2023,3,1,1.0
+IRQ,Iraq,Baghdad,2024,10,2,1.0
+IRQ,Iraq,Baghdad,2025,3,1,1.0
+IRQ,Iraq,Baghdad,2026,3,1,0.767
+AFG,Afghanistan,Kabul,2000,21,5,1.0
+AFG,Afghanistan,Kabul,2001,7,2,1.0
+AFG,Afghanistan,Kabul,2002,6,1,1.0
+AFG,Afghanistan,Kabul,2003,7,2,1.0
+AFG,Afghanistan,Kabul,2004,20,5,1.0
+AFG,Afghanistan,Kabul,2005,6,2,1.0
+AFG,Afghanistan,Kabul,2006,11,3,1.0
+AFG,Afghanistan,Kabul,2007,6,2,1.0
+AFG,Afghanistan,Kabul,2008,7,2,1.0
+AFG,Afghanistan,Kabul,2009,0,0,1.0
+AFG,Afghanistan,Kabul,2010,9,2,1.0
+AFG,Afghanistan,Kabul,2011,6,2,1.0
+AFG,Afghanistan,Kabul,2012,3,1,1.0
+AFG,Afghanistan,Kabul,2013,4,1,1.0
+AFG,Afghanistan,Kabul,2014,0,0,1.0
+AFG,Afghanistan,Kabul,2015,0,0,1.0
+AFG,Afghanistan,Kabul,2016,18,3,1.0
+AFG,Afghanistan,Kabul,2017,5,1,1.0
+AFG,Afghanistan,Kabul,2018,8,2,1.0
+AFG,Afghanistan,Kabul,2019,3,1,1.0
+AFG,Afghanistan,Kabul,2020,3,1,1.0
+AFG,Afghanistan,Kabul,2021,14,1,1.0
+AFG,Afghanistan,Kabul,2022,6,2,1.0
+AFG,Afghanistan,Kabul,2023,0,0,1.0
+AFG,Afghanistan,Kabul,2024,9,2,1.0
+AFG,Afghanistan,Kabul,2025,16,5,1.0
+AFG,Afghanistan,Kabul,2026,5,1,0.767
+POL,Poland,Warsaw,2000,12,3,1.0
+POL,Poland,Warsaw,2001,0,0,1.0
+POL,Poland,Warsaw,2002,11,3,1.0
+POL,Poland,Warsaw,2003,0,0,1.0
+POL,Poland,Warsaw,2004,3,1,1.0
+POL,Poland,Warsaw,2005,10,3,1.0
+POL,Poland,Warsaw,2006,11,2,1.0
+POL,Poland,Warsaw,2007,12,3,1.0
+POL,Poland,Warsaw,2008,0,0,1.0
+POL,Poland,Warsaw,2009,0,0,1.0
+POL,Poland,Warsaw,2010,3,1,1.0
+POL,Poland,Warsaw,2011,0,0,1.0
+POL,Poland,Warsaw,2012,4,1,1.0
+POL,Poland,Warsaw,2013,3,1,1.0
+POL,Poland,Warsaw,2014,3,1,1.0
+POL,Poland,Warsaw,2015,9,2,1.0
+POL,Poland,Warsaw,2016,7,2,1.0
+POL,Poland,Warsaw,2017,3,1,1.0
+POL,Poland,Warsaw,2018,12,4,1.0
+POL,Poland,Warsaw,2019,13,4,1.0
+POL,Poland,Warsaw,2020,0,0,1.0
+POL,Poland,Warsaw,2021,6,2,1.0
+POL,Poland,Warsaw,2022,4,1,1.0
+POL,Poland,Warsaw,2023,12,3,1.0
+POL,Poland,Warsaw,2024,15,4,1.0
+POL,Poland,Warsaw,2025,16,4,1.0
+POL,Poland,Warsaw,2026,11,2,0.767
+CAN,Canada,Ottawa,2000,7,2,1.0
+CAN,Canada,Ottawa,2001,11,3,1.0
+CAN,Canada,Ottawa,2002,11,3,1.0
+CAN,Canada,Ottawa,2003,0,0,1.0
+CAN,Canada,Ottawa,2004,0,0,1.0
+CAN,Canada,Ottawa,2005,6,2,1.0
+CAN,Canada,Ottawa,2006,3,1,1.0
+CAN,Canada,Ottawa,2007,0,0,1.0
+CAN,Canada,Ottawa,2008,3,1,1.0
+CAN,Canada,Ottawa,2009,0,0,1.0
+CAN,Canada,Ottawa,2010,18,4,1.0
+CAN,Canada,Ottawa,2011,0,0,1.0
+CAN,Canada,Ottawa,2012,6,1,1.0
+CAN,Canada,Ottawa,2013,4,1,1.0
+CAN,Canada,Ottawa,2014,0,0,1.0
+CAN,Canada,Ottawa,2015,12,4,1.0
+CAN,Canada,Ottawa,2016,3,1,1.0
+CAN,Canada,Ottawa,2017,6,1,1.0
+CAN,Canada,Ottawa,2018,6,2,1.0
+CAN,Canada,Ottawa,2019,0,0,1.0
+CAN,Canada,Ottawa,2020,5,1,1.0
+CAN,Canada,Ottawa,2021,10,3,1.0
+CAN,Canada,Ottawa,2022,13,3,1.0
+CAN,Canada,Ottawa,2023,12,4,1.0
+CAN,Canada,Ottawa,2024,12,4,1.0
+CAN,Canada,Ottawa,2025,7,2,1.0
+CAN,Canada,Ottawa,2026,0,0,0.764
+MAR,Morocco,Rabat,2000,12,3,1.0
+MAR,Morocco,Rabat,2001,8,2,1.0
+MAR,Morocco,Rabat,2002,4,1,1.0
+MAR,Morocco,Rabat,2003,9,2,1.0
+MAR,Morocco,Rabat,2004,0,0,1.0
+MAR,Morocco,Rabat,2005,6,2,1.0
+MAR,Morocco,Rabat,2006,6,1,1.0
+MAR,Morocco,Rabat,2007,0,0,1.0
+MAR,Morocco,Rabat,2008,0,0,1.0
+MAR,Morocco,Rabat,2009,0,0,1.0
+MAR,Morocco,Rabat,2010,13,4,1.0
+MAR,Morocco,Rabat,2011,3,1,1.0
+MAR,Morocco,Rabat,2012,14,3,1.0
+MAR,Morocco,Rabat,2013,3,1,1.0
+MAR,Morocco,Rabat,2014,0,0,1.0
+MAR,Morocco,Rabat,2015,3,1,1.0
+MAR,Morocco,Rabat,2016,0,0,1.0
+MAR,Morocco,Rabat,2017,15,4,1.0
+MAR,Morocco,Rabat,2018,3,1,1.0
+MAR,Morocco,Rabat,2019,6,2,1.0
+MAR,Morocco,Rabat,2020,9,2,1.0
+MAR,Morocco,Rabat,2021,5,2,1.0
+MAR,Morocco,Rabat,2022,19,5,1.0
+MAR,Morocco,Rabat,2023,18,4,1.0
+MAR,Morocco,Rabat,2024,17,4,1.0
+MAR,Morocco,Rabat,2025,10,3,1.0
+MAR,Morocco,Rabat,2026,24,5,0.767
+SAU,Saudi Arabia,Riyadh,2000,0,0,1.0
+SAU,Saudi Arabia,Riyadh,2001,3,1,1.0
+SAU,Saudi Arabia,Riyadh,2002,0,0,1.0
+SAU,Saudi Arabia,Riyadh,2003,3,1,1.0
+SAU,Saudi Arabia,Riyadh,2004,0,0,1.0
+SAU,Saudi Arabia,Riyadh,2005,7,2,1.0
+SAU,Saudi Arabia,Riyadh,2006,0,0,1.0
+SAU,Saudi Arabia,Riyadh,2007,0,0,1.0
+SAU,Saudi Arabia,Riyadh,2008,0,0,1.0
+SAU,Saudi Arabia,Riyadh,2009,3,1,1.0
+SAU,Saudi Arabia,Riyadh,2010,15,3,1.0
+SAU,Saudi Arabia,Riyadh,2011,6,2,1.0
+SAU,Saudi Arabia,Riyadh,2012,5,1,1.0
+SAU,Saudi Arabia,Riyadh,2013,0,0,1.0
+SAU,Saudi Arabia,Riyadh,2014,0,0,1.0
+SAU,Saudi Arabia,Riyadh,2015,4,1,1.0
+SAU,Saudi Arabia,Riyadh,2016,2,1,1.0
+SAU,Saudi Arabia,Riyadh,2017,5,1,1.0
+SAU,Saudi Arabia,Riyadh,2018,6,2,1.0
+SAU,Saudi Arabia,Riyadh,2019,4,1,1.0
+SAU,Saudi Arabia,Riyadh,2020,6,2,1.0
+SAU,Saudi Arabia,Riyadh,2021,14,4,1.0
+SAU,Saudi Arabia,Riyadh,2022,8,2,1.0
+SAU,Saudi Arabia,Riyadh,2023,7,2,1.0
+SAU,Saudi Arabia,Riyadh,2024,7,2,1.0
+SAU,Saudi Arabia,Riyadh,2025,6,2,1.0
+SAU,Saudi Arabia,Riyadh,2026,18,5,0.767
+UZB,Uzbekistan,Tashkent,2000,3,1,1.0
+UZB,Uzbekistan,Tashkent,2001,6,2,1.0
+UZB,Uzbekistan,Tashkent,2002,3,1,1.0
+UZB,Uzbekistan,Tashkent,2003,3,1,1.0
+UZB,Uzbekistan,Tashkent,2004,0,0,1.0
+UZB,Uzbekistan,Tashkent,2005,0,0,1.0
+UZB,Uzbekistan,Tashkent,2006,3,1,1.0
+UZB,Uzbekistan,Tashkent,2007,11,3,1.0
+UZB,Uzbekistan,Tashkent,2008,9,3,1.0
+UZB,Uzbekistan,Tashkent,2009,0,0,1.0
+UZB,Uzbekistan,Tashkent,2010,6,2,1.0
+UZB,Uzbekistan,Tashkent,2011,7,2,1.0
+UZB,Uzbekistan,Tashkent,2012,5,1,1.0
+UZB,Uzbekistan,Tashkent,2013,13,4,1.0
+UZB,Uzbekistan,Tashkent,2014,5,1,1.0
+UZB,Uzbekistan,Tashkent,2015,12,4,1.0
+UZB,Uzbekistan,Tashkent,2016,13,3,1.0
+UZB,Uzbekistan,Tashkent,2017,10,3,1.0
+UZB,Uzbekistan,Tashkent,2018,8,2,1.0
+UZB,Uzbekistan,Tashkent,2019,0,0,1.0
+UZB,Uzbekistan,Tashkent,2020,0,0,1.0
+UZB,Uzbekistan,Tashkent,2021,24,4,1.0
+UZB,Uzbekistan,Tashkent,2022,6,2,1.0
+UZB,Uzbekistan,Tashkent,2023,0,0,1.0
+UZB,Uzbekistan,Tashkent,2024,0,0,1.0
+UZB,Uzbekistan,Tashkent,2025,7,2,1.0
+UZB,Uzbekistan,Tashkent,2026,9,3,0.767
+PER,Peru,Lima,2000,3,1,1.0
+PER,Peru,Lima,2001,0,0,1.0
+PER,Peru,Lima,2002,9,2,1.0
+PER,Peru,Lima,2003,0,0,1.0
+PER,Peru,Lima,2004,0,0,1.0
+PER,Peru,Lima,2005,0,0,1.0
+PER,Peru,Lima,2006,0,0,1.0
+PER,Peru,Lima,2007,0,0,1.0
+PER,Peru,Lima,2008,0,0,1.0
+PER,Peru,Lima,2009,0,0,1.0
+PER,Peru,Lima,2010,0,0,1.0
+PER,Peru,Lima,2011,0,0,1.0
+PER,Peru,Lima,2012,0,0,1.0
+PER,Peru,Lima,2013,0,0,1.0
+PER,Peru,Lima,2014,0,0,1.0
+PER,Peru,Lima,2015,31,8,1.0
+PER,Peru,Lima,2016,3,1,1.0
+PER,Peru,Lima,2017,6,2,1.0
+PER,Peru,Lima,2018,0,0,1.0
+PER,Peru,Lima,2019,0,0,1.0
+PER,Peru,Lima,2020,0,0,1.0
+PER,Peru,Lima,2021,0,0,1.0
+PER,Peru,Lima,2022,0,0,1.0
+PER,Peru,Lima,2023,129,19,1.0
+PER,Peru,Lima,2024,31,2,1.0
+PER,Peru,Lima,2025,0,0,1.0
+PER,Peru,Lima,2026,126,7,0.764
+MYS,Malaysia,Kuala Lumpur,2000,0,0,1.0
+MYS,Malaysia,Kuala Lumpur,2001,0,0,1.0
+MYS,Malaysia,Kuala Lumpur,2002,17,3,1.0
+MYS,Malaysia,Kuala Lumpur,2003,0,0,1.0
+MYS,Malaysia,Kuala Lumpur,2004,0,0,1.0
+MYS,Malaysia,Kuala Lumpur,2005,21,4,1.0
+MYS,Malaysia,Kuala Lumpur,2006,0,0,1.0
+MYS,Malaysia,Kuala Lumpur,2007,0,0,1.0
+MYS,Malaysia,Kuala Lumpur,2008,0,0,1.0
+MYS,Malaysia,Kuala Lumpur,2009,0,0,1.0
+MYS,Malaysia,Kuala Lumpur,2010,0,0,1.0
+MYS,Malaysia,Kuala Lumpur,2011,0,0,1.0
+MYS,Malaysia,Kuala Lumpur,2012,0,0,1.0
+MYS,Malaysia,Kuala Lumpur,2013,8,1,1.0
+MYS,Malaysia,Kuala Lumpur,2014,6,2,1.0
+MYS,Malaysia,Kuala Lumpur,2015,0,0,1.0
+MYS,Malaysia,Kuala Lumpur,2016,36,9,1.0
+MYS,Malaysia,Kuala Lumpur,2017,7,1,1.0
+MYS,Malaysia,Kuala Lumpur,2018,3,1,1.0
+MYS,Malaysia,Kuala Lumpur,2019,0,0,1.0
+MYS,Malaysia,Kuala Lumpur,2020,19,4,1.0
+MYS,Malaysia,Kuala Lumpur,2021,3,1,1.0
+MYS,Malaysia,Kuala Lumpur,2022,0,0,1.0
+MYS,Malaysia,Kuala Lumpur,2023,0,0,1.0
+MYS,Malaysia,Kuala Lumpur,2024,6,2,1.0
+MYS,Malaysia,Kuala Lumpur,2025,0,0,1.0
+MYS,Malaysia,Kuala Lumpur,2026,18,4,0.767
+AGO,Angola,Luanda,2000,8,2,1.0
+AGO,Angola,Luanda,2001,7,2,1.0
+AGO,Angola,Luanda,2002,3,1,1.0
+AGO,Angola,Luanda,2003,12,3,1.0
+AGO,Angola,Luanda,2004,7,2,1.0
+AGO,Angola,Luanda,2005,0,0,1.0
+AGO,Angola,Luanda,2006,3,1,1.0
+AGO,Angola,Luanda,2007,0,0,1.0
+AGO,Angola,Luanda,2008,9,2,1.0
+AGO,Angola,Luanda,2009,7,2,1.0
+AGO,Angola,Luanda,2010,6,1,1.0
+AGO,Angola,Luanda,2011,0,0,1.0
+AGO,Angola,Luanda,2012,0,0,1.0
+AGO,Angola,Luanda,2013,3,1,1.0
+AGO,Angola,Luanda,2014,0,0,1.0
+AGO,Angola,Luanda,2015,0,0,1.0
+AGO,Angola,Luanda,2016,0,0,1.0
+AGO,Angola,Luanda,2017,0,0,1.0
+AGO,Angola,Luanda,2018,3,1,1.0
+AGO,Angola,Luanda,2019,0,0,1.0
+AGO,Angola,Luanda,2020,3,1,1.0
+AGO,Angola,Luanda,2021,0,0,1.0
+AGO,Angola,Luanda,2022,7,2,1.0
+AGO,Angola,Luanda,2023,0,0,1.0
+AGO,Angola,Luanda,2024,22,4,1.0
+AGO,Angola,Luanda,2025,3,1,1.0
+AGO,Angola,Luanda,2026,3,1,0.767
+GHA,Ghana,Accra,2000,0,0,1.0
+GHA,Ghana,Accra,2001,0,0,1.0
+GHA,Ghana,Accra,2002,0,0,1.0
+GHA,Ghana,Accra,2003,3,1,1.0
+GHA,Ghana,Accra,2004,0,0,1.0
+GHA,Ghana,Accra,2005,0,0,1.0
+GHA,Ghana,Accra,2006,4,1,1.0
+GHA,Ghana,Accra,2007,3,1,1.0
+GHA,Ghana,Accra,2008,0,0,1.0
+GHA,Ghana,Accra,2009,6,2,1.0
+GHA,Ghana,Accra,2010,5,1,1.0
+GHA,Ghana,Accra,2011,0,0,1.0
+GHA,Ghana,Accra,2012,0,0,1.0
+GHA,Ghana,Accra,2013,0,0,1.0
+GHA,Ghana,Accra,2014,0,0,1.0
+GHA,Ghana,Accra,2015,0,0,1.0
+GHA,Ghana,Accra,2016,3,1,1.0
+GHA,Ghana,Accra,2017,0,0,1.0
+GHA,Ghana,Accra,2018,0,0,1.0
+GHA,Ghana,Accra,2019,3,1,1.0
+GHA,Ghana,Accra,2020,10,3,1.0
+GHA,Ghana,Accra,2021,3,1,1.0
+GHA,Ghana,Accra,2022,0,0,1.0
+GHA,Ghana,Accra,2023,12,2,1.0
+GHA,Ghana,Accra,2024,7,2,1.0
+GHA,Ghana,Accra,2025,0,0,1.0
+GHA,Ghana,Accra,2026,0,0,0.767
+MOZ,Mozambique,Maputo,2000,0,0,1.0
+MOZ,Mozambique,Maputo,2001,0,0,1.0
+MOZ,Mozambique,Maputo,2002,0,0,1.0
+MOZ,Mozambique,Maputo,2003,0,0,1.0
+MOZ,Mozambique,Maputo,2004,0,0,1.0
+MOZ,Mozambique,Maputo,2005,0,0,1.0
+MOZ,Mozambique,Maputo,2006,0,0,1.0
+MOZ,Mozambique,Maputo,2007,3,1,1.0
+MOZ,Mozambique,Maputo,2008,0,0,1.0
+MOZ,Mozambique,Maputo,2009,0,0,1.0
+MOZ,Mozambique,Maputo,2010,0,0,1.0
+MOZ,Mozambique,Maputo,2011,3,1,1.0
+MOZ,Mozambique,Maputo,2012,3,1,1.0
+MOZ,Mozambique,Maputo,2013,0,0,1.0
+MOZ,Mozambique,Maputo,2014,0,0,1.0
+MOZ,Mozambique,Maputo,2015,0,0,1.0
+MOZ,Mozambique,Maputo,2016,0,0,1.0
+MOZ,Mozambique,Maputo,2017,0,0,1.0
+MOZ,Mozambique,Maputo,2018,0,0,1.0
+MOZ,Mozambique,Maputo,2019,3,1,1.0
+MOZ,Mozambique,Maputo,2020,0,0,1.0
+MOZ,Mozambique,Maputo,2021,6,2,1.0
+MOZ,Mozambique,Maputo,2022,0,0,1.0
+MOZ,Mozambique,Maputo,2023,4,1,1.0
+MOZ,Mozambique,Maputo,2024,0,0,1.0
+MOZ,Mozambique,Maputo,2025,0,0,1.0
+MOZ,Mozambique,Maputo,2026,0,0,0.767
+YEM,Yemen,Sanaa,2000,0,0,1.0
+YEM,Yemen,Sanaa,2001,8,2,1.0
+YEM,Yemen,Sanaa,2002,3,1,1.0
+YEM,Yemen,Sanaa,2003,12,3,1.0
+YEM,Yemen,Sanaa,2004,5,1,1.0
+YEM,Yemen,Sanaa,2005,9,2,1.0
+YEM,Yemen,Sanaa,2006,3,1,1.0
+YEM,Yemen,Sanaa,2007,3,1,1.0
+YEM,Yemen,Sanaa,2008,0,0,1.0
+YEM,Yemen,Sanaa,2009,15,4,1.0
+YEM,Yemen,Sanaa,2010,0,0,1.0
+YEM,Yemen,Sanaa,2011,0,0,1.0
+YEM,Yemen,Sanaa,2012,0,0,1.0
+YEM,Yemen,Sanaa,2013,0,0,1.0
+YEM,Yemen,Sanaa,2014,0,0,1.0
+YEM,Yemen,Sanaa,2015,6,2,1.0
+YEM,Yemen,Sanaa,2016,4,1,1.0
+YEM,Yemen,Sanaa,2017,6,2,1.0
+YEM,Yemen,Sanaa,2018,0,0,1.0
+YEM,Yemen,Sanaa,2019,7,2,1.0
+YEM,Yemen,Sanaa,2020,3,1,1.0
+YEM,Yemen,Sanaa,2021,13,3,1.0
+YEM,Yemen,Sanaa,2022,13,3,1.0
+YEM,Yemen,Sanaa,2023,17,5,1.0
+YEM,Yemen,Sanaa,2024,0,0,1.0
+YEM,Yemen,Sanaa,2025,7,2,1.0
+YEM,Yemen,Sanaa,2026,10,2,0.767
+NPL,Nepal,Kathmandu,2000,4,1,1.0
+NPL,Nepal,Kathmandu,2001,0,0,1.0
+NPL,Nepal,Kathmandu,2002,0,0,1.0
+NPL,Nepal,Kathmandu,2003,0,0,1.0
+NPL,Nepal,Kathmandu,2004,3,1,1.0
+NPL,Nepal,Kathmandu,2005,7,1,1.0
+NPL,Nepal,Kathmandu,2006,15,3,1.0
+NPL,Nepal,Kathmandu,2007,0,0,1.0
+NPL,Nepal,Kathmandu,2008,0,0,1.0
+NPL,Nepal,Kathmandu,2009,12,4,1.0
+NPL,Nepal,Kathmandu,2010,9,2,1.0
+NPL,Nepal,Kathmandu,2011,0,0,1.0
+NPL,Nepal,Kathmandu,2012,4,1,1.0
+NPL,Nepal,Kathmandu,2013,0,0,1.0
+NPL,Nepal,Kathmandu,2014,3,1,1.0
+NPL,Nepal,Kathmandu,2015,4,1,1.0
+NPL,Nepal,Kathmandu,2016,3,1,1.0
+NPL,Nepal,Kathmandu,2017,13,3,1.0
+NPL,Nepal,Kathmandu,2018,0,0,1.0
+NPL,Nepal,Kathmandu,2019,3,1,1.0
+NPL,Nepal,Kathmandu,2020,10,2,1.0
+NPL,Nepal,Kathmandu,2021,11,2,1.0
+NPL,Nepal,Kathmandu,2022,16,5,1.0
+NPL,Nepal,Kathmandu,2023,12,3,1.0
+NPL,Nepal,Kathmandu,2024,22,5,1.0
+NPL,Nepal,Kathmandu,2025,13,4,1.0
+NPL,Nepal,Kathmandu,2026,4,1,0.767
+VEN,Venezuela,Caracas,2000,0,0,1.0
+VEN,Venezuela,Caracas,2001,0,0,1.0
+VEN,Venezuela,Caracas,2002,0,0,1.0
+VEN,Venezuela,Caracas,2003,9,3,1.0
+VEN,Venezuela,Caracas,2004,0,0,1.0
+VEN,Venezuela,Caracas,2005,0,0,1.0
+VEN,Venezuela,Caracas,2006,0,0,1.0
+VEN,Venezuela,Caracas,2007,0,0,1.0
+VEN,Venezuela,Caracas,2008,0,0,1.0
+VEN,Venezuela,Caracas,2009,3,1,1.0
+VEN,Venezuela,Caracas,2010,6,2,1.0
+VEN,Venezuela,Caracas,2011,0,0,1.0
+VEN,Venezuela,Caracas,2012,0,0,1.0
+VEN,Venezuela,Caracas,2013,3,1,1.0
+VEN,Venezuela,Caracas,2014,15,4,1.0
+VEN,Venezuela,Caracas,2015,49,10,1.0
+VEN,Venezuela,Caracas,2016,11,3,1.0
+VEN,Venezuela,Caracas,2017,0,0,1.0
+VEN,Venezuela,Caracas,2018,6,2,1.0
+VEN,Venezuela,Caracas,2019,3,1,1.0
+VEN,Venezuela,Caracas,2020,11,3,1.0
+VEN,Venezuela,Caracas,2021,0,0,1.0
+VEN,Venezuela,Caracas,2022,0,0,1.0
+VEN,Venezuela,Caracas,2023,11,3,1.0
+VEN,Venezuela,Caracas,2024,18,5,1.0
+VEN,Venezuela,Caracas,2025,6,2,1.0
+VEN,Venezuela,Caracas,2026,39,8,0.764
+MDG,Madagascar,Antananarivo,2000,4,1,1.0
+MDG,Madagascar,Antananarivo,2001,3,1,1.0
+MDG,Madagascar,Antananarivo,2002,3,1,1.0
+MDG,Madagascar,Antananarivo,2003,0,0,1.0
+MDG,Madagascar,Antananarivo,2004,3,1,1.0
+MDG,Madagascar,Antananarivo,2005,0,0,1.0
+MDG,Madagascar,Antananarivo,2006,9,3,1.0
+MDG,Madagascar,Antananarivo,2007,0,0,1.0
+MDG,Madagascar,Antananarivo,2008,0,0,1.0
+MDG,Madagascar,Antananarivo,2009,0,0,1.0
+MDG,Madagascar,Antananarivo,2010,0,0,1.0
+MDG,Madagascar,Antananarivo,2011,6,2,1.0
+MDG,Madagascar,Antananarivo,2012,0,0,1.0
+MDG,Madagascar,Antananarivo,2013,0,0,1.0
+MDG,Madagascar,Antananarivo,2014,9,3,1.0
+MDG,Madagascar,Antananarivo,2015,4,1,1.0
+MDG,Madagascar,Antananarivo,2016,4,1,1.0
+MDG,Madagascar,Antananarivo,2017,10,2,1.0
+MDG,Madagascar,Antananarivo,2018,4,1,1.0
+MDG,Madagascar,Antananarivo,2019,11,2,1.0
+MDG,Madagascar,Antananarivo,2020,3,1,1.0
+MDG,Madagascar,Antananarivo,2021,14,4,1.0
+MDG,Madagascar,Antananarivo,2022,0,0,1.0
+MDG,Madagascar,Antananarivo,2023,10,2,1.0
+MDG,Madagascar,Antananarivo,2024,27,8,1.0
+MDG,Madagascar,Antananarivo,2025,10,3,1.0
+MDG,Madagascar,Antananarivo,2026,3,1,0.767
+CMR,Cameroon,Yaoundé,2000,3,1,1.0
+CMR,Cameroon,Yaoundé,2001,0,0,1.0
+CMR,Cameroon,Yaoundé,2002,0,0,1.0
+CMR,Cameroon,Yaoundé,2003,0,0,1.0
+CMR,Cameroon,Yaoundé,2004,0,0,1.0
+CMR,Cameroon,Yaoundé,2005,0,0,1.0
+CMR,Cameroon,Yaoundé,2006,0,0,1.0
+CMR,Cameroon,Yaoundé,2007,0,0,1.0
+CMR,Cameroon,Yaoundé,2008,0,0,1.0
+CMR,Cameroon,Yaoundé,2009,0,0,1.0
+CMR,Cameroon,Yaoundé,2010,0,0,1.0
+CMR,Cameroon,Yaoundé,2011,0,0,1.0
+CMR,Cameroon,Yaoundé,2012,0,0,1.0
+CMR,Cameroon,Yaoundé,2013,0,0,1.0
+CMR,Cameroon,Yaoundé,2014,0,0,1.0
+CMR,Cameroon,Yaoundé,2015,0,0,1.0
+CMR,Cameroon,Yaoundé,2016,3,1,1.0
+CMR,Cameroon,Yaoundé,2017,0,0,1.0
+CMR,Cameroon,Yaoundé,2018,10,3,1.0
+CMR,Cameroon,Yaoundé,2019,0,0,1.0
+CMR,Cameroon,Yaoundé,2020,4,1,1.0
+CMR,Cameroon,Yaoundé,2021,6,2,1.0
+CMR,Cameroon,Yaoundé,2022,0,0,1.0
+CMR,Cameroon,Yaoundé,2023,0,0,1.0
+CMR,Cameroon,Yaoundé,2024,15,5,1.0
+CMR,Cameroon,Yaoundé,2025,2,0,1.0
+CMR,Cameroon,Yaoundé,2026,3,1,0.767
+CIV,Côte d'Ivoire,Abidjan,2000,0,0,1.0
+CIV,Côte d'Ivoire,Abidjan,2001,0,0,1.0
+CIV,Côte d'Ivoire,Abidjan,2002,0,0,1.0
+CIV,Côte d'Ivoire,Abidjan,2003,0,0,1.0
+CIV,Côte d'Ivoire,Abidjan,2004,0,0,1.0
+CIV,Côte d'Ivoire,Abidjan,2005,0,0,1.0
+CIV,Côte d'Ivoire,Abidjan,2006,0,0,1.0
+CIV,Côte d'Ivoire,Abidjan,2007,0,0,1.0
+CIV,Côte d'Ivoire,Abidjan,2008,0,0,1.0
+CIV,Côte d'Ivoire,Abidjan,2009,0,0,1.0
+CIV,Côte d'Ivoire,Abidjan,2010,0,0,1.0
+CIV,Côte d'Ivoire,Abidjan,2011,0,0,1.0
+CIV,Côte d'Ivoire,Abidjan,2012,0,0,1.0
+CIV,Côte d'Ivoire,Abidjan,2013,0,0,1.0
+CIV,Côte d'Ivoire,Abidjan,2014,0,0,1.0
+CIV,Côte d'Ivoire,Abidjan,2015,0,0,1.0
+CIV,Côte d'Ivoire,Abidjan,2016,10,3,1.0
+CIV,Côte d'Ivoire,Abidjan,2017,0,0,1.0
+CIV,Côte d'Ivoire,Abidjan,2018,0,0,1.0
+CIV,Côte d'Ivoire,Abidjan,2019,3,1,1.0
+CIV,Côte d'Ivoire,Abidjan,2020,3,1,1.0
+CIV,Côte d'Ivoire,Abidjan,2021,0,0,1.0
+CIV,Côte d'Ivoire,Abidjan,2022,0,0,1.0
+CIV,Côte d'Ivoire,Abidjan,2023,14,3,1.0
+CIV,Côte d'Ivoire,Abidjan,2024,17,5,1.0
+CIV,Côte d'Ivoire,Abidjan,2025,0,0,1.0
+CIV,Côte d'Ivoire,Abidjan,2026,0,0,0.767
+PRK,North Korea,Pyongyang,2000,9,2,1.0
+PRK,North Korea,Pyongyang,2001,3,1,1.0
+PRK,North Korea,Pyongyang,2002,4,1,1.0
+PRK,North Korea,Pyongyang,2003,0,0,1.0
+PRK,North Korea,Pyongyang,2004,0,0,1.0
+PRK,North Korea,Pyongyang,2005,3,1,1.0
+PRK,North Korea,Pyongyang,2006,0,0,1.0
+PRK,North Korea,Pyongyang,2007,4,1,1.0
+PRK,North Korea,Pyongyang,2008,0,0,1.0
+PRK,North Korea,Pyongyang,2009,7,2,1.0
+PRK,North Korea,Pyongyang,2010,3,1,1.0
+PRK,North Korea,Pyongyang,2011,0,0,1.0
+PRK,North Korea,Pyongyang,2012,3,1,1.0
+PRK,North Korea,Pyongyang,2013,0,0,1.0
+PRK,North Korea,Pyongyang,2014,3,1,1.0
+PRK,North Korea,Pyongyang,2015,6,1,1.0
+PRK,North Korea,Pyongyang,2016,0,0,1.0
+PRK,North Korea,Pyongyang,2017,8,2,1.0
+PRK,North Korea,Pyongyang,2018,10,2,1.0
+PRK,North Korea,Pyongyang,2019,6,2,1.0
+PRK,North Korea,Pyongyang,2020,7,2,1.0
+PRK,North Korea,Pyongyang,2021,16,3,1.0
+PRK,North Korea,Pyongyang,2022,6,2,1.0
+PRK,North Korea,Pyongyang,2023,13,4,1.0
+PRK,North Korea,Pyongyang,2024,14,3,1.0
+PRK,North Korea,Pyongyang,2025,8,2,1.0
+PRK,North Korea,Pyongyang,2026,12,3,0.767
+AUS,Australia,Canberra,2000,0,0,1.0
+AUS,Australia,Canberra,2001,9,3,1.0
+AUS,Australia,Canberra,2002,9,3,1.0
+AUS,Australia,Canberra,2003,0,0,1.0
+AUS,Australia,Canberra,2004,14,4,1.0
+AUS,Australia,Canberra,2005,11,4,1.0
+AUS,Australia,Canberra,2006,7,2,1.0
+AUS,Australia,Canberra,2007,7,2,1.0
+AUS,Australia,Canberra,2008,3,1,1.0
+AUS,Australia,Canberra,2009,12,4,1.0
+AUS,Australia,Canberra,2010,0,0,1.0
+AUS,Australia,Canberra,2011,5,1,1.0
+AUS,Australia,Canberra,2012,0,0,1.0
+AUS,Australia,Canberra,2013,12,3,1.0
+AUS,Australia,Canberra,2014,9,2,1.0
+AUS,Australia,Canberra,2015,4,1,1.0
+AUS,Australia,Canberra,2016,9,2,1.0
+AUS,Australia,Canberra,2017,3,1,1.0
+AUS,Australia,Canberra,2018,10,3,1.0
+AUS,Australia,Canberra,2019,15,4,1.0
+AUS,Australia,Canberra,2020,3,1,1.0
+AUS,Australia,Canberra,2021,0,0,1.0
+AUS,Australia,Canberra,2022,0,0,1.0
+AUS,Australia,Canberra,2023,12,3,1.0
+AUS,Australia,Canberra,2024,9,3,1.0
+AUS,Australia,Canberra,2025,6,2,1.0
+AUS,Australia,Canberra,2026,13,4,0.767
+TWN,Taiwan,Taipei,2000,0,0,1.0
+TWN,Taiwan,Taipei,2001,0,0,1.0
+TWN,Taiwan,Taipei,2002,4,1,1.0
+TWN,Taiwan,Taipei,2003,0,0,1.0
+TWN,Taiwan,Taipei,2004,0,0,1.0
+TWN,Taiwan,Taipei,2005,0,0,1.0
+TWN,Taiwan,Taipei,2006,0,0,1.0
+TWN,Taiwan,Taipei,2007,5,1,1.0
+TWN,Taiwan,Taipei,2008,6,2,1.0
+TWN,Taiwan,Taipei,2009,0,0,1.0
+TWN,Taiwan,Taipei,2010,8,2,1.0
+TWN,Taiwan,Taipei,2011,0,0,1.0
+TWN,Taiwan,Taipei,2012,0,0,1.0
+TWN,Taiwan,Taipei,2013,0,0,1.0
+TWN,Taiwan,Taipei,2014,6,2,1.0
+TWN,Taiwan,Taipei,2015,19,6,1.0
+TWN,Taiwan,Taipei,2016,7,2,1.0
+TWN,Taiwan,Taipei,2017,0,0,1.0
+TWN,Taiwan,Taipei,2018,3,1,1.0
+TWN,Taiwan,Taipei,2019,0,0,1.0
+TWN,Taiwan,Taipei,2020,15,5,1.0
+TWN,Taiwan,Taipei,2021,5,1,1.0
+TWN,Taiwan,Taipei,2022,7,2,1.0
+TWN,Taiwan,Taipei,2023,7,2,1.0
+TWN,Taiwan,Taipei,2024,12,4,1.0
+TWN,Taiwan,Taipei,2025,21,3,1.0
+TWN,Taiwan,Taipei,2026,7,2,0.767
+NER,Niger,Niamey,2000,7,2,1.0
+NER,Niger,Niamey,2001,3,1,1.0
+NER,Niger,Niamey,2002,3,1,1.0
+NER,Niger,Niamey,2003,0,0,1.0
+NER,Niger,Niamey,2004,6,1,1.0
+NER,Niger,Niamey,2005,0,0,1.0
+NER,Niger,Niamey,2006,0,0,1.0
+NER,Niger,Niamey,2007,0,0,1.0
+NER,Niger,Niamey,2008,4,1,1.0
+NER,Niger,Niamey,2009,8,2,1.0
+NER,Niger,Niamey,2010,10,1,1.0
+NER,Niger,Niamey,2011,4,1,1.0
+NER,Niger,Niamey,2012,0,0,1.0
+NER,Niger,Niamey,2013,10,2,1.0
+NER,Niger,Niamey,2014,0,0,1.0
+NER,Niger,Niamey,2015,10,1,1.0
+NER,Niger,Niamey,2016,3,1,1.0
+NER,Niger,Niamey,2017,0,0,1.0
+NER,Niger,Niamey,2018,7,2,1.0
+NER,Niger,Niamey,2019,6,1,1.0
+NER,Niger,Niamey,2020,13,2,1.0
+NER,Niger,Niamey,2021,17,3,1.0
+NER,Niger,Niamey,2022,0,0,1.0
+NER,Niger,Niamey,2023,5,1,1.0
+NER,Niger,Niamey,2024,15,3,1.0
+NER,Niger,Niamey,2025,24,5,1.0
+NER,Niger,Niamey,2026,22,3,0.767
+LKA,Sri Lanka,Colombo,2000,0,0,1.0
+LKA,Sri Lanka,Colombo,2001,0,0,1.0
+LKA,Sri Lanka,Colombo,2002,0,0,1.0
+LKA,Sri Lanka,Colombo,2003,4,1,1.0
+LKA,Sri Lanka,Colombo,2004,3,1,1.0
+LKA,Sri Lanka,Colombo,2005,0,0,1.0
+LKA,Sri Lanka,Colombo,2006,0,0,1.0
+LKA,Sri Lanka,Colombo,2007,0,0,1.0
+LKA,Sri Lanka,Colombo,2008,0,0,1.0
+LKA,Sri Lanka,Colombo,2009,0,0,1.0
+LKA,Sri Lanka,Colombo,2010,0,0,1.0
+LKA,Sri Lanka,Colombo,2011,4,1,1.0
+LKA,Sri Lanka,Colombo,2012,0,0,1.0
+LKA,Sri Lanka,Colombo,2013,0,0,1.0
+LKA,Sri Lanka,Colombo,2014,3,1,1.0
+LKA,Sri Lanka,Colombo,2015,4,1,1.0
+LKA,Sri Lanka,Colombo,2016,13,3,1.0
+LKA,Sri Lanka,Colombo,2017,0,0,1.0
+LKA,Sri Lanka,Colombo,2018,6,1,1.0
+LKA,Sri Lanka,Colombo,2019,18,5,1.0
+LKA,Sri Lanka,Colombo,2020,10,3,1.0
+LKA,Sri Lanka,Colombo,2021,3,1,1.0
+LKA,Sri Lanka,Colombo,2022,8,2,1.0
+LKA,Sri Lanka,Colombo,2023,26,7,1.0
+LKA,Sri Lanka,Colombo,2024,33,9,1.0
+LKA,Sri Lanka,Colombo,2025,9,2,1.0
+LKA,Sri Lanka,Colombo,2026,11,3,0.767
+BFA,Burkina Faso,Ouagadougou,2000,3,1,1.0
+BFA,Burkina Faso,Ouagadougou,2001,0,0,1.0
+BFA,Burkina Faso,Ouagadougou,2002,3,1,1.0
+BFA,Burkina Faso,Ouagadougou,2003,0,0,1.0
+BFA,Burkina Faso,Ouagadougou,2004,0,0,1.0
+BFA,Burkina Faso,Ouagadougou,2005,0,0,1.0
+BFA,Burkina Faso,Ouagadougou,2006,0,0,1.0
+BFA,Burkina Faso,Ouagadougou,2007,0,0,1.0
+BFA,Burkina Faso,Ouagadougou,2008,0,0,1.0
+BFA,Burkina Faso,Ouagadougou,2009,14,3,1.0
+BFA,Burkina Faso,Ouagadougou,2010,16,2,1.0
+BFA,Burkina Faso,Ouagadougou,2011,0,0,1.0
+BFA,Burkina Faso,Ouagadougou,2012,0,0,1.0
+BFA,Burkina Faso,Ouagadougou,2013,7,2,1.0
+BFA,Burkina Faso,Ouagadougou,2014,0,0,1.0
+BFA,Burkina Faso,Ouagadougou,2015,8,1,1.0
+BFA,Burkina Faso,Ouagadougou,2016,0,0,1.0
+BFA,Burkina Faso,Ouagadougou,2017,6,2,1.0
+BFA,Burkina Faso,Ouagadougou,2018,0,0,1.0
+BFA,Burkina Faso,Ouagadougou,2019,9,2,1.0
+BFA,Burkina Faso,Ouagadougou,2020,10,2,1.0
+BFA,Burkina Faso,Ouagadougou,2021,32,5,1.0
+BFA,Burkina Faso,Ouagadougou,2022,0,0,1.0
+BFA,Burkina Faso,Ouagadougou,2023,6,2,1.0
+BFA,Burkina Faso,Ouagadougou,2024,10,3,1.0
+BFA,Burkina Faso,Ouagadougou,2025,6,2,1.0
+BFA,Burkina Faso,Ouagadougou,2026,17,3,0.767
+MLI,Mali,Bamako,2000,0,0,1.0
+MLI,Mali,Bamako,2001,0,0,1.0
+MLI,Mali,Bamako,2002,0,0,1.0
+MLI,Mali,Bamako,2003,0,0,1.0
+MLI,Mali,Bamako,2004,0,0,1.0
+MLI,Mali,Bamako,2005,4,1,1.0
+MLI,Mali,Bamako,2006,0,0,1.0
+MLI,Mali,Bamako,2007,0,0,1.0
+MLI,Mali,Bamako,2008,0,0,1.0
+MLI,Mali,Bamako,2009,5,1,1.0
+MLI,Mali,Bamako,2010,9,2,1.0
+MLI,Mali,Bamako,2011,4,1,1.0
+MLI,Mali,Bamako,2012,0,0,1.0
+MLI,Mali,Bamako,2013,0,0,1.0
+MLI,Mali,Bamako,2014,0,0,1.0
+MLI,Mali,Bamako,2015,5,1,1.0
+MLI,Mali,Bamako,2016,0,0,1.0
+MLI,Mali,Bamako,2017,4,1,1.0
+MLI,Mali,Bamako,2018,6,2,1.0
+MLI,Mali,Bamako,2019,3,1,1.0
+MLI,Mali,Bamako,2020,9,2,1.0
+MLI,Mali,Bamako,2021,16,4,1.0
+MLI,Mali,Bamako,2022,0,0,1.0
+MLI,Mali,Bamako,2023,3,1,1.0
+MLI,Mali,Bamako,2024,32,7,1.0
+MLI,Mali,Bamako,2025,11,3,1.0
+MLI,Mali,Bamako,2026,11,3,0.767
+ROU,Romania,Bucharest,2000,7,2,1.0
+ROU,Romania,Bucharest,2001,0,0,1.0
+ROU,Romania,Bucharest,2002,7,2,1.0
+ROU,Romania,Bucharest,2003,10,2,1.0
+ROU,Romania,Bucharest,2004,3,1,1.0
+ROU,Romania,Bucharest,2005,0,0,1.0
+ROU,Romania,Bucharest,2006,0,0,1.0
+ROU,Romania,Bucharest,2007,17,4,1.0
+ROU,Romania,Bucharest,2008,6,2,1.0
+ROU,Romania,Bucharest,2009,0,0,1.0
+ROU,Romania,Bucharest,2010,0,0,1.0
+ROU,Romania,Bucharest,2011,4,1,1.0
+ROU,Romania,Bucharest,2012,8,2,1.0
+ROU,Romania,Bucharest,2013,0,0,1.0
+ROU,Romania,Bucharest,2014,0,0,1.0
+ROU,Romania,Bucharest,2015,0,0,1.0
+ROU,Romania,Bucharest,2016,6,2,1.0
+ROU,Romania,Bucharest,2017,14,4,1.0
+ROU,Romania,Bucharest,2018,7,2,1.0
+ROU,Romania,Bucharest,2019,5,1,1.0
+ROU,Romania,Bucharest,2020,3,1,1.0
+ROU,Romania,Bucharest,2021,0,0,1.0
+ROU,Romania,Bucharest,2022,4,2,1.0
+ROU,Romania,Bucharest,2023,20,5,1.0
+ROU,Romania,Bucharest,2024,43,8,1.0
+ROU,Romania,Bucharest,2025,18,4,1.0
+ROU,Romania,Bucharest,2026,0,0,0.767
+CHL,Chile,Santiago,2000,0,0,1.0
+CHL,Chile,Santiago,2001,3,1,1.0
+CHL,Chile,Santiago,2002,0,0,1.0
+CHL,Chile,Santiago,2003,0,0,1.0
+CHL,Chile,Santiago,2004,0,0,1.0
+CHL,Chile,Santiago,2005,0,0,1.0
+CHL,Chile,Santiago,2006,4,1,1.0
+CHL,Chile,Santiago,2007,0,0,1.0
+CHL,Chile,Santiago,2008,0,0,1.0
+CHL,Chile,Santiago,2009,0,0,1.0
+CHL,Chile,Santiago,2010,0,0,1.0
+CHL,Chile,Santiago,2011,0,0,1.0
+CHL,Chile,Santiago,2012,0,0,1.0
+CHL,Chile,Santiago,2013,0,0,1.0
+CHL,Chile,Santiago,2014,7,2,1.0
+CHL,Chile,Santiago,2015,6,2,1.0
+CHL,Chile,Santiago,2016,3,1,1.0
+CHL,Chile,Santiago,2017,8,2,1.0
+CHL,Chile,Santiago,2018,3,1,1.0
+CHL,Chile,Santiago,2019,14,4,1.0
+CHL,Chile,Santiago,2020,12,4,1.0
+CHL,Chile,Santiago,2021,3,1,1.0
+CHL,Chile,Santiago,2022,0,0,1.0
+CHL,Chile,Santiago,2023,17,3,1.0
+CHL,Chile,Santiago,2024,11,3,1.0
+CHL,Chile,Santiago,2025,9,3,1.0
+CHL,Chile,Santiago,2026,15,4,0.764
+MWI,Malawi,Lilongwe,2000,0,0,1.0
+MWI,Malawi,Lilongwe,2001,0,0,1.0
+MWI,Malawi,Lilongwe,2002,0,0,1.0
+MWI,Malawi,Lilongwe,2003,0,0,1.0
+MWI,Malawi,Lilongwe,2004,0,0,1.0
+MWI,Malawi,Lilongwe,2005,12,4,1.0
+MWI,Malawi,Lilongwe,2006,3,1,1.0
+MWI,Malawi,Lilongwe,2007,0,0,1.0
+MWI,Malawi,Lilongwe,2008,4,1,1.0
+MWI,Malawi,Lilongwe,2009,0,0,1.0
+MWI,Malawi,Lilongwe,2010,0,0,1.0
+MWI,Malawi,Lilongwe,2011,10,3,1.0
+MWI,Malawi,Lilongwe,2012,3,1,1.0
+MWI,Malawi,Lilongwe,2013,9,3,1.0
+MWI,Malawi,Lilongwe,2014,3,1,1.0
+MWI,Malawi,Lilongwe,2015,7,2,1.0
+MWI,Malawi,Lilongwe,2016,30,6,1.0
+MWI,Malawi,Lilongwe,2017,3,1,1.0
+MWI,Malawi,Lilongwe,2018,3,1,1.0
+MWI,Malawi,Lilongwe,2019,3,1,1.0
+MWI,Malawi,Lilongwe,2020,3,1,1.0
+MWI,Malawi,Lilongwe,2021,9,2,1.0
+MWI,Malawi,Lilongwe,2022,0,0,1.0
+MWI,Malawi,Lilongwe,2023,11,3,1.0
+MWI,Malawi,Lilongwe,2024,27,6,1.0
+MWI,Malawi,Lilongwe,2025,6,2,1.0
+MWI,Malawi,Lilongwe,2026,3,1,0.767
+KAZ,Kazakhstan,Astana,2000,0,0,1.0
+KAZ,Kazakhstan,Astana,2001,7,2,1.0
+KAZ,Kazakhstan,Astana,2002,7,2,1.0
+KAZ,Kazakhstan,Astana,2003,0,0,1.0
+KAZ,Kazakhstan,Astana,2004,15,4,1.0
+KAZ,Kazakhstan,Astana,2005,3,1,1.0
+KAZ,Kazakhstan,Astana,2006,9,2,1.0
+KAZ,Kazakhstan,Astana,2007,16,4,1.0
+KAZ,Kazakhstan,Astana,2008,3,1,1.0
+KAZ,Kazakhstan,Astana,2009,0,0,1.0
+KAZ,Kazakhstan,Astana,2010,3,1,1.0
+KAZ,Kazakhstan,Astana,2011,3,1,1.0
+KAZ,Kazakhstan,Astana,2012,14,4,1.0
+KAZ,Kazakhstan,Astana,2013,6,2,1.0
+KAZ,Kazakhstan,Astana,2014,4,1,1.0
+KAZ,Kazakhstan,Astana,2015,7,2,1.0
+KAZ,Kazakhstan,Astana,2016,7,2,1.0
+KAZ,Kazakhstan,Astana,2017,8,2,1.0
+KAZ,Kazakhstan,Astana,2018,0,0,1.0
+KAZ,Kazakhstan,Astana,2019,7,2,1.0
+KAZ,Kazakhstan,Astana,2020,6,2,1.0
+KAZ,Kazakhstan,Astana,2021,9,2,1.0
+KAZ,Kazakhstan,Astana,2022,8,2,1.0
+KAZ,Kazakhstan,Astana,2023,16,4,1.0
+KAZ,Kazakhstan,Astana,2024,0,0,1.0
+KAZ,Kazakhstan,Astana,2025,4,1,1.0
+KAZ,Kazakhstan,Astana,2026,6,2,0.767
+ZMB,Zambia,Lusaka,2000,0,0,1.0
+ZMB,Zambia,Lusaka,2001,4,1,1.0
+ZMB,Zambia,Lusaka,2002,0,0,1.0
+ZMB,Zambia,Lusaka,2003,9,2,1.0
+ZMB,Zambia,Lusaka,2004,0,0,1.0
+ZMB,Zambia,Lusaka,2005,7,2,1.0
+ZMB,Zambia,Lusaka,2006,0,0,1.0
+ZMB,Zambia,Lusaka,2007,0,0,1.0
+ZMB,Zambia,Lusaka,2008,7,2,1.0
+ZMB,Zambia,Lusaka,2009,0,0,1.0
+ZMB,Zambia,Lusaka,2010,0,0,1.0
+ZMB,Zambia,Lusaka,2011,3,1,1.0
+ZMB,Zambia,Lusaka,2012,3,1,1.0
+ZMB,Zambia,Lusaka,2013,3,1,1.0
+ZMB,Zambia,Lusaka,2014,5,1,1.0
+ZMB,Zambia,Lusaka,2015,0,0,1.0
+ZMB,Zambia,Lusaka,2016,4,1,1.0
+ZMB,Zambia,Lusaka,2017,0,0,1.0
+ZMB,Zambia,Lusaka,2018,3,1,1.0
+ZMB,Zambia,Lusaka,2019,28,7,1.0
+ZMB,Zambia,Lusaka,2020,13,3,1.0
+ZMB,Zambia,Lusaka,2021,10,3,1.0
+ZMB,Zambia,Lusaka,2022,0,0,1.0
+ZMB,Zambia,Lusaka,2023,28,8,1.0
+ZMB,Zambia,Lusaka,2024,77,16,1.0
+ZMB,Zambia,Lusaka,2025,9,3,1.0
+ZMB,Zambia,Lusaka,2026,9,2,0.767
+ECU,Ecuador,Quito,2000,0,0,1.0
+ECU,Ecuador,Quito,2001,0,0,1.0
+ECU,Ecuador,Quito,2002,0,0,1.0
+ECU,Ecuador,Quito,2003,0,0,1.0
+ECU,Ecuador,Quito,2004,0,0,1.0
+ECU,Ecuador,Quito,2005,3,1,1.0
+ECU,Ecuador,Quito,2006,14,3,1.0
+ECU,Ecuador,Quito,2007,0,0,1.0
+ECU,Ecuador,Quito,2008,0,0,1.0
+ECU,Ecuador,Quito,2009,8,2,1.0
+ECU,Ecuador,Quito,2010,3,1,1.0
+ECU,Ecuador,Quito,2011,0,0,1.0
+ECU,Ecuador,Quito,2012,3,1,1.0
+ECU,Ecuador,Quito,2013,3,1,1.0
+ECU,Ecuador,Quito,2014,5,1,1.0
+ECU,Ecuador,Quito,2015,26,6,1.0
+ECU,Ecuador,Quito,2016,10,3,1.0
+ECU,Ecuador,Quito,2017,6,2,1.0
+ECU,Ecuador,Quito,2018,3,1,1.0
+ECU,Ecuador,Quito,2019,11,3,1.0
+ECU,Ecuador,Quito,2020,23,7,1.0
+ECU,Ecuador,Quito,2021,0,0,1.0
+ECU,Ecuador,Quito,2022,0,0,1.0
+ECU,Ecuador,Quito,2023,4,1,1.0
+ECU,Ecuador,Quito,2024,9,3,1.0
+ECU,Ecuador,Quito,2025,0,0,1.0
+ECU,Ecuador,Quito,2026,8,2,0.764
+NLD,Netherlands,Amsterdam,2000,3,1,1.0
+NLD,Netherlands,Amsterdam,2001,3,1,1.0
+NLD,Netherlands,Amsterdam,2002,9,2,1.0
+NLD,Netherlands,Amsterdam,2003,3,1,1.0
+NLD,Netherlands,Amsterdam,2004,4,1,1.0
+NLD,Netherlands,Amsterdam,2005,5,1,1.0
+NLD,Netherlands,Amsterdam,2006,14,4,1.0
+NLD,Netherlands,Amsterdam,2007,11,3,1.0
+NLD,Netherlands,Amsterdam,2008,7,2,1.0
+NLD,Netherlands,Amsterdam,2009,0,0,1.0
+NLD,Netherlands,Amsterdam,2010,3,1,1.0
+NLD,Netherlands,Amsterdam,2011,11,2,1.0
+NLD,Netherlands,Amsterdam,2012,4,1,1.0
+NLD,Netherlands,Amsterdam,2013,0,0,1.0
+NLD,Netherlands,Amsterdam,2014,3,1,1.0
+NLD,Netherlands,Amsterdam,2015,13,3,1.0
+NLD,Netherlands,Amsterdam,2016,4,1,1.0
+NLD,Netherlands,Amsterdam,2017,0,0,1.0
+NLD,Netherlands,Amsterdam,2018,10,2,1.0
+NLD,Netherlands,Amsterdam,2019,16,4,1.0
+NLD,Netherlands,Amsterdam,2020,6,1,1.0
+NLD,Netherlands,Amsterdam,2021,8,2,1.0
+NLD,Netherlands,Amsterdam,2022,13,3,1.0
+NLD,Netherlands,Amsterdam,2023,11,2,1.0
+NLD,Netherlands,Amsterdam,2024,3,1,1.0
+NLD,Netherlands,Amsterdam,2025,16,4,1.0
+NLD,Netherlands,Amsterdam,2026,12,3,0.767
+SYR,Syria,Damascus,2000,10,3,1.0
+SYR,Syria,Damascus,2001,3,1,1.0
+SYR,Syria,Damascus,2002,6,2,1.0
+SYR,Syria,Damascus,2003,0,0,1.0
+SYR,Syria,Damascus,2004,8,2,1.0
+SYR,Syria,Damascus,2005,6,2,1.0
+SYR,Syria,Damascus,2006,4,1,1.0
+SYR,Syria,Damascus,2007,3,1,1.0
+SYR,Syria,Damascus,2008,12,3,1.0
+SYR,Syria,Damascus,2009,3,1,1.0
+SYR,Syria,Damascus,2010,33,8,1.0
+SYR,Syria,Damascus,2011,0,0,1.0
+SYR,Syria,Damascus,2012,10,2,1.0
+SYR,Syria,Damascus,2013,7,2,1.0
+SYR,Syria,Damascus,2014,8,2,1.0
+SYR,Syria,Damascus,2015,0,0,1.0
+SYR,Syria,Damascus,2016,11,3,1.0
+SYR,Syria,Damascus,2017,13,3,1.0
+SYR,Syria,Damascus,2018,7,1,1.0
+SYR,Syria,Damascus,2019,5,1,1.0
+SYR,Syria,Damascus,2020,29,6,1.0
+SYR,Syria,Damascus,2021,12,4,1.0
+SYR,Syria,Damascus,2022,0,0,1.0
+SYR,Syria,Damascus,2023,20,3,1.0
+SYR,Syria,Damascus,2024,16,4,1.0
+SYR,Syria,Damascus,2025,15,4,1.0
+SYR,Syria,Damascus,2026,0,0,0.767
+GTM,Guatemala,Guatemala City,2000,0,0,1.0
+GTM,Guatemala,Guatemala City,2001,0,0,1.0
+GTM,Guatemala,Guatemala City,2002,3,1,1.0
+GTM,Guatemala,Guatemala City,2003,0,0,1.0
+GTM,Guatemala,Guatemala City,2004,0,0,1.0
+GTM,Guatemala,Guatemala City,2005,0,0,1.0
+GTM,Guatemala,Guatemala City,2006,0,0,1.0
+GTM,Guatemala,Guatemala City,2007,0,0,1.0
+GTM,Guatemala,Guatemala City,2008,0,0,1.0
+GTM,Guatemala,Guatemala City,2009,0,0,1.0
+GTM,Guatemala,Guatemala City,2010,3,1,1.0
+GTM,Guatemala,Guatemala City,2011,0,0,1.0
+GTM,Guatemala,Guatemala City,2012,0,0,1.0
+GTM,Guatemala,Guatemala City,2013,0,0,1.0
+GTM,Guatemala,Guatemala City,2014,3,1,1.0
+GTM,Guatemala,Guatemala City,2015,3,1,1.0
+GTM,Guatemala,Guatemala City,2016,0,0,1.0
+GTM,Guatemala,Guatemala City,2017,3,1,1.0
+GTM,Guatemala,Guatemala City,2018,12,3,1.0
+GTM,Guatemala,Guatemala City,2019,6,2,1.0
+GTM,Guatemala,Guatemala City,2020,13,4,1.0
+GTM,Guatemala,Guatemala City,2021,6,2,1.0
+GTM,Guatemala,Guatemala City,2022,0,0,1.0
+GTM,Guatemala,Guatemala City,2023,10,3,1.0
+GTM,Guatemala,Guatemala City,2024,19,5,1.0
+GTM,Guatemala,Guatemala City,2025,0,0,1.0
+GTM,Guatemala,Guatemala City,2026,57,8,0.764
+KHM,Cambodia,Phnom Penh,2000,0,0,1.0
+KHM,Cambodia,Phnom Penh,2001,0,0,1.0
+KHM,Cambodia,Phnom Penh,2002,11,2,1.0
+KHM,Cambodia,Phnom Penh,2003,9,2,1.0
+KHM,Cambodia,Phnom Penh,2004,3,1,1.0
+KHM,Cambodia,Phnom Penh,2005,0,0,1.0
+KHM,Cambodia,Phnom Penh,2006,4,1,1.0
+KHM,Cambodia,Phnom Penh,2007,3,1,1.0
+KHM,Cambodia,Phnom Penh,2008,0,0,1.0
+KHM,Cambodia,Phnom Penh,2009,3,1,1.0
+KHM,Cambodia,Phnom Penh,2010,0,0,1.0
+KHM,Cambodia,Phnom Penh,2011,0,0,1.0
+KHM,Cambodia,Phnom Penh,2012,22,5,1.0
+KHM,Cambodia,Phnom Penh,2013,31,8,1.0
+KHM,Cambodia,Phnom Penh,2014,10,3,1.0
+KHM,Cambodia,Phnom Penh,2015,39,11,1.0
+KHM,Cambodia,Phnom Penh,2016,16,4,1.0
+KHM,Cambodia,Phnom Penh,2017,0,0,1.0
+KHM,Cambodia,Phnom Penh,2018,0,0,1.0
+KHM,Cambodia,Phnom Penh,2019,12,3,1.0
+KHM,Cambodia,Phnom Penh,2020,3,1,1.0
+KHM,Cambodia,Phnom Penh,2021,3,1,1.0
+KHM,Cambodia,Phnom Penh,2022,0,0,1.0
+KHM,Cambodia,Phnom Penh,2023,0,0,1.0
+KHM,Cambodia,Phnom Penh,2024,4,1,1.0
+KHM,Cambodia,Phnom Penh,2025,0,0,1.0
+KHM,Cambodia,Phnom Penh,2026,8,2,0.767
+SEN,Senegal,Dakar,2000,0,0,1.0
+SEN,Senegal,Dakar,2001,0,0,1.0
+SEN,Senegal,Dakar,2002,3,1,1.0
+SEN,Senegal,Dakar,2003,0,0,1.0
+SEN,Senegal,Dakar,2004,0,0,1.0
+SEN,Senegal,Dakar,2005,3,1,1.0
+SEN,Senegal,Dakar,2006,0,0,1.0
+SEN,Senegal,Dakar,2007,5,1,1.0
+SEN,Senegal,Dakar,2008,0,0,1.0
+SEN,Senegal,Dakar,2009,0,0,1.0
+SEN,Senegal,Dakar,2010,12,4,1.0
+SEN,Senegal,Dakar,2011,0,0,1.0
+SEN,Senegal,Dakar,2012,4,1,1.0
+SEN,Senegal,Dakar,2013,0,0,1.0
+SEN,Senegal,Dakar,2014,0,0,1.0
+SEN,Senegal,Dakar,2015,3,1,1.0
+SEN,Senegal,Dakar,2016,18,5,1.0
+SEN,Senegal,Dakar,2017,19,6,1.0
+SEN,Senegal,Dakar,2018,0,0,1.0
+SEN,Senegal,Dakar,2019,0,0,1.0
+SEN,Senegal,Dakar,2020,7,2,1.0
+SEN,Senegal,Dakar,2021,3,1,1.0
+SEN,Senegal,Dakar,2022,7,2,1.0
+SEN,Senegal,Dakar,2023,11,3,1.0
+SEN,Senegal,Dakar,2024,23,6,1.0
+SEN,Senegal,Dakar,2025,0,0,1.0
+SEN,Senegal,Dakar,2026,23,6,0.767
+TCD,Chad,N'Djamena,2000,4,1,1.0
+TCD,Chad,N'Djamena,2001,0,0,1.0
+TCD,Chad,N'Djamena,2002,0,0,1.0
+TCD,Chad,N'Djamena,2003,0,0,1.0
+TCD,Chad,N'Djamena,2004,4,1,1.0
+TCD,Chad,N'Djamena,2005,3,1,1.0
+TCD,Chad,N'Djamena,2006,0,0,1.0
+TCD,Chad,N'Djamena,2007,4,1,1.0
+TCD,Chad,N'Djamena,2008,7,2,1.0
+TCD,Chad,N'Djamena,2009,12,2,1.0
+TCD,Chad,N'Djamena,2010,18,3,1.0
+TCD,Chad,N'Djamena,2011,0,0,1.0
+TCD,Chad,N'Djamena,2012,3,1,1.0
+TCD,Chad,N'Djamena,2013,3,1,1.0
+TCD,Chad,N'Djamena,2014,0,0,1.0
+TCD,Chad,N'Djamena,2015,10,3,1.0
+TCD,Chad,N'Djamena,2016,13,4,1.0
+TCD,Chad,N'Djamena,2017,8,2,1.0
+TCD,Chad,N'Djamena,2018,4,1,1.0
+TCD,Chad,N'Djamena,2019,0,0,1.0
+TCD,Chad,N'Djamena,2020,0,0,1.0
+TCD,Chad,N'Djamena,2021,35,7,1.0
+TCD,Chad,N'Djamena,2022,7,2,1.0
+TCD,Chad,N'Djamena,2023,0,0,1.0
+TCD,Chad,N'Djamena,2024,28,6,1.0
+TCD,Chad,N'Djamena,2025,8,1,1.0
+TCD,Chad,N'Djamena,2026,12,3,0.767
+ZWE,Zimbabwe,Harare,2000,0,0,1.0
+ZWE,Zimbabwe,Harare,2001,3,1,1.0
+ZWE,Zimbabwe,Harare,2002,9,3,1.0
+ZWE,Zimbabwe,Harare,2003,6,1,1.0
+ZWE,Zimbabwe,Harare,2004,4,1,1.0
+ZWE,Zimbabwe,Harare,2005,0,0,1.0
+ZWE,Zimbabwe,Harare,2006,0,0,1.0
+ZWE,Zimbabwe,Harare,2007,0,0,1.0
+ZWE,Zimbabwe,Harare,2008,12,3,1.0
+ZWE,Zimbabwe,Harare,2009,0,0,1.0
+ZWE,Zimbabwe,Harare,2010,4,1,1.0
+ZWE,Zimbabwe,Harare,2011,4,1,1.0
+ZWE,Zimbabwe,Harare,2012,3,1,1.0
+ZWE,Zimbabwe,Harare,2013,3,1,1.0
+ZWE,Zimbabwe,Harare,2014,3,1,1.0
+ZWE,Zimbabwe,Harare,2015,7,2,1.0
+ZWE,Zimbabwe,Harare,2016,13,4,1.0
+ZWE,Zimbabwe,Harare,2017,3,1,1.0
+ZWE,Zimbabwe,Harare,2018,3,1,1.0
+ZWE,Zimbabwe,Harare,2019,26,7,1.0
+ZWE,Zimbabwe,Harare,2020,17,3,1.0
+ZWE,Zimbabwe,Harare,2021,6,2,1.0
+ZWE,Zimbabwe,Harare,2022,0,0,1.0
+ZWE,Zimbabwe,Harare,2023,16,4,1.0
+ZWE,Zimbabwe,Harare,2024,46,13,1.0
+ZWE,Zimbabwe,Harare,2025,9,3,1.0
+ZWE,Zimbabwe,Harare,2026,0,0,0.767
+GIN,Guinea,Conakry,2000,3,1,1.0
+GIN,Guinea,Conakry,2001,0,0,1.0
+GIN,Guinea,Conakry,2002,0,0,1.0
+GIN,Guinea,Conakry,2003,0,0,1.0
+GIN,Guinea,Conakry,2004,3,1,1.0
+GIN,Guinea,Conakry,2005,6,2,1.0
+GIN,Guinea,Conakry,2006,1,1,1.0
+GIN,Guinea,Conakry,2007,6,0,1.0
+GIN,Guinea,Conakry,2008,0,0,1.0
+GIN,Guinea,Conakry,2009,0,0,1.0
+GIN,Guinea,Conakry,2010,0,0,1.0
+GIN,Guinea,Conakry,2011,0,0,1.0
+GIN,Guinea,Conakry,2012,2,1,1.0
+GIN,Guinea,Conakry,2013,1,0,1.0
+GIN,Guinea,Conakry,2014,0,0,1.0
+GIN,Guinea,Conakry,2015,0,0,1.0
+GIN,Guinea,Conakry,2016,0,0,1.0
+GIN,Guinea,Conakry,2017,0,0,1.0
+GIN,Guinea,Conakry,2018,0,0,1.0
+GIN,Guinea,Conakry,2019,0,0,1.0
+GIN,Guinea,Conakry,2020,12,2,1.0
+GIN,Guinea,Conakry,2021,3,1,1.0
+GIN,Guinea,Conakry,2022,0,0,1.0
+GIN,Guinea,Conakry,2023,17,5,1.0
+GIN,Guinea,Conakry,2024,40,11,1.0
+GIN,Guinea,Conakry,2025,4,1,1.0
+GIN,Guinea,Conakry,2026,13,4,0.767
+RWA,Rwanda,Kigali,2000,3,1,1.0
+RWA,Rwanda,Kigali,2001,0,0,1.0
+RWA,Rwanda,Kigali,2002,6,2,1.0
+RWA,Rwanda,Kigali,2003,4,1,1.0
+RWA,Rwanda,Kigali,2004,0,0,1.0
+RWA,Rwanda,Kigali,2005,15,3,1.0
+RWA,Rwanda,Kigali,2006,3,1,1.0
+RWA,Rwanda,Kigali,2007,0,0,1.0
+RWA,Rwanda,Kigali,2008,0,0,1.0
+RWA,Rwanda,Kigali,2009,0,0,1.0
+RWA,Rwanda,Kigali,2010,10,3,1.0
+RWA,Rwanda,Kigali,2011,0,0,1.0
+RWA,Rwanda,Kigali,2012,3,1,1.0
+RWA,Rwanda,Kigali,2013,0,0,1.0
+RWA,Rwanda,Kigali,2014,0,0,1.0
+RWA,Rwanda,Kigali,2015,3,1,1.0
+RWA,Rwanda,Kigali,2016,8,2,1.0
+RWA,Rwanda,Kigali,2017,3,1,1.0
+RWA,Rwanda,Kigali,2018,0,0,1.0
+RWA,Rwanda,Kigali,2019,9,3,1.0
+RWA,Rwanda,Kigali,2020,13,4,1.0
+RWA,Rwanda,Kigali,2021,4,1,1.0
+RWA,Rwanda,Kigali,2022,0,0,1.0
+RWA,Rwanda,Kigali,2023,10,3,1.0
+RWA,Rwanda,Kigali,2024,41,11,1.0
+RWA,Rwanda,Kigali,2025,6,1,1.0
+RWA,Rwanda,Kigali,2026,4,1,0.767
+BEN,Benin,Cotonou,2000,0,0,1.0
+BEN,Benin,Cotonou,2001,0,0,1.0
+BEN,Benin,Cotonou,2002,0,0,1.0
+BEN,Benin,Cotonou,2003,0,0,1.0
+BEN,Benin,Cotonou,2004,0,0,1.0
+BEN,Benin,Cotonou,2005,0,0,1.0
+BEN,Benin,Cotonou,2006,0,0,1.0
+BEN,Benin,Cotonou,2007,0,0,1.0
+BEN,Benin,Cotonou,2008,0,0,1.0
+BEN,Benin,Cotonou,2009,0,0,1.0
+BEN,Benin,Cotonou,2010,3,1,1.0
+BEN,Benin,Cotonou,2011,0,0,1.0
+BEN,Benin,Cotonou,2012,0,0,1.0
+BEN,Benin,Cotonou,2013,0,0,1.0
+BEN,Benin,Cotonou,2014,0,0,1.0
+BEN,Benin,Cotonou,2015,0,0,1.0
+BEN,Benin,Cotonou,2016,3,1,1.0
+BEN,Benin,Cotonou,2017,0,0,1.0
+BEN,Benin,Cotonou,2018,0,0,1.0
+BEN,Benin,Cotonou,2019,0,0,1.0
+BEN,Benin,Cotonou,2020,10,3,1.0
+BEN,Benin,Cotonou,2021,3,1,1.0
+BEN,Benin,Cotonou,2022,0,0,1.0
+BEN,Benin,Cotonou,2023,15,4,1.0
+BEN,Benin,Cotonou,2024,25,5,1.0
+BEN,Benin,Cotonou,2025,3,1,1.0
+BEN,Benin,Cotonou,2026,3,1,0.767
+TUN,Tunisia,Tunis,2000,0,0,1.0
+TUN,Tunisia,Tunis,2001,9,2,1.0
+TUN,Tunisia,Tunis,2002,4,1,1.0
+TUN,Tunisia,Tunis,2003,4,1,1.0
+TUN,Tunisia,Tunis,2004,0,0,1.0
+TUN,Tunisia,Tunis,2005,0,0,1.0
+TUN,Tunisia,Tunis,2006,0,0,1.0
+TUN,Tunisia,Tunis,2007,0,0,1.0
+TUN,Tunisia,Tunis,2008,0,0,1.0
+TUN,Tunisia,Tunis,2009,11,3,1.0
+TUN,Tunisia,Tunis,2010,6,2,1.0
+TUN,Tunisia,Tunis,2011,0,0,1.0
+TUN,Tunisia,Tunis,2012,0,0,1.0
+TUN,Tunisia,Tunis,2013,0,0,1.0
+TUN,Tunisia,Tunis,2014,8,2,1.0
+TUN,Tunisia,Tunis,2015,6,2,1.0
+TUN,Tunisia,Tunis,2016,0,0,1.0
+TUN,Tunisia,Tunis,2017,0,0,1.0
+TUN,Tunisia,Tunis,2018,0,0,1.0
+TUN,Tunisia,Tunis,2019,0,0,1.0
+TUN,Tunisia,Tunis,2020,0,0,1.0
+TUN,Tunisia,Tunis,2021,7,2,1.0
+TUN,Tunisia,Tunis,2022,19,5,1.0
+TUN,Tunisia,Tunis,2023,16,5,1.0
+TUN,Tunisia,Tunis,2024,6,2,1.0
+TUN,Tunisia,Tunis,2025,3,1,1.0
+TUN,Tunisia,Tunis,2026,14,3,0.767
+BDI,Burundi,Bujumbura,2000,19,4,1.0
+BDI,Burundi,Bujumbura,2001,0,0,1.0
+BDI,Burundi,Bujumbura,2002,3,1,1.0
+BDI,Burundi,Bujumbura,2003,3,1,1.0
+BDI,Burundi,Bujumbura,2004,3,1,1.0
+BDI,Burundi,Bujumbura,2005,18,4,1.0
+BDI,Burundi,Bujumbura,2006,4,1,1.0
+BDI,Burundi,Bujumbura,2007,0,0,1.0
+BDI,Burundi,Bujumbura,2008,0,0,1.0
+BDI,Burundi,Bujumbura,2009,11,3,1.0
+BDI,Burundi,Bujumbura,2010,14,4,1.0
+BDI,Burundi,Bujumbura,2011,3,1,1.0
+BDI,Burundi,Bujumbura,2012,10,2,1.0
+BDI,Burundi,Bujumbura,2013,0,0,1.0
+BDI,Burundi,Bujumbura,2014,13,4,1.0
+BDI,Burundi,Bujumbura,2015,0,0,1.0
+BDI,Burundi,Bujumbura,2016,0,0,1.0
+BDI,Burundi,Bujumbura,2017,6,2,1.0
+BDI,Burundi,Bujumbura,2018,0,0,1.0
+BDI,Burundi,Bujumbura,2019,0,0,1.0
+BDI,Burundi,Bujumbura,2020,0,0,1.0
+BDI,Burundi,Bujumbura,2021,4,1,1.0
+BDI,Burundi,Bujumbura,2022,0,0,1.0
+BDI,Burundi,Bujumbura,2023,4,1,1.0
+BDI,Burundi,Bujumbura,2024,0,0,1.0
+BDI,Burundi,Bujumbura,2025,0,0,1.0
+BDI,Burundi,Bujumbura,2026,0,0,0.767
+BOL,Bolivia,La Paz,2000,0,0,1.0
+BOL,Bolivia,La Paz,2001,4,1,1.0
+BOL,Bolivia,La Paz,2002,0,0,1.0
+BOL,Bolivia,La Paz,2003,0,0,1.0
+BOL,Bolivia,La Paz,2004,0,0,1.0
+BOL,Bolivia,La Paz,2005,6,2,1.0
+BOL,Bolivia,La Paz,2006,0,0,1.0
+BOL,Bolivia,La Paz,2007,0,0,1.0
+BOL,Bolivia,La Paz,2008,0,0,1.0
+BOL,Bolivia,La Paz,2009,0,0,1.0
+BOL,Bolivia,La Paz,2010,9,2,1.0
+BOL,Bolivia,La Paz,2011,4,1,1.0
+BOL,Bolivia,La Paz,2012,0,0,1.0
+BOL,Bolivia,La Paz,2013,0,0,1.0
+BOL,Bolivia,La Paz,2014,4,1,1.0
+BOL,Bolivia,La Paz,2015,3,1,1.0
+BOL,Bolivia,La Paz,2016,28,6,1.0
+BOL,Bolivia,La Paz,2017,8,2,1.0
+BOL,Bolivia,La Paz,2018,4,1,1.0
+BOL,Bolivia,La Paz,2019,0,0,1.0
+BOL,Bolivia,La Paz,2020,17,4,1.0
+BOL,Bolivia,La Paz,2021,4,1,1.0
+BOL,Bolivia,La Paz,2022,3,1,1.0
+BOL,Bolivia,La Paz,2023,31,8,1.0
+BOL,Bolivia,La Paz,2024,20,5,1.0
+BOL,Bolivia,La Paz,2025,3,1,1.0
+BOL,Bolivia,La Paz,2026,14,3,0.764
+BEL,Belgium,Brussels,2000,3,1,1.0
+BEL,Belgium,Brussels,2001,3,1,1.0
+BEL,Belgium,Brussels,2002,3,1,1.0
+BEL,Belgium,Brussels,2003,8,2,1.0
+BEL,Belgium,Brussels,2004,4,1,1.0
+BEL,Belgium,Brussels,2005,5,1,1.0
+BEL,Belgium,Brussels,2006,6,2,1.0
+BEL,Belgium,Brussels,2007,13,3,1.0
+BEL,Belgium,Brussels,2008,3,1,1.0
+BEL,Belgium,Brussels,2009,3,1,1.0
+BEL,Belgium,Brussels,2010,4,1,1.0
+BEL,Belgium,Brussels,2011,9,2,1.0
+BEL,Belgium,Brussels,2012,3,1,1.0
+BEL,Belgium,Brussels,2013,0,0,1.0
+BEL,Belgium,Brussels,2014,6,2,1.0
+BEL,Belgium,Brussels,2015,8,2,1.0
+BEL,Belgium,Brussels,2016,3,1,1.0
+BEL,Belgium,Brussels,2017,8,2,1.0
+BEL,Belgium,Brussels,2018,13,3,1.0
+BEL,Belgium,Brussels,2019,17,4,1.0
+BEL,Belgium,Brussels,2020,9,2,1.0
+BEL,Belgium,Brussels,2021,12,3,1.0
+BEL,Belgium,Brussels,2022,8,2,1.0
+BEL,Belgium,Brussels,2023,12,2,1.0
+BEL,Belgium,Brussels,2024,0,0,1.0
+BEL,Belgium,Brussels,2025,15,4,1.0
+BEL,Belgium,Brussels,2026,27,6,0.767
+CUB,Cuba,Havana,2000,0,0,1.0
+CUB,Cuba,Havana,2001,0,0,1.0
+CUB,Cuba,Havana,2002,3,1,1.0
+CUB,Cuba,Havana,2003,19,3,1.0
+CUB,Cuba,Havana,2004,7,2,1.0
+CUB,Cuba,Havana,2005,0,0,1.0
+CUB,Cuba,Havana,2006,0,0,1.0
+CUB,Cuba,Havana,2007,3,1,1.0
+CUB,Cuba,Havana,2008,0,0,1.0
+CUB,Cuba,Havana,2009,16,4,1.0
+CUB,Cuba,Havana,2010,3,1,1.0
+CUB,Cuba,Havana,2011,0,0,1.0
+CUB,Cuba,Havana,2012,0,0,1.0
+CUB,Cuba,Havana,2013,7,2,1.0
+CUB,Cuba,Havana,2014,0,0,1.0
+CUB,Cuba,Havana,2015,19,6,1.0
+CUB,Cuba,Havana,2016,6,2,1.0
+CUB,Cuba,Havana,2017,0,0,1.0
+CUB,Cuba,Havana,2018,3,1,1.0
+CUB,Cuba,Havana,2019,3,1,1.0
+CUB,Cuba,Havana,2020,15,3,1.0
+CUB,Cuba,Havana,2021,5,1,1.0
+CUB,Cuba,Havana,2022,5,1,1.0
+CUB,Cuba,Havana,2023,33,6,1.0
+CUB,Cuba,Havana,2024,13,3,1.0
+CUB,Cuba,Havana,2025,3,1,1.0
+CUB,Cuba,Havana,2026,6,2,0.764
+HTI,Haiti,Port-au-Prince,2000,0,0,1.0
+HTI,Haiti,Port-au-Prince,2001,0,0,1.0
+HTI,Haiti,Port-au-Prince,2002,0,0,1.0
+HTI,Haiti,Port-au-Prince,2003,0,0,1.0
+HTI,Haiti,Port-au-Prince,2004,0,0,1.0
+HTI,Haiti,Port-au-Prince,2005,7,2,1.0
+HTI,Haiti,Port-au-Prince,2006,0,0,1.0
+HTI,Haiti,Port-au-Prince,2007,3,1,1.0
+HTI,Haiti,Port-au-Prince,2008,0,0,1.0
+HTI,Haiti,Port-au-Prince,2009,0,0,1.0
+HTI,Haiti,Port-au-Prince,2010,6,2,1.0
+HTI,Haiti,Port-au-Prince,2011,0,0,1.0
+HTI,Haiti,Port-au-Prince,2012,0,0,1.0
+HTI,Haiti,Port-au-Prince,2013,0,0,1.0
+HTI,Haiti,Port-au-Prince,2014,3,1,1.0
+HTI,Haiti,Port-au-Prince,2015,12,4,1.0
+HTI,Haiti,Port-au-Prince,2016,0,0,1.0
+HTI,Haiti,Port-au-Prince,2017,0,0,1.0
+HTI,Haiti,Port-au-Prince,2018,0,0,1.0
+HTI,Haiti,Port-au-Prince,2019,0,0,1.0
+HTI,Haiti,Port-au-Prince,2020,0,0,1.0
+HTI,Haiti,Port-au-Prince,2021,3,1,1.0
+HTI,Haiti,Port-au-Prince,2022,0,0,1.0
+HTI,Haiti,Port-au-Prince,2023,34,10,1.0
+HTI,Haiti,Port-au-Prince,2024,23,6,1.0
+HTI,Haiti,Port-au-Prince,2025,6,2,1.0
+HTI,Haiti,Port-au-Prince,2026,34,7,0.764
+SDS,S. Sudan,Juba,2000,0,0,1.0
+SDS,S. Sudan,Juba,2001,0,0,1.0
+SDS,S. Sudan,Juba,2002,0,0,1.0
+SDS,S. Sudan,Juba,2003,0,0,1.0
+SDS,S. Sudan,Juba,2004,0,0,1.0
+SDS,S. Sudan,Juba,2005,15,3,1.0
+SDS,S. Sudan,Juba,2006,3,1,1.0
+SDS,S. Sudan,Juba,2007,0,0,1.0
+SDS,S. Sudan,Juba,2008,0,0,1.0
+SDS,S. Sudan,Juba,2009,5,1,1.0
+SDS,S. Sudan,Juba,2010,3,1,1.0
+SDS,S. Sudan,Juba,2011,0,0,1.0
+SDS,S. Sudan,Juba,2012,0,0,1.0
+SDS,S. Sudan,Juba,2013,0,0,1.0
+SDS,S. Sudan,Juba,2014,3,1,1.0
+SDS,S. Sudan,Juba,2015,6,2,1.0
+SDS,S. Sudan,Juba,2016,17,4,1.0
+SDS,S. Sudan,Juba,2017,9,2,1.0
+SDS,S. Sudan,Juba,2018,21,6,1.0
+SDS,S. Sudan,Juba,2019,9,2,1.0
+SDS,S. Sudan,Juba,2020,0,0,1.0
+SDS,S. Sudan,Juba,2021,22,6,1.0
+SDS,S. Sudan,Juba,2022,3,1,1.0
+SDS,S. Sudan,Juba,2023,35,6,1.0
+SDS,S. Sudan,Juba,2024,16,3,1.0
+SDS,S. Sudan,Juba,2025,10,3,1.0
+SDS,S. Sudan,Juba,2026,72,7,0.767
+DOM,Dominican Rep.,Santo Domingo,2000,0,0,1.0
+DOM,Dominican Rep.,Santo Domingo,2001,0,0,1.0
+DOM,Dominican Rep.,Santo Domingo,2002,0,0,1.0
+DOM,Dominican Rep.,Santo Domingo,2003,0,0,1.0
+DOM,Dominican Rep.,Santo Domingo,2004,3,1,1.0
+DOM,Dominican Rep.,Santo Domingo,2005,3,1,1.0
+DOM,Dominican Rep.,Santo Domingo,2006,0,0,1.0
+DOM,Dominican Rep.,Santo Domingo,2007,0,0,1.0
+DOM,Dominican Rep.,Santo Domingo,2008,3,1,1.0
+DOM,Dominican Rep.,Santo Domingo,2009,8,2,1.0
+DOM,Dominican Rep.,Santo Domingo,2010,9,3,1.0
+DOM,Dominican Rep.,Santo Domingo,2011,0,0,1.0
+DOM,Dominican Rep.,Santo Domingo,2012,0,0,1.0
+DOM,Dominican Rep.,Santo Domingo,2013,0,0,1.0
+DOM,Dominican Rep.,Santo Domingo,2014,4,1,1.0
+DOM,Dominican Rep.,Santo Domingo,2015,7,2,1.0
+DOM,Dominican Rep.,Santo Domingo,2016,3,1,1.0
+DOM,Dominican Rep.,Santo Domingo,2017,0,0,1.0
+DOM,Dominican Rep.,Santo Domingo,2018,0,0,1.0
+DOM,Dominican Rep.,Santo Domingo,2019,7,2,1.0
+DOM,Dominican Rep.,Santo Domingo,2020,0,0,1.0
+DOM,Dominican Rep.,Santo Domingo,2021,3,1,1.0
+DOM,Dominican Rep.,Santo Domingo,2022,3,1,1.0
+DOM,Dominican Rep.,Santo Domingo,2023,15,3,1.0
+DOM,Dominican Rep.,Santo Domingo,2024,9,3,1.0
+DOM,Dominican Rep.,Santo Domingo,2025,3,1,1.0
+DOM,Dominican Rep.,Santo Domingo,2026,3,1,0.764
+GRC,Greece,Athens,2000,13,4,1.0
+GRC,Greece,Athens,2001,12,2,1.0
+GRC,Greece,Athens,2002,3,1,1.0
+GRC,Greece,Athens,2003,8,2,1.0
+GRC,Greece,Athens,2004,8,2,1.0
+GRC,Greece,Athens,2005,3,1,1.0
+GRC,Greece,Athens,2006,6,2,1.0
+GRC,Greece,Athens,2007,11,3,1.0
+GRC,Greece,Athens,2008,3,1,1.0
+GRC,Greece,Athens,2009,4,1,1.0
+GRC,Greece,Athens,2010,17,4,1.0
+GRC,Greece,Athens,2011,0,0,1.0
+GRC,Greece,Athens,2012,17,3,1.0
+GRC,Greece,Athens,2013,8,1,1.0
+GRC,Greece,Athens,2014,6,2,1.0
+GRC,Greece,Athens,2015,4,1,1.0
+GRC,Greece,Athens,2016,11,3,1.0
+GRC,Greece,Athens,2017,4,1,1.0
+GRC,Greece,Athens,2018,0,0,1.0
+GRC,Greece,Athens,2019,0,0,1.0
+GRC,Greece,Athens,2020,7,1,1.0
+GRC,Greece,Athens,2021,16,3,1.0
+GRC,Greece,Athens,2022,7,2,1.0
+GRC,Greece,Athens,2023,10,3,1.0
+GRC,Greece,Athens,2024,3,1,1.0
+GRC,Greece,Athens,2025,3,1,1.0
+GRC,Greece,Athens,2026,0,0,0.767
+CZE,Czechia,Prague,2000,3,1,1.0
+CZE,Czechia,Prague,2001,0,0,1.0
+CZE,Czechia,Prague,2002,4,1,1.0
+CZE,Czechia,Prague,2003,4,1,1.0
+CZE,Czechia,Prague,2004,7,2,1.0
+CZE,Czechia,Prague,2005,4,1,1.0
+CZE,Czechia,Prague,2006,0,0,1.0
+CZE,Czechia,Prague,2007,13,4,1.0
+CZE,Czechia,Prague,2008,3,1,1.0
+CZE,Czechia,Prague,2009,0,0,1.0
+CZE,Czechia,Prague,2010,3,1,1.0
+CZE,Czechia,Prague,2011,3,1,1.0
+CZE,Czechia,Prague,2012,6,2,1.0
+CZE,Czechia,Prague,2013,3,1,1.0
+CZE,Czechia,Prague,2014,7,2,1.0
+CZE,Czechia,Prague,2015,25,7,1.0
+CZE,Czechia,Prague,2016,10,2,1.0
+CZE,Czechia,Prague,2017,3,1,1.0
+CZE,Czechia,Prague,2018,11,3,1.0
+CZE,Czechia,Prague,2019,14,4,1.0
+CZE,Czechia,Prague,2020,3,1,1.0
+CZE,Czechia,Prague,2021,9,3,1.0
+CZE,Czechia,Prague,2022,6,2,1.0
+CZE,Czechia,Prague,2023,6,1,1.0
+CZE,Czechia,Prague,2024,10,3,1.0
+CZE,Czechia,Prague,2025,7,2,1.0
+CZE,Czechia,Prague,2026,18,5,0.767
+SWE,Sweden,Stockholm,2000,0,0,1.0
+SWE,Sweden,Stockholm,2001,4,1,1.0
+SWE,Sweden,Stockholm,2002,5,1,1.0
+SWE,Sweden,Stockholm,2003,0,0,1.0
+SWE,Sweden,Stockholm,2004,3,1,1.0
+SWE,Sweden,Stockholm,2005,3,1,1.0
+SWE,Sweden,Stockholm,2006,19,6,1.0
+SWE,Sweden,Stockholm,2007,15,4,1.0
+SWE,Sweden,Stockholm,2008,3,1,1.0
+SWE,Sweden,Stockholm,2009,0,0,1.0
+SWE,Sweden,Stockholm,2010,4,1,1.0
+SWE,Sweden,Stockholm,2011,0,0,1.0
+SWE,Sweden,Stockholm,2012,0,0,1.0
+SWE,Sweden,Stockholm,2013,0,0,1.0
+SWE,Sweden,Stockholm,2014,7,2,1.0
+SWE,Sweden,Stockholm,2015,4,1,1.0
+SWE,Sweden,Stockholm,2016,6,2,1.0
+SWE,Sweden,Stockholm,2017,1,0,1.0
+SWE,Sweden,Stockholm,2018,21,6,1.0
+SWE,Sweden,Stockholm,2019,14,4,1.0
+SWE,Sweden,Stockholm,2020,7,2,1.0
+SWE,Sweden,Stockholm,2021,6,2,1.0
+SWE,Sweden,Stockholm,2022,3,1,1.0
+SWE,Sweden,Stockholm,2023,0,0,1.0
+SWE,Sweden,Stockholm,2024,14,4,1.0
+SWE,Sweden,Stockholm,2025,11,3,1.0
+SWE,Sweden,Stockholm,2026,3,1,0.767
+PRT,Portugal,Lisbon,2000,4,1,1.0
+PRT,Portugal,Lisbon,2001,0,0,1.0
+PRT,Portugal,Lisbon,2002,3,1,1.0
+PRT,Portugal,Lisbon,2003,11,3,1.0
+PRT,Portugal,Lisbon,2004,3,1,1.0
+PRT,Portugal,Lisbon,2005,6,2,1.0
+PRT,Portugal,Lisbon,2006,3,1,1.0
+PRT,Portugal,Lisbon,2007,6,2,1.0
+PRT,Portugal,Lisbon,2008,6,2,1.0
+PRT,Portugal,Lisbon,2009,7,2,1.0
+PRT,Portugal,Lisbon,2010,12,4,1.0
+PRT,Portugal,Lisbon,2011,11,3,1.0
+PRT,Portugal,Lisbon,2012,0,0,1.0
+PRT,Portugal,Lisbon,2013,4,1,1.0
+PRT,Portugal,Lisbon,2014,6,1,1.0
+PRT,Portugal,Lisbon,2015,11,2,1.0
+PRT,Portugal,Lisbon,2016,6,2,1.0
+PRT,Portugal,Lisbon,2017,7,2,1.0
+PRT,Portugal,Lisbon,2018,4,1,1.0
+PRT,Portugal,Lisbon,2019,8,2,1.0
+PRT,Portugal,Lisbon,2020,3,1,1.0
+PRT,Portugal,Lisbon,2021,0,0,1.0
+PRT,Portugal,Lisbon,2022,9,3,1.0
+PRT,Portugal,Lisbon,2023,15,4,1.0
+PRT,Portugal,Lisbon,2024,26,6,1.0
+PRT,Portugal,Lisbon,2025,8,2,1.0
+PRT,Portugal,Lisbon,2026,8,2,0.767
+SOM,Somalia,Mogadishu,2000,0,0,1.0
+SOM,Somalia,Mogadishu,2001,0,0,1.0
+SOM,Somalia,Mogadishu,2002,3,1,1.0
+SOM,Somalia,Mogadishu,2003,0,0,1.0
+SOM,Somalia,Mogadishu,2004,0,0,1.0
+SOM,Somalia,Mogadishu,2005,0,0,1.0
+SOM,Somalia,Mogadishu,2006,0,0,1.0
+SOM,Somalia,Mogadishu,2007,3,1,1.0
+SOM,Somalia,Mogadishu,2008,7,1,1.0
+SOM,Somalia,Mogadishu,2009,3,1,1.0
+SOM,Somalia,Mogadishu,2010,18,4,1.0
+SOM,Somalia,Mogadishu,2011,0,0,1.0
+SOM,Somalia,Mogadishu,2012,6,2,1.0
+SOM,Somalia,Mogadishu,2013,0,0,1.0
+SOM,Somalia,Mogadishu,2014,0,0,1.0
+SOM,Somalia,Mogadishu,2015,11,3,1.0
+SOM,Somalia,Mogadishu,2016,23,5,1.0
+SOM,Somalia,Mogadishu,2017,0,0,1.0
+SOM,Somalia,Mogadishu,2018,0,0,1.0
+SOM,Somalia,Mogadishu,2019,13,3,1.0
+SOM,Somalia,Mogadishu,2020,0,0,1.0
+SOM,Somalia,Mogadishu,2021,0,0,1.0
+SOM,Somalia,Mogadishu,2022,0,0,1.0
+SOM,Somalia,Mogadishu,2023,6,2,1.0
+SOM,Somalia,Mogadishu,2024,4,1,1.0
+SOM,Somalia,Mogadishu,2025,0,0,1.0
+SOM,Somalia,Mogadishu,2026,11,2,0.767
+JOR,Jordan,Amman,2000,9,3,1.0
+JOR,Jordan,Amman,2001,0,0,1.0
+JOR,Jordan,Amman,2002,12,4,1.0
+JOR,Jordan,Amman,2003,0,0,1.0
+JOR,Jordan,Amman,2004,9,2,1.0
+JOR,Jordan,Amman,2005,11,3,1.0
+JOR,Jordan,Amman,2006,0,0,1.0
+JOR,Jordan,Amman,2007,3,1,1.0
+JOR,Jordan,Amman,2008,12,3,1.0
+JOR,Jordan,Amman,2009,5,1,1.0
+JOR,Jordan,Amman,2010,38,9,1.0
+JOR,Jordan,Amman,2011,0,0,1.0
+JOR,Jordan,Amman,2012,8,2,1.0
+JOR,Jordan,Amman,2013,0,0,1.0
+JOR,Jordan,Amman,2014,3,1,1.0
+JOR,Jordan,Amman,2015,10,3,1.0
+JOR,Jordan,Amman,2016,7,2,1.0
+JOR,Jordan,Amman,2017,12,3,1.0
+JOR,Jordan,Amman,2018,5,1,1.0
+JOR,Jordan,Amman,2019,3,1,1.0
+JOR,Jordan,Amman,2020,24,5,1.0
+JOR,Jordan,Amman,2021,15,5,1.0
+JOR,Jordan,Amman,2022,7,1,1.0
+JOR,Jordan,Amman,2023,9,3,1.0
+JOR,Jordan,Amman,2024,12,4,1.0
+JOR,Jordan,Amman,2025,15,3,1.0
+JOR,Jordan,Amman,2026,0,0,0.767
+AZE,Azerbaijan,Baku,2000,0,0,1.0
+AZE,Azerbaijan,Baku,2001,0,0,1.0
+AZE,Azerbaijan,Baku,2002,0,0,1.0
+AZE,Azerbaijan,Baku,2003,4,1,1.0
+AZE,Azerbaijan,Baku,2004,3,1,1.0
+AZE,Azerbaijan,Baku,2005,3,1,1.0
+AZE,Azerbaijan,Baku,2006,0,0,1.0
+AZE,Azerbaijan,Baku,2007,3,1,1.0
+AZE,Azerbaijan,Baku,2008,0,0,1.0
+AZE,Azerbaijan,Baku,2009,0,0,1.0
+AZE,Azerbaijan,Baku,2010,10,3,1.0
+AZE,Azerbaijan,Baku,2011,0,0,1.0
+AZE,Azerbaijan,Baku,2012,9,2,1.0
+AZE,Azerbaijan,Baku,2013,3,1,1.0
+AZE,Azerbaijan,Baku,2014,10,3,1.0
+AZE,Azerbaijan,Baku,2015,6,2,1.0
+AZE,Azerbaijan,Baku,2016,3,1,1.0
+AZE,Azerbaijan,Baku,2017,10,3,1.0
+AZE,Azerbaijan,Baku,2018,3,1,1.0
+AZE,Azerbaijan,Baku,2019,0,0,1.0
+AZE,Azerbaijan,Baku,2020,0,0,1.0
+AZE,Azerbaijan,Baku,2021,0,0,1.0
+AZE,Azerbaijan,Baku,2022,7,2,1.0
+AZE,Azerbaijan,Baku,2023,19,6,1.0
+AZE,Azerbaijan,Baku,2024,10,3,1.0
+AZE,Azerbaijan,Baku,2025,5,1,1.0
+AZE,Azerbaijan,Baku,2026,0,0,0.767
+ARE,United Arab Emirates,Abu Dhabi,2000,0,0,1.0
+ARE,United Arab Emirates,Abu Dhabi,2001,3,1,1.0
+ARE,United Arab Emirates,Abu Dhabi,2002,3,1,1.0
+ARE,United Arab Emirates,Abu Dhabi,2003,0,0,1.0
+ARE,United Arab Emirates,Abu Dhabi,2004,6,2,1.0
+ARE,United Arab Emirates,Abu Dhabi,2005,0,0,1.0
+ARE,United Arab Emirates,Abu Dhabi,2006,3,1,1.0
+ARE,United Arab Emirates,Abu Dhabi,2007,0,0,1.0
+ARE,United Arab Emirates,Abu Dhabi,2008,0,0,1.0
+ARE,United Arab Emirates,Abu Dhabi,2009,4,1,1.0
+ARE,United Arab Emirates,Abu Dhabi,2010,7,2,1.0
+ARE,United Arab Emirates,Abu Dhabi,2011,0,0,1.0
+ARE,United Arab Emirates,Abu Dhabi,2012,3,1,1.0
+ARE,United Arab Emirates,Abu Dhabi,2013,0,0,1.0
+ARE,United Arab Emirates,Abu Dhabi,2014,0,0,1.0
+ARE,United Arab Emirates,Abu Dhabi,2015,5,2,1.0
+ARE,United Arab Emirates,Abu Dhabi,2016,2,0,1.0
+ARE,United Arab Emirates,Abu Dhabi,2017,0,0,1.0
+ARE,United Arab Emirates,Abu Dhabi,2018,0,0,1.0
+ARE,United Arab Emirates,Abu Dhabi,2019,3,1,1.0
+ARE,United Arab Emirates,Abu Dhabi,2020,9,3,1.0
+ARE,United Arab Emirates,Abu Dhabi,2021,7,2,1.0
+ARE,United Arab Emirates,Abu Dhabi,2022,5,1,1.0
+ARE,United Arab Emirates,Abu Dhabi,2023,3,1,1.0
+ARE,United Arab Emirates,Abu Dhabi,2024,3,1,1.0
+ARE,United Arab Emirates,Abu Dhabi,2025,6,2,1.0
+ARE,United Arab Emirates,Abu Dhabi,2026,0,0,0.767
+HUN,Hungary,Budapest,2000,15,3,1.0
+HUN,Hungary,Budapest,2001,4,1,1.0
+HUN,Hungary,Budapest,2002,8,2,1.0
+HUN,Hungary,Budapest,2003,7,2,1.0
+HUN,Hungary,Budapest,2004,3,1,1.0
+HUN,Hungary,Budapest,2005,4,1,1.0
+HUN,Hungary,Budapest,2006,5,1,1.0
+HUN,Hungary,Budapest,2007,15,2,1.0
+HUN,Hungary,Budapest,2008,4,1,1.0
+HUN,Hungary,Budapest,2009,6,2,1.0
+HUN,Hungary,Budapest,2010,3,1,1.0
+HUN,Hungary,Budapest,2011,4,1,1.0
+HUN,Hungary,Budapest,2012,19,4,1.0
+HUN,Hungary,Budapest,2013,10,3,1.0
+HUN,Hungary,Budapest,2014,6,2,1.0
+HUN,Hungary,Budapest,2015,9,3,1.0
+HUN,Hungary,Budapest,2016,0,0,1.0
+HUN,Hungary,Budapest,2017,4,1,1.0
+HUN,Hungary,Budapest,2018,0,0,1.0
+HUN,Hungary,Budapest,2019,12,3,1.0
+HUN,Hungary,Budapest,2020,4,1,1.0
+HUN,Hungary,Budapest,2021,10,4,1.0
+HUN,Hungary,Budapest,2022,14,3,1.0
+HUN,Hungary,Budapest,2023,13,4,1.0
+HUN,Hungary,Budapest,2024,13,3,1.0
+HUN,Hungary,Budapest,2025,14,3,1.0
+HUN,Hungary,Budapest,2026,17,3,0.767
+HND,Honduras,Tegucigalpa,2000,0,0,1.0
+HND,Honduras,Tegucigalpa,2001,0,0,1.0
+HND,Honduras,Tegucigalpa,2002,3,1,1.0
+HND,Honduras,Tegucigalpa,2003,4,1,1.0
+HND,Honduras,Tegucigalpa,2004,15,4,1.0
+HND,Honduras,Tegucigalpa,2005,0,0,1.0
+HND,Honduras,Tegucigalpa,2006,0,0,1.0
+HND,Honduras,Tegucigalpa,2007,6,2,1.0
+HND,Honduras,Tegucigalpa,2008,3,1,1.0
+HND,Honduras,Tegucigalpa,2009,11,3,1.0
+HND,Honduras,Tegucigalpa,2010,12,3,1.0
+HND,Honduras,Tegucigalpa,2011,0,0,1.0
+HND,Honduras,Tegucigalpa,2012,0,0,1.0
+HND,Honduras,Tegucigalpa,2013,0,0,1.0
+HND,Honduras,Tegucigalpa,2014,3,1,1.0
+HND,Honduras,Tegucigalpa,2015,19,4,1.0
+HND,Honduras,Tegucigalpa,2016,3,1,1.0
+HND,Honduras,Tegucigalpa,2017,0,0,1.0
+HND,Honduras,Tegucigalpa,2018,3,1,1.0
+HND,Honduras,Tegucigalpa,2019,11,3,1.0
+HND,Honduras,Tegucigalpa,2020,9,3,1.0
+HND,Honduras,Tegucigalpa,2021,8,2,1.0
+HND,Honduras,Tegucigalpa,2022,0,0,1.0
+HND,Honduras,Tegucigalpa,2023,14,3,1.0
+HND,Honduras,Tegucigalpa,2024,6,2,1.0
+HND,Honduras,Tegucigalpa,2025,0,0,1.0
+HND,Honduras,Tegucigalpa,2026,47,6,0.764
+BLR,Belarus,Minsk,2000,6,2,1.0
+BLR,Belarus,Minsk,2001,4,1,1.0
+BLR,Belarus,Minsk,2002,15,4,1.0
+BLR,Belarus,Minsk,2003,0,0,1.0
+BLR,Belarus,Minsk,2004,0,0,1.0
+BLR,Belarus,Minsk,2005,6,1,1.0
+BLR,Belarus,Minsk,2006,6,2,1.0
+BLR,Belarus,Minsk,2007,11,3,1.0
+BLR,Belarus,Minsk,2008,3,1,1.0
+BLR,Belarus,Minsk,2009,0,0,1.0
+BLR,Belarus,Minsk,2010,11,3,1.0
+BLR,Belarus,Minsk,2011,3,1,1.0
+BLR,Belarus,Minsk,2012,3,1,1.0
+BLR,Belarus,Minsk,2013,6,1,1.0
+BLR,Belarus,Minsk,2014,26,6,1.0
+BLR,Belarus,Minsk,2015,13,3,1.0
+BLR,Belarus,Minsk,2016,0,0,1.0
+BLR,Belarus,Minsk,2017,0,0,1.0
+BLR,Belarus,Minsk,2018,8,2,1.0
+BLR,Belarus,Minsk,2019,12,3,1.0
+BLR,Belarus,Minsk,2020,4,1,1.0
+BLR,Belarus,Minsk,2021,7,2,1.0
+BLR,Belarus,Minsk,2022,7,2,1.0
+BLR,Belarus,Minsk,2023,3,1,1.0
+BLR,Belarus,Minsk,2024,13,4,1.0
+BLR,Belarus,Minsk,2025,22,4,1.0
+BLR,Belarus,Minsk,2026,0,0,0.767
+TJK,Tajikistan,Dushanbe,2000,0,0,1.0
+TJK,Tajikistan,Dushanbe,2001,7,2,1.0
+TJK,Tajikistan,Dushanbe,2002,7,2,1.0
+TJK,Tajikistan,Dushanbe,2003,4,1,1.0
+TJK,Tajikistan,Dushanbe,2004,0,0,1.0
+TJK,Tajikistan,Dushanbe,2005,3,1,1.0
+TJK,Tajikistan,Dushanbe,2006,12,3,1.0
+TJK,Tajikistan,Dushanbe,2007,6,2,1.0
+TJK,Tajikistan,Dushanbe,2008,3,1,1.0
+TJK,Tajikistan,Dushanbe,2009,0,0,1.0
+TJK,Tajikistan,Dushanbe,2010,3,1,1.0
+TJK,Tajikistan,Dushanbe,2011,15,4,1.0
+TJK,Tajikistan,Dushanbe,2012,0,0,1.0
+TJK,Tajikistan,Dushanbe,2013,8,2,1.0
+TJK,Tajikistan,Dushanbe,2014,0,0,1.0
+TJK,Tajikistan,Dushanbe,2015,0,0,1.0
+TJK,Tajikistan,Dushanbe,2016,14,3,1.0
+TJK,Tajikistan,Dushanbe,2017,4,1,1.0
+TJK,Tajikistan,Dushanbe,2018,0,0,1.0
+TJK,Tajikistan,Dushanbe,2019,4,1,1.0
+TJK,Tajikistan,Dushanbe,2020,3,1,1.0
+TJK,Tajikistan,Dushanbe,2021,17,4,1.0
+TJK,Tajikistan,Dushanbe,2022,7,2,1.0
+TJK,Tajikistan,Dushanbe,2023,9,3,1.0
+TJK,Tajikistan,Dushanbe,2024,9,3,1.0
+TJK,Tajikistan,Dushanbe,2025,65,13,1.0
+TJK,Tajikistan,Dushanbe,2026,50,10,0.767
+ISR,Israel,Jerusalem,2000,3,1,1.0
+ISR,Israel,Jerusalem,2001,0,0,1.0
+ISR,Israel,Jerusalem,2002,12,4,1.0
+ISR,Israel,Jerusalem,2003,3,1,1.0
+ISR,Israel,Jerusalem,2004,0,0,1.0
+ISR,Israel,Jerusalem,2005,3,1,1.0
+ISR,Israel,Jerusalem,2006,0,0,1.0
+ISR,Israel,Jerusalem,2007,9,3,1.0
+ISR,Israel,Jerusalem,2008,8,2,1.0
+ISR,Israel,Jerusalem,2009,5,1,1.0
+ISR,Israel,Jerusalem,2010,50,12,1.0
+ISR,Israel,Jerusalem,2011,0,0,1.0
+ISR,Israel,Jerusalem,2012,8,2,1.0
+ISR,Israel,Jerusalem,2013,4,1,1.0
+ISR,Israel,Jerusalem,2014,3,1,1.0
+ISR,Israel,Jerusalem,2015,11,3,1.0
+ISR,Israel,Jerusalem,2016,7,2,1.0
+ISR,Israel,Jerusalem,2017,9,2,1.0
+ISR,Israel,Jerusalem,2018,7,2,1.0
+ISR,Israel,Jerusalem,2019,0,0,1.0
+ISR,Israel,Jerusalem,2020,18,4,1.0
+ISR,Israel,Jerusalem,2021,6,2,1.0
+ISR,Israel,Jerusalem,2022,4,1,1.0
+ISR,Israel,Jerusalem,2023,3,1,1.0
+ISR,Israel,Jerusalem,2024,3,1,1.0
+ISR,Israel,Jerusalem,2025,7,2,1.0
+ISR,Israel,Jerusalem,2026,6,2,0.767
+AUT,Austria,Vienna,2000,10,3,1.0
+AUT,Austria,Vienna,2001,0,0,1.0
+AUT,Austria,Vienna,2002,6,2,1.0
+AUT,Austria,Vienna,2003,7,2,1.0
+AUT,Austria,Vienna,2004,7,2,1.0
+AUT,Austria,Vienna,2005,4,1,1.0
+AUT,Austria,Vienna,2006,0,0,1.0
+AUT,Austria,Vienna,2007,19,4,1.0
+AUT,Austria,Vienna,2008,6,2,1.0
+AUT,Austria,Vienna,2009,3,1,1.0
+AUT,Austria,Vienna,2010,0,0,1.0
+AUT,Austria,Vienna,2011,3,1,1.0
+AUT,Austria,Vienna,2012,8,2,1.0
+AUT,Austria,Vienna,2013,3,1,1.0
+AUT,Austria,Vienna,2014,6,2,1.0
+AUT,Austria,Vienna,2015,28,7,1.0
+AUT,Austria,Vienna,2016,3,1,1.0
+AUT,Austria,Vienna,2017,3,1,1.0
+AUT,Austria,Vienna,2018,5,1,1.0
+AUT,Austria,Vienna,2019,3,1,1.0
+AUT,Austria,Vienna,2020,7,2,1.0
+AUT,Austria,Vienna,2021,3,1,1.0
+AUT,Austria,Vienna,2022,0,0,1.0
+AUT,Austria,Vienna,2023,12,3,1.0
+AUT,Austria,Vienna,2024,11,2,1.0
+AUT,Austria,Vienna,2025,5,1,1.0
+AUT,Austria,Vienna,2026,16,4,0.767
+PNG,Papua New Guinea,Port Moresby,2000,0,0,1.0
+PNG,Papua New Guinea,Port Moresby,2001,9,2,1.0
+PNG,Papua New Guinea,Port Moresby,2002,4,1,1.0
+PNG,Papua New Guinea,Port Moresby,2003,4,1,1.0
+PNG,Papua New Guinea,Port Moresby,2004,3,1,1.0
+PNG,Papua New Guinea,Port Moresby,2005,3,1,1.0
+PNG,Papua New Guinea,Port Moresby,2006,3,1,1.0
+PNG,Papua New Guinea,Port Moresby,2007,0,0,1.0
+PNG,Papua New Guinea,Port Moresby,2008,0,0,1.0
+PNG,Papua New Guinea,Port Moresby,2009,0,0,1.0
+PNG,Papua New Guinea,Port Moresby,2010,25,7,1.0
+PNG,Papua New Guinea,Port Moresby,2011,0,0,1.0
+PNG,Papua New Guinea,Port Moresby,2012,0,0,1.0
+PNG,Papua New Guinea,Port Moresby,2013,5,1,1.0
+PNG,Papua New Guinea,Port Moresby,2014,0,0,1.0
+PNG,Papua New Guinea,Port Moresby,2015,0,0,1.0
+PNG,Papua New Guinea,Port Moresby,2016,20,6,1.0
+PNG,Papua New Guinea,Port Moresby,2017,3,1,1.0
+PNG,Papua New Guinea,Port Moresby,2018,15,4,1.0
+PNG,Papua New Guinea,Port Moresby,2019,4,1,1.0
+PNG,Papua New Guinea,Port Moresby,2020,3,1,1.0
+PNG,Papua New Guinea,Port Moresby,2021,17,4,1.0
+PNG,Papua New Guinea,Port Moresby,2022,18,5,1.0
+PNG,Papua New Guinea,Port Moresby,2023,17,4,1.0
+PNG,Papua New Guinea,Port Moresby,2024,26,8,1.0
+PNG,Papua New Guinea,Port Moresby,2025,3,1,1.0
+PNG,Papua New Guinea,Port Moresby,2026,10,3,0.767
+CHE,Switzerland,Bern,2000,6,2,1.0
+CHE,Switzerland,Bern,2001,0,0,1.0
+CHE,Switzerland,Bern,2002,3,1,1.0
+CHE,Switzerland,Bern,2003,13,2,1.0
+CHE,Switzerland,Bern,2004,0,0,1.0
+CHE,Switzerland,Bern,2005,11,3,1.0
+CHE,Switzerland,Bern,2006,10,3,1.0
+CHE,Switzerland,Bern,2007,15,3,1.0
+CHE,Switzerland,Bern,2008,0,0,1.0
+CHE,Switzerland,Bern,2009,3,1,1.0
+CHE,Switzerland,Bern,2010,0,0,1.0
+CHE,Switzerland,Bern,2011,3,1,1.0
+CHE,Switzerland,Bern,2012,6,2,1.0
+CHE,Switzerland,Bern,2013,0,0,1.0
+CHE,Switzerland,Bern,2014,3,1,1.0
+CHE,Switzerland,Bern,2015,18,5,1.0
+CHE,Switzerland,Bern,2016,0,0,1.0
+CHE,Switzerland,Bern,2017,9,3,1.0
+CHE,Switzerland,Bern,2018,18,5,1.0
+CHE,Switzerland,Bern,2019,7,2,1.0
+CHE,Switzerland,Bern,2020,6,2,1.0
+CHE,Switzerland,Bern,2021,7,2,1.0
+CHE,Switzerland,Bern,2022,19,6,1.0
+CHE,Switzerland,Bern,2023,25,4,1.0
+CHE,Switzerland,Bern,2024,3,1,1.0
+CHE,Switzerland,Bern,2025,6,2,1.0
+CHE,Switzerland,Bern,2026,47,8,0.767
+TGO,Togo,Lomé,2000,0,0,1.0
+TGO,Togo,Lomé,2001,0,0,1.0
+TGO,Togo,Lomé,2002,0,0,1.0
+TGO,Togo,Lomé,2003,0,0,1.0
+TGO,Togo,Lomé,2004,0,0,1.0
+TGO,Togo,Lomé,2005,0,0,1.0
+TGO,Togo,Lomé,2006,0,0,1.0
+TGO,Togo,Lomé,2007,0,0,1.0
+TGO,Togo,Lomé,2008,0,0,1.0
+TGO,Togo,Lomé,2009,0,0,1.0
+TGO,Togo,Lomé,2010,19,5,1.0
+TGO,Togo,Lomé,2011,0,0,1.0
+TGO,Togo,Lomé,2012,0,0,1.0
+TGO,Togo,Lomé,2013,0,0,1.0
+TGO,Togo,Lomé,2014,0,0,1.0
+TGO,Togo,Lomé,2015,0,0,1.0
+TGO,Togo,Lomé,2016,11,3,1.0
+TGO,Togo,Lomé,2017,0,0,1.0
+TGO,Togo,Lomé,2018,0,0,1.0
+TGO,Togo,Lomé,2019,0,0,1.0
+TGO,Togo,Lomé,2020,6,2,1.0
+TGO,Togo,Lomé,2021,6,2,1.0
+TGO,Togo,Lomé,2022,0,0,1.0
+TGO,Togo,Lomé,2023,19,3,1.0
+TGO,Togo,Lomé,2024,14,3,1.0
+TGO,Togo,Lomé,2025,0,0,1.0
+TGO,Togo,Lomé,2026,3,1,0.767
+SLE,Sierra Leone,Freetown,2000,0,0,1.0
+SLE,Sierra Leone,Freetown,2001,0,0,1.0
+SLE,Sierra Leone,Freetown,2002,0,0,1.0
+SLE,Sierra Leone,Freetown,2003,0,0,1.0
+SLE,Sierra Leone,Freetown,2004,0,0,1.0
+SLE,Sierra Leone,Freetown,2005,0,0,1.0
+SLE,Sierra Leone,Freetown,2006,0,0,1.0
+SLE,Sierra Leone,Freetown,2007,0,0,1.0
+SLE,Sierra Leone,Freetown,2008,0,0,1.0
+SLE,Sierra Leone,Freetown,2009,0,0,1.0
+SLE,Sierra Leone,Freetown,2010,0,0,1.0
+SLE,Sierra Leone,Freetown,2011,0,0,1.0
+SLE,Sierra Leone,Freetown,2012,0,0,1.0
+SLE,Sierra Leone,Freetown,2013,0,0,1.0
+SLE,Sierra Leone,Freetown,2014,0,0,1.0
+SLE,Sierra Leone,Freetown,2015,0,0,1.0
+SLE,Sierra Leone,Freetown,2016,0,0,1.0
+SLE,Sierra Leone,Freetown,2017,0,0,1.0
+SLE,Sierra Leone,Freetown,2018,0,0,1.0
+SLE,Sierra Leone,Freetown,2019,3,1,1.0
+SLE,Sierra Leone,Freetown,2020,3,1,1.0
+SLE,Sierra Leone,Freetown,2021,3,1,1.0
+SLE,Sierra Leone,Freetown,2022,0,0,1.0
+SLE,Sierra Leone,Freetown,2023,3,1,1.0
+SLE,Sierra Leone,Freetown,2024,45,11,1.0
+SLE,Sierra Leone,Freetown,2025,3,0,1.0
+SLE,Sierra Leone,Freetown,2026,22,6,0.767
+LAO,Laos,Vientiane,2000,5,1,1.0
+LAO,Laos,Vientiane,2001,4,1,1.0
+LAO,Laos,Vientiane,2002,3,1,1.0
+LAO,Laos,Vientiane,2003,6,2,1.0
+LAO,Laos,Vientiane,2004,0,0,1.0
+LAO,Laos,Vientiane,2005,4,1,1.0
+LAO,Laos,Vientiane,2006,4,1,1.0
+LAO,Laos,Vientiane,2007,3,1,1.0
+LAO,Laos,Vientiane,2008,0,0,1.0
+LAO,Laos,Vientiane,2009,6,2,1.0
+LAO,Laos,Vientiane,2010,0,0,1.0
+LAO,Laos,Vientiane,2011,0,0,1.0
+LAO,Laos,Vientiane,2012,10,3,1.0
+LAO,Laos,Vientiane,2013,6,2,1.0
+LAO,Laos,Vientiane,2014,6,2,1.0
+LAO,Laos,Vientiane,2015,11,2,1.0
+LAO,Laos,Vientiane,2016,20,3,1.0
+LAO,Laos,Vientiane,2017,3,1,1.0
+LAO,Laos,Vientiane,2018,8,2,1.0
+LAO,Laos,Vientiane,2019,21,6,1.0
+LAO,Laos,Vientiane,2020,13,4,1.0
+LAO,Laos,Vientiane,2021,15,4,1.0
+LAO,Laos,Vientiane,2022,4,1,1.0
+LAO,Laos,Vientiane,2023,36,8,1.0
+LAO,Laos,Vientiane,2024,15,3,1.0
+LAO,Laos,Vientiane,2025,3,1,1.0
+LAO,Laos,Vientiane,2026,14,3,0.767
+PRY,Paraguay,Asunción,2000,5,1,1.0
+PRY,Paraguay,Asunción,2001,3,1,1.0
+PRY,Paraguay,Asunción,2002,3,1,1.0
+PRY,Paraguay,Asunción,2003,6,2,1.0
+PRY,Paraguay,Asunción,2004,3,1,1.0
+PRY,Paraguay,Asunción,2005,7,2,1.0
+PRY,Paraguay,Asunción,2006,11,3,1.0
+PRY,Paraguay,Asunción,2007,8,2,1.0
+PRY,Paraguay,Asunción,2008,9,2,1.0
+PRY,Paraguay,Asunción,2009,3,1,1.0
+PRY,Paraguay,Asunción,2010,6,2,1.0
+PRY,Paraguay,Asunción,2011,4,1,1.0
+PRY,Paraguay,Asunción,2012,10,3,1.0
+PRY,Paraguay,Asunción,2013,4,1,1.0
+PRY,Paraguay,Asunción,2014,8,2,1.0
+PRY,Paraguay,Asunción,2015,0,0,1.0
+PRY,Paraguay,Asunción,2016,0,0,1.0
+PRY,Paraguay,Asunción,2017,0,0,1.0
+PRY,Paraguay,Asunción,2018,6,1,1.0
+PRY,Paraguay,Asunción,2019,7,2,1.0
+PRY,Paraguay,Asunción,2020,18,5,1.0
+PRY,Paraguay,Asunción,2021,7,2,1.0
+PRY,Paraguay,Asunción,2022,20,4,1.0
+PRY,Paraguay,Asunción,2023,15,5,1.0
+PRY,Paraguay,Asunción,2024,28,6,1.0
+PRY,Paraguay,Asunción,2025,14,4,1.0
+PRY,Paraguay,Asunción,2026,3,1,0.764
+BGR,Bulgaria,Sofia,2000,6,2,1.0
+BGR,Bulgaria,Sofia,2001,4,1,1.0
+BGR,Bulgaria,Sofia,2002,3,1,1.0
+BGR,Bulgaria,Sofia,2003,10,2,1.0
+BGR,Bulgaria,Sofia,2004,3,1,1.0
+BGR,Bulgaria,Sofia,2005,0,0,1.0
+BGR,Bulgaria,Sofia,2006,0,0,1.0
+BGR,Bulgaria,Sofia,2007,11,3,1.0
+BGR,Bulgaria,Sofia,2008,7,2,1.0
+BGR,Bulgaria,Sofia,2009,0,0,1.0
+BGR,Bulgaria,Sofia,2010,9,3,1.0
+BGR,Bulgaria,Sofia,2011,5,1,1.0
+BGR,Bulgaria,Sofia,2012,17,3,1.0
+BGR,Bulgaria,Sofia,2013,11,2,1.0
+BGR,Bulgaria,Sofia,2014,6,2,1.0
+BGR,Bulgaria,Sofia,2015,8,2,1.0
+BGR,Bulgaria,Sofia,2016,11,3,1.0
+BGR,Bulgaria,Sofia,2017,7,2,1.0
+BGR,Bulgaria,Sofia,2018,7,2,1.0
+BGR,Bulgaria,Sofia,2019,12,1,1.0
+BGR,Bulgaria,Sofia,2020,4,1,1.0
+BGR,Bulgaria,Sofia,2021,3,1,1.0
+BGR,Bulgaria,Sofia,2022,6,2,1.0
+BGR,Bulgaria,Sofia,2023,10,3,1.0
+BGR,Bulgaria,Sofia,2024,17,4,1.0
+BGR,Bulgaria,Sofia,2025,10,3,1.0
+BGR,Bulgaria,Sofia,2026,0,0,0.767
+SRB,Serbia,Belgrade,2000,8,2,1.0
+SRB,Serbia,Belgrade,2001,4,1,1.0
+SRB,Serbia,Belgrade,2002,5,1,1.0
+SRB,Serbia,Belgrade,2003,16,3,1.0
+SRB,Serbia,Belgrade,2004,4,1,1.0
+SRB,Serbia,Belgrade,2005,0,0,1.0
+SRB,Serbia,Belgrade,2006,3,1,1.0
+SRB,Serbia,Belgrade,2007,6,1,1.0
+SRB,Serbia,Belgrade,2008,0,0,1.0
+SRB,Serbia,Belgrade,2009,0,0,1.0
+SRB,Serbia,Belgrade,2010,6,2,1.0
+SRB,Serbia,Belgrade,2011,0,0,1.0
+SRB,Serbia,Belgrade,2012,11,3,1.0
+SRB,Serbia,Belgrade,2013,4,1,1.0
+SRB,Serbia,Belgrade,2014,3,1,1.0
+SRB,Serbia,Belgrade,2015,0,0,1.0
+SRB,Serbia,Belgrade,2016,7,2,1.0
+SRB,Serbia,Belgrade,2017,13,3,1.0
+SRB,Serbia,Belgrade,2018,3,1,1.0
+SRB,Serbia,Belgrade,2019,14,4,1.0
+SRB,Serbia,Belgrade,2020,0,0,1.0
+SRB,Serbia,Belgrade,2021,4,1,1.0
+SRB,Serbia,Belgrade,2022,1,1,1.0
+SRB,Serbia,Belgrade,2023,2,0,1.0
+SRB,Serbia,Belgrade,2024,32,7,1.0
+SRB,Serbia,Belgrade,2025,18,5,1.0
+SRB,Serbia,Belgrade,2026,6,1,0.767
+LBN,Lebanon,Beirut,2000,12,4,1.0
+LBN,Lebanon,Beirut,2001,0,0,1.0
+LBN,Lebanon,Beirut,2002,10,3,1.0
+LBN,Lebanon,Beirut,2003,3,1,1.0
+LBN,Lebanon,Beirut,2004,3,1,1.0
+LBN,Lebanon,Beirut,2005,3,1,1.0
+LBN,Lebanon,Beirut,2006,0,0,1.0
+LBN,Lebanon,Beirut,2007,3,1,1.0
+LBN,Lebanon,Beirut,2008,5,1,1.0
+LBN,Lebanon,Beirut,2009,5,1,1.0
+LBN,Lebanon,Beirut,2010,26,6,1.0
+LBN,Lebanon,Beirut,2011,0,0,1.0
+LBN,Lebanon,Beirut,2012,5,1,1.0
+LBN,Lebanon,Beirut,2013,0,0,1.0
+LBN,Lebanon,Beirut,2014,0,0,1.0
+LBN,Lebanon,Beirut,2015,11,3,1.0
+LBN,Lebanon,Beirut,2016,5,1,1.0
+LBN,Lebanon,Beirut,2017,6,2,1.0
+LBN,Lebanon,Beirut,2018,3,1,1.0
+LBN,Lebanon,Beirut,2019,8,2,1.0
+LBN,Lebanon,Beirut,2020,21,5,1.0
+LBN,Lebanon,Beirut,2021,11,1,1.0
+LBN,Lebanon,Beirut,2022,0,0,1.0
+LBN,Lebanon,Beirut,2023,0,0,1.0
+LBN,Lebanon,Beirut,2024,3,1,1.0
+LBN,Lebanon,Beirut,2025,11,2,1.0
+LBN,Lebanon,Beirut,2026,0,0,0.767
+LBY,Libya,Tripoli,2000,3,1,1.0
+LBY,Libya,Tripoli,2001,0,0,1.0
+LBY,Libya,Tripoli,2002,3,1,1.0
+LBY,Libya,Tripoli,2003,0,0,1.0
+LBY,Libya,Tripoli,2004,4,1,1.0
+LBY,Libya,Tripoli,2005,3,1,1.0
+LBY,Libya,Tripoli,2006,3,1,1.0
+LBY,Libya,Tripoli,2007,8,2,1.0
+LBY,Libya,Tripoli,2008,0,0,1.0
+LBY,Libya,Tripoli,2009,11,3,1.0
+LBY,Libya,Tripoli,2010,18,5,1.0
+LBY,Libya,Tripoli,2011,4,1,1.0
+LBY,Libya,Tripoli,2012,3,1,1.0
+LBY,Libya,Tripoli,2013,3,1,1.0
+LBY,Libya,Tripoli,2014,16,4,1.0
+LBY,Libya,Tripoli,2015,0,0,1.0
+LBY,Libya,Tripoli,2016,6,2,1.0
+LBY,Libya,Tripoli,2017,0,0,1.0
+LBY,Libya,Tripoli,2018,0,0,1.0
+LBY,Libya,Tripoli,2019,0,0,1.0
+LBY,Libya,Tripoli,2020,0,0,1.0
+LBY,Libya,Tripoli,2021,11,3,1.0
+LBY,Libya,Tripoli,2022,7,2,1.0
+LBY,Libya,Tripoli,2023,0,0,1.0
+LBY,Libya,Tripoli,2024,7,2,1.0
+LBY,Libya,Tripoli,2025,15,4,1.0
+LBY,Libya,Tripoli,2026,27,6,0.767
+NIC,Nicaragua,Managua,2000,9,2,1.0
+NIC,Nicaragua,Managua,2001,0,0,1.0
+NIC,Nicaragua,Managua,2002,0,0,1.0
+NIC,Nicaragua,Managua,2003,7,2,1.0
+NIC,Nicaragua,Managua,2004,0,0,1.0
+NIC,Nicaragua,Managua,2005,12,3,1.0
+NIC,Nicaragua,Managua,2006,11,2,1.0
+NIC,Nicaragua,Managua,2007,9,2,1.0
+NIC,Nicaragua,Managua,2008,0,0,1.0
+NIC,Nicaragua,Managua,2009,11,2,1.0
+NIC,Nicaragua,Managua,2010,10,3,1.0
+NIC,Nicaragua,Managua,2011,0,0,1.0
+NIC,Nicaragua,Managua,2012,9,2,1.0
+NIC,Nicaragua,Managua,2013,0,0,1.0
+NIC,Nicaragua,Managua,2014,10,2,1.0
+NIC,Nicaragua,Managua,2015,14,4,1.0
+NIC,Nicaragua,Managua,2016,12,4,1.0
+NIC,Nicaragua,Managua,2017,0,0,1.0
+NIC,Nicaragua,Managua,2018,0,0,1.0
+NIC,Nicaragua,Managua,2019,5,1,1.0
+NIC,Nicaragua,Managua,2020,0,0,1.0
+NIC,Nicaragua,Managua,2021,3,1,1.0
+NIC,Nicaragua,Managua,2022,0,0,1.0
+NIC,Nicaragua,Managua,2023,11,3,1.0
+NIC,Nicaragua,Managua,2024,3,1,1.0
+NIC,Nicaragua,Managua,2025,0,0,1.0
+NIC,Nicaragua,Managua,2026,26,7,0.764
+KGZ,Kyrgyzstan,Bishkek,2000,3,1,1.0
+KGZ,Kyrgyzstan,Bishkek,2001,6,2,1.0
+KGZ,Kyrgyzstan,Bishkek,2002,6,2,1.0
+KGZ,Kyrgyzstan,Bishkek,2003,8,2,1.0
+KGZ,Kyrgyzstan,Bishkek,2004,4,1,1.0
+KGZ,Kyrgyzstan,Bishkek,2005,7,2,1.0
+KGZ,Kyrgyzstan,Bishkek,2006,3,1,1.0
+KGZ,Kyrgyzstan,Bishkek,2007,13,3,1.0
+KGZ,Kyrgyzstan,Bishkek,2008,7,2,1.0
+KGZ,Kyrgyzstan,Bishkek,2009,0,0,1.0
+KGZ,Kyrgyzstan,Bishkek,2010,6,2,1.0
+KGZ,Kyrgyzstan,Bishkek,2011,0,0,1.0
+KGZ,Kyrgyzstan,Bishkek,2012,4,1,1.0
+KGZ,Kyrgyzstan,Bishkek,2013,12,4,1.0
+KGZ,Kyrgyzstan,Bishkek,2014,3,1,1.0
+KGZ,Kyrgyzstan,Bishkek,2015,11,3,1.0
+KGZ,Kyrgyzstan,Bishkek,2016,16,4,1.0
+KGZ,Kyrgyzstan,Bishkek,2017,6,2,1.0
+KGZ,Kyrgyzstan,Bishkek,2018,0,0,1.0
+KGZ,Kyrgyzstan,Bishkek,2019,4,1,1.0
+KGZ,Kyrgyzstan,Bishkek,2020,0,0,1.0
+KGZ,Kyrgyzstan,Bishkek,2021,8,2,1.0
+KGZ,Kyrgyzstan,Bishkek,2022,3,1,1.0
+KGZ,Kyrgyzstan,Bishkek,2023,9,3,1.0
+KGZ,Kyrgyzstan,Bishkek,2024,0,0,1.0
+KGZ,Kyrgyzstan,Bishkek,2025,15,5,1.0
+KGZ,Kyrgyzstan,Bishkek,2026,19,4,0.767
+SLV,El Salvador,San Salvador,2000,0,0,1.0
+SLV,El Salvador,San Salvador,2001,0,0,1.0
+SLV,El Salvador,San Salvador,2002,5,1,1.0
+SLV,El Salvador,San Salvador,2003,3,1,1.0
+SLV,El Salvador,San Salvador,2004,0,0,1.0
+SLV,El Salvador,San Salvador,2005,0,0,1.0
+SLV,El Salvador,San Salvador,2006,0,0,1.0
+SLV,El Salvador,San Salvador,2007,0,0,1.0
+SLV,El Salvador,San Salvador,2008,0,0,1.0
+SLV,El Salvador,San Salvador,2009,0,0,1.0
+SLV,El Salvador,San Salvador,2010,3,1,1.0
+SLV,El Salvador,San Salvador,2011,3,1,1.0
+SLV,El Salvador,San Salvador,2012,0,0,1.0
+SLV,El Salvador,San Salvador,2013,0,0,1.0
+SLV,El Salvador,San Salvador,2014,0,0,1.0
+SLV,El Salvador,San Salvador,2015,12,2,1.0
+SLV,El Salvador,San Salvador,2016,15,5,1.0
+SLV,El Salvador,San Salvador,2017,3,1,1.0
+SLV,El Salvador,San Salvador,2018,11,4,1.0
+SLV,El Salvador,San Salvador,2019,8,2,1.0
+SLV,El Salvador,San Salvador,2020,17,3,1.0
+SLV,El Salvador,San Salvador,2021,17,4,1.0
+SLV,El Salvador,San Salvador,2022,0,0,1.0
+SLV,El Salvador,San Salvador,2023,18,5,1.0
+SLV,El Salvador,San Salvador,2024,14,4,1.0
+SLV,El Salvador,San Salvador,2025,6,2,1.0
+SLV,El Salvador,San Salvador,2026,54,7,0.764
+ERI,Eritrea,Asmara,2000,0,0,1.0
+ERI,Eritrea,Asmara,2001,0,0,1.0
+ERI,Eritrea,Asmara,2002,6,2,1.0
+ERI,Eritrea,Asmara,2003,0,0,1.0
+ERI,Eritrea,Asmara,2004,3,1,1.0
+ERI,Eritrea,Asmara,2005,14,4,1.0
+ERI,Eritrea,Asmara,2006,0,0,1.0
+ERI,Eritrea,Asmara,2007,0,0,1.0
+ERI,Eritrea,Asmara,2008,0,0,1.0
+ERI,Eritrea,Asmara,2009,0,0,1.0
+ERI,Eritrea,Asmara,2010,3,1,1.0
+ERI,Eritrea,Asmara,2011,0,0,1.0
+ERI,Eritrea,Asmara,2012,0,0,1.0
+ERI,Eritrea,Asmara,2013,0,0,1.0
+ERI,Eritrea,Asmara,2014,0,0,1.0
+ERI,Eritrea,Asmara,2015,30,8,1.0
+ERI,Eritrea,Asmara,2016,10,3,1.0
+ERI,Eritrea,Asmara,2017,0,0,1.0
+ERI,Eritrea,Asmara,2018,3,1,1.0
+ERI,Eritrea,Asmara,2019,8,2,1.0
+ERI,Eritrea,Asmara,2020,4,1,1.0
+ERI,Eritrea,Asmara,2021,11,3,1.0
+ERI,Eritrea,Asmara,2022,6,2,1.0
+ERI,Eritrea,Asmara,2023,14,4,1.0
+ERI,Eritrea,Asmara,2024,8,2,1.0
+ERI,Eritrea,Asmara,2025,8,2,1.0
+ERI,Eritrea,Asmara,2026,20,5,0.767
+TKM,Turkmenistan,Ashgabat,2000,6,2,1.0
+TKM,Turkmenistan,Ashgabat,2001,4,1,1.0
+TKM,Turkmenistan,Ashgabat,2002,7,2,1.0
+TKM,Turkmenistan,Ashgabat,2003,3,1,1.0
+TKM,Turkmenistan,Ashgabat,2004,0,0,1.0
+TKM,Turkmenistan,Ashgabat,2005,0,0,1.0
+TKM,Turkmenistan,Ashgabat,2006,3,1,1.0
+TKM,Turkmenistan,Ashgabat,2007,5,1,1.0
+TKM,Turkmenistan,Ashgabat,2008,9,2,1.0
+TKM,Turkmenistan,Ashgabat,2009,0,0,1.0
+TKM,Turkmenistan,Ashgabat,2010,6,2,1.0
+TKM,Turkmenistan,Ashgabat,2011,5,1,1.0
+TKM,Turkmenistan,Ashgabat,2012,6,2,1.0
+TKM,Turkmenistan,Ashgabat,2013,10,3,1.0
+TKM,Turkmenistan,Ashgabat,2014,0,0,1.0
+TKM,Turkmenistan,Ashgabat,2015,6,2,1.0
+TKM,Turkmenistan,Ashgabat,2016,6,2,1.0
+TKM,Turkmenistan,Ashgabat,2017,3,1,1.0
+TKM,Turkmenistan,Ashgabat,2018,9,3,1.0
+TKM,Turkmenistan,Ashgabat,2019,3,1,1.0
+TKM,Turkmenistan,Ashgabat,2020,0,0,1.0
+TKM,Turkmenistan,Ashgabat,2021,0,0,1.0
+TKM,Turkmenistan,Ashgabat,2022,7,2,1.0
+TKM,Turkmenistan,Ashgabat,2023,6,2,1.0
+TKM,Turkmenistan,Ashgabat,2024,3,1,1.0
+TKM,Turkmenistan,Ashgabat,2025,12,4,1.0
+TKM,Turkmenistan,Ashgabat,2026,6,2,0.767
+DNK,Denmark,København,2000,6,2,1.0
+DNK,Denmark,København,2001,0,0,1.0
+DNK,Denmark,København,2002,0,0,1.0
+DNK,Denmark,København,2003,0,0,1.0
+DNK,Denmark,København,2004,3,1,1.0
+DNK,Denmark,København,2005,3,1,1.0
+DNK,Denmark,København,2006,7,2,1.0
+DNK,Denmark,København,2007,8,2,1.0
+DNK,Denmark,København,2008,6,2,1.0
+DNK,Denmark,København,2009,0,0,1.0
+DNK,Denmark,København,2010,3,1,1.0
+DNK,Denmark,København,2011,6,2,1.0
+DNK,Denmark,København,2012,9,3,1.0
+DNK,Denmark,København,2013,0,0,1.0
+DNK,Denmark,København,2014,0,0,1.0
+DNK,Denmark,København,2015,12,2,1.0
+DNK,Denmark,København,2016,10,3,1.0
+DNK,Denmark,København,2017,0,0,1.0
+DNK,Denmark,København,2018,28,6,1.0
+DNK,Denmark,København,2019,11,3,1.0
+DNK,Denmark,København,2020,9,3,1.0
+DNK,Denmark,København,2021,15,4,1.0
+DNK,Denmark,København,2022,15,4,1.0
+DNK,Denmark,København,2023,2,0,1.0
+DNK,Denmark,København,2024,10,2,1.0
+DNK,Denmark,København,2025,6,1,1.0
+DNK,Denmark,København,2026,6,2,0.767
+FIN,Finland,Helsinki,2000,0,0,1.0
+FIN,Finland,Helsinki,2001,0,0,1.0
+FIN,Finland,Helsinki,2002,6,1,1.0
+FIN,Finland,Helsinki,2003,8,2,1.0
+FIN,Finland,Helsinki,2004,4,1,1.0
+FIN,Finland,Helsinki,2005,0,0,1.0
+FIN,Finland,Helsinki,2006,12,3,1.0
+FIN,Finland,Helsinki,2007,14,3,1.0
+FIN,Finland,Helsinki,2008,3,1,1.0
+FIN,Finland,Helsinki,2009,0,0,1.0
+FIN,Finland,Helsinki,2010,5,1,1.0
+FIN,Finland,Helsinki,2011,7,2,1.0
+FIN,Finland,Helsinki,2012,0,0,1.0
+FIN,Finland,Helsinki,2013,0,0,1.0
+FIN,Finland,Helsinki,2014,16,4,1.0
+FIN,Finland,Helsinki,2015,13,3,1.0
+FIN,Finland,Helsinki,2016,3,1,1.0
+FIN,Finland,Helsinki,2017,0,0,1.0
+FIN,Finland,Helsinki,2018,11,3,1.0
+FIN,Finland,Helsinki,2019,6,2,1.0
+FIN,Finland,Helsinki,2020,13,3,1.0
+FIN,Finland,Helsinki,2021,12,3,1.0
+FIN,Finland,Helsinki,2022,12,3,1.0
+FIN,Finland,Helsinki,2023,6,2,1.0
+FIN,Finland,Helsinki,2024,7,2,1.0
+FIN,Finland,Helsinki,2025,25,7,1.0
+FIN,Finland,Helsinki,2026,3,1,0.767
+SVK,Slovakia,Bratislava,2000,20,6,1.0
+SVK,Slovakia,Bratislava,2001,0,0,1.0
+SVK,Slovakia,Bratislava,2002,7,2,1.0
+SVK,Slovakia,Bratislava,2003,8,2,1.0
+SVK,Slovakia,Bratislava,2004,7,2,1.0
+SVK,Slovakia,Bratislava,2005,4,1,1.0
+SVK,Slovakia,Bratislava,2006,0,0,1.0
+SVK,Slovakia,Bratislava,2007,18,4,1.0
+SVK,Slovakia,Bratislava,2008,7,2,1.0
+SVK,Slovakia,Bratislava,2009,0,0,1.0
+SVK,Slovakia,Bratislava,2010,0,0,1.0
+SVK,Slovakia,Bratislava,2011,10,3,1.0
+SVK,Slovakia,Bratislava,2012,15,4,1.0
+SVK,Slovakia,Bratislava,2013,6,2,1.0
+SVK,Slovakia,Bratislava,2014,7,2,1.0
+SVK,Slovakia,Bratislava,2015,17,4,1.0
+SVK,Slovakia,Bratislava,2016,3,1,1.0
+SVK,Slovakia,Bratislava,2017,0,0,1.0
+SVK,Slovakia,Bratislava,2018,5,1,1.0
+SVK,Slovakia,Bratislava,2019,8,2,1.0
+SVK,Slovakia,Bratislava,2020,7,2,1.0
+SVK,Slovakia,Bratislava,2021,4,2,1.0
+SVK,Slovakia,Bratislava,2022,10,2,1.0
+SVK,Slovakia,Bratislava,2023,15,4,1.0
+SVK,Slovakia,Bratislava,2024,15,3,1.0
+SVK,Slovakia,Bratislava,2025,12,3,1.0
+SVK,Slovakia,Bratislava,2026,14,3,0.767
+COG,Congo,Brazzaville,2000,0,0,1.0
+COG,Congo,Brazzaville,2001,0,0,1.0
+COG,Congo,Brazzaville,2002,0,0,1.0
+COG,Congo,Brazzaville,2003,3,1,1.0
+COG,Congo,Brazzaville,2004,0,0,1.0
+COG,Congo,Brazzaville,2005,0,0,1.0
+COG,Congo,Brazzaville,2006,0,0,1.0
+COG,Congo,Brazzaville,2007,0,0,1.0
+COG,Congo,Brazzaville,2008,0,0,1.0
+COG,Congo,Brazzaville,2009,0,0,1.0
+COG,Congo,Brazzaville,2010,6,2,1.0
+COG,Congo,Brazzaville,2011,0,0,1.0
+COG,Congo,Brazzaville,2012,0,0,1.0
+COG,Congo,Brazzaville,2013,3,1,1.0
+COG,Congo,Brazzaville,2014,0,0,1.0
+COG,Congo,Brazzaville,2015,4,1,1.0
+COG,Congo,Brazzaville,2016,0,0,1.0
+COG,Congo,Brazzaville,2017,3,1,1.0
+COG,Congo,Brazzaville,2018,0,0,1.0
+COG,Congo,Brazzaville,2019,0,0,1.0
+COG,Congo,Brazzaville,2020,3,1,1.0
+COG,Congo,Brazzaville,2021,5,1,1.0
+COG,Congo,Brazzaville,2022,0,0,1.0
+COG,Congo,Brazzaville,2023,3,1,1.0
+COG,Congo,Brazzaville,2024,11,3,1.0
+COG,Congo,Brazzaville,2025,0,0,1.0
+COG,Congo,Brazzaville,2026,19,5,0.767
+NOR,Norway,Oslo,2000,6,2,1.0
+NOR,Norway,Oslo,2001,0,0,1.0
+NOR,Norway,Oslo,2002,4,1,1.0
+NOR,Norway,Oslo,2003,0,0,1.0
+NOR,Norway,Oslo,2004,5,1,1.0
+NOR,Norway,Oslo,2005,3,1,1.0
+NOR,Norway,Oslo,2006,7,2,1.0
+NOR,Norway,Oslo,2007,11,3,1.0
+NOR,Norway,Oslo,2008,7,2,1.0
+NOR,Norway,Oslo,2009,7,1,1.0
+NOR,Norway,Oslo,2010,0,0,1.0
+NOR,Norway,Oslo,2011,6,2,1.0
+NOR,Norway,Oslo,2012,16,4,1.0
+NOR,Norway,Oslo,2013,0,0,1.0
+NOR,Norway,Oslo,2014,17,4,1.0
+NOR,Norway,Oslo,2015,3,1,1.0
+NOR,Norway,Oslo,2016,9,3,1.0
+NOR,Norway,Oslo,2017,0,0,1.0
+NOR,Norway,Oslo,2018,17,4,1.0
+NOR,Norway,Oslo,2019,6,2,1.0
+NOR,Norway,Oslo,2020,18,4,1.0
+NOR,Norway,Oslo,2021,5,1,1.0
+NOR,Norway,Oslo,2022,9,2,1.0
+NOR,Norway,Oslo,2023,4,1,1.0
+NOR,Norway,Oslo,2024,3,1,1.0
+NOR,Norway,Oslo,2025,12,3,1.0
+NOR,Norway,Oslo,2026,3,1,0.767
+SOL,Somaliland,Hargeisa,2000,0,0,1.0
+SOL,Somaliland,Hargeisa,2001,3,1,1.0
+SOL,Somaliland,Hargeisa,2002,0,0,1.0
+SOL,Somaliland,Hargeisa,2003,0,0,1.0
+SOL,Somaliland,Hargeisa,2004,3,1,1.0
+SOL,Somaliland,Hargeisa,2005,3,1,1.0
+SOL,Somaliland,Hargeisa,2006,0,0,1.0
+SOL,Somaliland,Hargeisa,2007,0,0,1.0
+SOL,Somaliland,Hargeisa,2008,0,0,1.0
+SOL,Somaliland,Hargeisa,2009,13,4,1.0
+SOL,Somaliland,Hargeisa,2010,3,1,1.0
+SOL,Somaliland,Hargeisa,2011,3,1,1.0
+SOL,Somaliland,Hargeisa,2012,3,1,1.0
+SOL,Somaliland,Hargeisa,2013,0,0,1.0
+SOL,Somaliland,Hargeisa,2014,0,0,1.0
+SOL,Somaliland,Hargeisa,2015,17,5,1.0
+SOL,Somaliland,Hargeisa,2016,19,5,1.0
+SOL,Somaliland,Hargeisa,2017,0,0,1.0
+SOL,Somaliland,Hargeisa,2018,0,0,1.0
+SOL,Somaliland,Hargeisa,2019,0,0,1.0
+SOL,Somaliland,Hargeisa,2020,3,1,1.0
+SOL,Somaliland,Hargeisa,2021,4,1,1.0
+SOL,Somaliland,Hargeisa,2022,15,4,1.0
+SOL,Somaliland,Hargeisa,2023,20,6,1.0
+SOL,Somaliland,Hargeisa,2024,31,8,1.0
+SOL,Somaliland,Hargeisa,2025,9,3,1.0
+SOL,Somaliland,Hargeisa,2026,15,4,0.767
+CRI,Costa Rica,San José,2000,0,0,1.0
+CRI,Costa Rica,San José,2001,0,0,1.0
+CRI,Costa Rica,San José,2002,0,0,1.0
+CRI,Costa Rica,San José,2003,0,0,1.0
+CRI,Costa Rica,San José,2004,6,1,1.0
+CRI,Costa Rica,San José,2005,0,0,1.0
+CRI,Costa Rica,San José,2006,0,0,1.0
+CRI,Costa Rica,San José,2007,3,1,1.0
+CRI,Costa Rica,San José,2008,0,0,1.0
+CRI,Costa Rica,San José,2009,3,1,1.0
+CRI,Costa Rica,San José,2010,4,1,1.0
+CRI,Costa Rica,San José,2011,0,0,1.0
+CRI,Costa Rica,San José,2012,0,0,1.0
+CRI,Costa Rica,San José,2013,0,0,1.0
+CRI,Costa Rica,San José,2014,3,1,1.0
+CRI,Costa Rica,San José,2015,0,0,1.0
+CRI,Costa Rica,San José,2016,6,2,1.0
+CRI,Costa Rica,San José,2017,0,0,1.0
+CRI,Costa Rica,San José,2018,0,0,1.0
+CRI,Costa Rica,San José,2019,4,1,1.0
+CRI,Costa Rica,San José,2020,5,1,1.0
+CRI,Costa Rica,San José,2021,0,0,1.0
+CRI,Costa Rica,San José,2022,0,0,1.0
+CRI,Costa Rica,San José,2023,19,5,1.0
+CRI,Costa Rica,San José,2024,47,10,1.0
+CRI,Costa Rica,San José,2025,0,0,1.0
+CRI,Costa Rica,San José,2026,13,4,0.764
+OMN,Oman,Muscat,2000,3,1,1.0
+OMN,Oman,Muscat,2001,7,2,1.0
+OMN,Oman,Muscat,2002,6,2,1.0
+OMN,Oman,Muscat,2003,0,0,1.0
+OMN,Oman,Muscat,2004,6,2,1.0
+OMN,Oman,Muscat,2005,5,1,1.0
+OMN,Oman,Muscat,2006,12,4,1.0
+OMN,Oman,Muscat,2007,0,0,1.0
+OMN,Oman,Muscat,2008,0,0,1.0
+OMN,Oman,Muscat,2009,12,3,1.0
+OMN,Oman,Muscat,2010,0,0,1.0
+OMN,Oman,Muscat,2011,0,0,1.0
+OMN,Oman,Muscat,2012,0,0,1.0
+OMN,Oman,Muscat,2013,0,0,1.0
+OMN,Oman,Muscat,2014,3,1,1.0
+OMN,Oman,Muscat,2015,22,6,1.0
+OMN,Oman,Muscat,2016,4,1,1.0
+OMN,Oman,Muscat,2017,1,0,1.0
+OMN,Oman,Muscat,2018,0,0,1.0
+OMN,Oman,Muscat,2019,0,0,1.0
+OMN,Oman,Muscat,2020,4,1,1.0
+OMN,Oman,Muscat,2021,12,4,1.0
+OMN,Oman,Muscat,2022,3,1,1.0
+OMN,Oman,Muscat,2023,0,0,1.0
+OMN,Oman,Muscat,2024,9,3,1.0
+OMN,Oman,Muscat,2025,3,1,1.0
+OMN,Oman,Muscat,2026,4,1,0.767
+IRL,Ireland,Dublin,2000,4,1,1.0
+IRL,Ireland,Dublin,2001,0,0,1.0
+IRL,Ireland,Dublin,2002,0,0,1.0
+IRL,Ireland,Dublin,2003,12,3,1.0
+IRL,Ireland,Dublin,2004,4,1,1.0
+IRL,Ireland,Dublin,2005,6,2,1.0
+IRL,Ireland,Dublin,2006,8,2,1.0
+IRL,Ireland,Dublin,2007,6,2,1.0
+IRL,Ireland,Dublin,2008,3,1,1.0
+IRL,Ireland,Dublin,2009,0,0,1.0
+IRL,Ireland,Dublin,2010,4,1,1.0
+IRL,Ireland,Dublin,2011,3,1,1.0
+IRL,Ireland,Dublin,2012,6,1,1.0
+IRL,Ireland,Dublin,2013,0,0,1.0
+IRL,Ireland,Dublin,2014,0,0,1.0
+IRL,Ireland,Dublin,2015,5,1,1.0
+IRL,Ireland,Dublin,2016,4,1,1.0
+IRL,Ireland,Dublin,2017,3,1,1.0
+IRL,Ireland,Dublin,2018,9,2,1.0
+IRL,Ireland,Dublin,2019,8,2,1.0
+IRL,Ireland,Dublin,2020,6,2,1.0
+IRL,Ireland,Dublin,2021,9,3,1.0
+IRL,Ireland,Dublin,2022,16,3,1.0
+IRL,Ireland,Dublin,2023,13,2,1.0
+IRL,Ireland,Dublin,2024,4,1,1.0
+IRL,Ireland,Dublin,2025,7,2,1.0
+IRL,Ireland,Dublin,2026,11,3,0.767
+LBR,Liberia,Monrovia,2000,0,0,1.0
+LBR,Liberia,Monrovia,2001,0,0,1.0
+LBR,Liberia,Monrovia,2002,0,0,1.0
+LBR,Liberia,Monrovia,2003,0,0,1.0
+LBR,Liberia,Monrovia,2004,0,0,1.0
+LBR,Liberia,Monrovia,2005,0,0,1.0
+LBR,Liberia,Monrovia,2006,0,0,1.0
+LBR,Liberia,Monrovia,2007,0,0,1.0
+LBR,Liberia,Monrovia,2008,0,0,1.0
+LBR,Liberia,Monrovia,2009,0,0,1.0
+LBR,Liberia,Monrovia,2010,0,0,1.0
+LBR,Liberia,Monrovia,2011,0,0,1.0
+LBR,Liberia,Monrovia,2012,0,0,1.0
+LBR,Liberia,Monrovia,2013,0,0,1.0
+LBR,Liberia,Monrovia,2014,0,0,1.0
+LBR,Liberia,Monrovia,2015,0,0,1.0
+LBR,Liberia,Monrovia,2016,0,0,1.0
+LBR,Liberia,Monrovia,2017,3,1,1.0
+LBR,Liberia,Monrovia,2018,0,0,1.0
+LBR,Liberia,Monrovia,2019,0,0,1.0
+LBR,Liberia,Monrovia,2020,13,4,1.0
+LBR,Liberia,Monrovia,2021,4,1,1.0
+LBR,Liberia,Monrovia,2022,0,0,1.0
+LBR,Liberia,Monrovia,2023,6,2,1.0
+LBR,Liberia,Monrovia,2024,45,11,1.0
+LBR,Liberia,Monrovia,2025,5,1,1.0
+LBR,Liberia,Monrovia,2026,3,1,0.767
+NZL,New Zealand,Wellington,2000,3,1,1.0
+NZL,New Zealand,Wellington,2001,5,1,1.0
+NZL,New Zealand,Wellington,2002,0,0,1.0
+NZL,New Zealand,Wellington,2003,9,3,1.0
+NZL,New Zealand,Wellington,2004,0,0,1.0
+NZL,New Zealand,Wellington,2005,4,1,1.0
+NZL,New Zealand,Wellington,2006,0,0,1.0
+NZL,New Zealand,Wellington,2007,0,0,1.0
+NZL,New Zealand,Wellington,2008,7,2,1.0
+NZL,New Zealand,Wellington,2009,0,0,1.0
+NZL,New Zealand,Wellington,2010,0,0,1.0
+NZL,New Zealand,Wellington,2011,0,0,1.0
+NZL,New Zealand,Wellington,2012,4,1,1.0
+NZL,New Zealand,Wellington,2013,0,0,1.0
+NZL,New Zealand,Wellington,2014,4,1,1.0
+NZL,New Zealand,Wellington,2015,0,0,1.0
+NZL,New Zealand,Wellington,2016,3,1,1.0
+NZL,New Zealand,Wellington,2017,5,1,1.0
+NZL,New Zealand,Wellington,2018,12,3,1.0
+NZL,New Zealand,Wellington,2019,0,0,1.0
+NZL,New Zealand,Wellington,2020,3,1,1.0
+NZL,New Zealand,Wellington,2021,0,0,1.0
+NZL,New Zealand,Wellington,2022,13,3,1.0
+NZL,New Zealand,Wellington,2023,8,2,1.0
+NZL,New Zealand,Wellington,2024,3,1,1.0
+NZL,New Zealand,Wellington,2025,6,2,1.0
+NZL,New Zealand,Wellington,2026,6,2,0.767
+CAF,Central African Rep.,Bangui,2000,0,0,1.0
+CAF,Central African Rep.,Bangui,2001,0,0,1.0
+CAF,Central African Rep.,Bangui,2002,0,0,1.0
+CAF,Central African Rep.,Bangui,2003,0,0,1.0
+CAF,Central African Rep.,Bangui,2004,0,0,1.0
+CAF,Central African Rep.,Bangui,2005,3,1,1.0
+CAF,Central African Rep.,Bangui,2006,0,0,1.0
+CAF,Central African Rep.,Bangui,2007,0,0,1.0
+CAF,Central African Rep.,Bangui,2008,0,0,1.0
+CAF,Central African Rep.,Bangui,2009,0,0,1.0
+CAF,Central African Rep.,Bangui,2010,0,0,1.0
+CAF,Central African Rep.,Bangui,2011,3,1,1.0
+CAF,Central African Rep.,Bangui,2012,0,0,1.0
+CAF,Central African Rep.,Bangui,2013,4,1,1.0
+CAF,Central African Rep.,Bangui,2014,0,0,1.0
+CAF,Central African Rep.,Bangui,2015,4,1,1.0
+CAF,Central African Rep.,Bangui,2016,3,1,1.0
+CAF,Central African Rep.,Bangui,2017,0,0,1.0
+CAF,Central African Rep.,Bangui,2018,0,0,1.0
+CAF,Central African Rep.,Bangui,2019,0,0,1.0
+CAF,Central African Rep.,Bangui,2020,10,3,1.0
+CAF,Central African Rep.,Bangui,2021,4,1,1.0
+CAF,Central African Rep.,Bangui,2022,0,0,1.0
+CAF,Central African Rep.,Bangui,2023,3,1,1.0
+CAF,Central African Rep.,Bangui,2024,16,5,1.0
+CAF,Central African Rep.,Bangui,2025,0,0,1.0
+CAF,Central African Rep.,Bangui,2026,0,0,0.767
+PSX,Palestine,Ramallah,2000,3,1,1.0
+PSX,Palestine,Ramallah,2001,0,0,1.0
+PSX,Palestine,Ramallah,2002,9,3,1.0
+PSX,Palestine,Ramallah,2003,3,1,1.0
+PSX,Palestine,Ramallah,2004,3,1,1.0
+PSX,Palestine,Ramallah,2005,3,1,1.0
+PSX,Palestine,Ramallah,2006,0,0,1.0
+PSX,Palestine,Ramallah,2007,6,2,1.0
+PSX,Palestine,Ramallah,2008,8,2,1.0
+PSX,Palestine,Ramallah,2009,5,1,1.0
+PSX,Palestine,Ramallah,2010,32,7,1.0
+PSX,Palestine,Ramallah,2011,0,0,1.0
+PSX,Palestine,Ramallah,2012,10,2,1.0
+PSX,Palestine,Ramallah,2013,7,2,1.0
+PSX,Palestine,Ramallah,2014,6,2,1.0
+PSX,Palestine,Ramallah,2015,11,3,1.0
+PSX,Palestine,Ramallah,2016,8,2,1.0
+PSX,Palestine,Ramallah,2017,7,2,1.0
+PSX,Palestine,Ramallah,2018,7,2,1.0
+PSX,Palestine,Ramallah,2019,0,0,1.0
+PSX,Palestine,Ramallah,2020,21,5,1.0
+PSX,Palestine,Ramallah,2021,12,4,1.0
+PSX,Palestine,Ramallah,2022,3,1,1.0
+PSX,Palestine,Ramallah,2023,4,1,1.0
+PSX,Palestine,Ramallah,2024,6,2,1.0
+PSX,Palestine,Ramallah,2025,15,4,1.0
+PSX,Palestine,Ramallah,2026,0,0,0.767
+MRT,Mauritania,Nouakchott,2000,6,2,1.0
+MRT,Mauritania,Nouakchott,2001,10,2,1.0
+MRT,Mauritania,Nouakchott,2002,3,1,1.0
+MRT,Mauritania,Nouakchott,2003,4,1,1.0
+MRT,Mauritania,Nouakchott,2004,0,0,1.0
+MRT,Mauritania,Nouakchott,2005,11,3,1.0
+MRT,Mauritania,Nouakchott,2006,8,2,1.0
+MRT,Mauritania,Nouakchott,2007,3,1,1.0
+MRT,Mauritania,Nouakchott,2008,7,2,1.0
+MRT,Mauritania,Nouakchott,2009,0,0,1.0
+MRT,Mauritania,Nouakchott,2010,10,3,1.0
+MRT,Mauritania,Nouakchott,2011,0,0,1.0
+MRT,Mauritania,Nouakchott,2012,3,1,1.0
+MRT,Mauritania,Nouakchott,2013,0,0,1.0
+MRT,Mauritania,Nouakchott,2014,3,1,1.0
+MRT,Mauritania,Nouakchott,2015,3,1,1.0
+MRT,Mauritania,Nouakchott,2016,3,1,1.0
+MRT,Mauritania,Nouakchott,2017,0,0,1.0
+MRT,Mauritania,Nouakchott,2018,0,0,1.0
+MRT,Mauritania,Nouakchott,2019,0,0,1.0
+MRT,Mauritania,Nouakchott,2020,9,3,1.0
+MRT,Mauritania,Nouakchott,2021,4,1,1.0
+MRT,Mauritania,Nouakchott,2022,10,2,1.0
+MRT,Mauritania,Nouakchott,2023,0,0,1.0
+MRT,Mauritania,Nouakchott,2024,8,2,1.0
+MRT,Mauritania,Nouakchott,2025,6,2,1.0
+MRT,Mauritania,Nouakchott,2026,11,2,0.767
+PAN,Panama,Panama City,2000,0,0,1.0
+PAN,Panama,Panama City,2001,0,0,1.0
+PAN,Panama,Panama City,2002,3,1,1.0
+PAN,Panama,Panama City,2003,4,1,1.0
+PAN,Panama,Panama City,2004,0,0,1.0
+PAN,Panama,Panama City,2005,0,0,1.0
+PAN,Panama,Panama City,2006,3,1,1.0
+PAN,Panama,Panama City,2007,3,1,1.0
+PAN,Panama,Panama City,2008,0,0,1.0
+PAN,Panama,Panama City,2009,0,0,1.0
+PAN,Panama,Panama City,2010,8,2,1.0
+PAN,Panama,Panama City,2011,0,0,1.0
+PAN,Panama,Panama City,2012,0,0,1.0
+PAN,Panama,Panama City,2013,0,0,1.0
+PAN,Panama,Panama City,2014,6,2,1.0
+PAN,Panama,Panama City,2015,46,9,1.0
+PAN,Panama,Panama City,2016,1,0,1.0
+PAN,Panama,Panama City,2017,0,0,1.0
+PAN,Panama,Panama City,2018,0,0,1.0
+PAN,Panama,Panama City,2019,0,0,1.0
+PAN,Panama,Panama City,2020,3,1,1.0
+PAN,Panama,Panama City,2021,0,0,1.0
+PAN,Panama,Panama City,2022,0,0,1.0
+PAN,Panama,Panama City,2023,28,8,1.0
+PAN,Panama,Panama City,2024,23,5,1.0
+PAN,Panama,Panama City,2025,3,1,1.0
+PAN,Panama,Panama City,2026,23,6,0.764
+KWT,Kuwait,Kuwait City,2000,0,0,1.0
+KWT,Kuwait,Kuwait City,2001,0,0,1.0
+KWT,Kuwait,Kuwait City,2002,0,0,1.0
+KWT,Kuwait,Kuwait City,2003,6,2,1.0
+KWT,Kuwait,Kuwait City,2004,5,1,1.0
+KWT,Kuwait,Kuwait City,2005,0,0,1.0
+KWT,Kuwait,Kuwait City,2006,0,0,1.0
+KWT,Kuwait,Kuwait City,2007,0,0,1.0
+KWT,Kuwait,Kuwait City,2008,3,1,1.0
+KWT,Kuwait,Kuwait City,2009,0,0,1.0
+KWT,Kuwait,Kuwait City,2010,21,4,1.0
+KWT,Kuwait,Kuwait City,2011,0,0,1.0
+KWT,Kuwait,Kuwait City,2012,0,0,1.0
+KWT,Kuwait,Kuwait City,2013,4,1,1.0
+KWT,Kuwait,Kuwait City,2014,0,0,1.0
+KWT,Kuwait,Kuwait City,2015,3,1,1.0
+KWT,Kuwait,Kuwait City,2016,0,0,1.0
+KWT,Kuwait,Kuwait City,2017,7,2,1.0
+KWT,Kuwait,Kuwait City,2018,4,1,1.0
+KWT,Kuwait,Kuwait City,2019,6,2,1.0
+KWT,Kuwait,Kuwait City,2020,0,0,1.0
+KWT,Kuwait,Kuwait City,2021,13,4,1.0
+KWT,Kuwait,Kuwait City,2022,0,0,1.0
+KWT,Kuwait,Kuwait City,2023,3,1,1.0
+KWT,Kuwait,Kuwait City,2024,14,4,1.0
+KWT,Kuwait,Kuwait City,2025,8,2,1.0
+KWT,Kuwait,Kuwait City,2026,20,5,0.767
+HRV,Croatia,Zagreb,2000,12,4,1.0
+HRV,Croatia,Zagreb,2001,0,0,1.0
+HRV,Croatia,Zagreb,2002,3,1,1.0
+HRV,Croatia,Zagreb,2003,10,3,1.0
+HRV,Croatia,Zagreb,2004,0,0,1.0
+HRV,Croatia,Zagreb,2005,0,0,1.0
+HRV,Croatia,Zagreb,2006,8,2,1.0
+HRV,Croatia,Zagreb,2007,10,2,1.0
+HRV,Croatia,Zagreb,2008,3,1,1.0
+HRV,Croatia,Zagreb,2009,6,2,1.0
+HRV,Croatia,Zagreb,2010,0,0,1.0
+HRV,Croatia,Zagreb,2011,10,2,1.0
+HRV,Croatia,Zagreb,2012,14,3,1.0
+HRV,Croatia,Zagreb,2013,15,4,1.0
+HRV,Croatia,Zagreb,2014,7,2,1.0
+HRV,Croatia,Zagreb,2015,6,2,1.0
+HRV,Croatia,Zagreb,2016,0,0,1.0
+HRV,Croatia,Zagreb,2017,6,2,1.0
+HRV,Croatia,Zagreb,2018,3,1,1.0
+HRV,Croatia,Zagreb,2019,6,2,1.0
+HRV,Croatia,Zagreb,2020,7,2,1.0
+HRV,Croatia,Zagreb,2021,5,1,1.0
+HRV,Croatia,Zagreb,2022,1,1,1.0
+HRV,Croatia,Zagreb,2023,5,1,1.0
+HRV,Croatia,Zagreb,2024,20,6,1.0
+HRV,Croatia,Zagreb,2025,8,2,1.0
+HRV,Croatia,Zagreb,2026,10,2,0.767
+GEO,Georgia,Tbilisi,2000,9,2,1.0
+GEO,Georgia,Tbilisi,2001,0,0,1.0
+GEO,Georgia,Tbilisi,2002,0,0,1.0
+GEO,Georgia,Tbilisi,2003,3,1,1.0
+GEO,Georgia,Tbilisi,2004,9,2,1.0
+GEO,Georgia,Tbilisi,2005,0,0,1.0
+GEO,Georgia,Tbilisi,2006,13,2,1.0
+GEO,Georgia,Tbilisi,2007,8,2,1.0
+GEO,Georgia,Tbilisi,2008,3,1,1.0
+GEO,Georgia,Tbilisi,2009,0,0,1.0
+GEO,Georgia,Tbilisi,2010,10,3,1.0
+GEO,Georgia,Tbilisi,2011,3,1,1.0
+GEO,Georgia,Tbilisi,2012,3,1,1.0
+GEO,Georgia,Tbilisi,2013,3,1,1.0
+GEO,Georgia,Tbilisi,2014,7,2,1.0
+GEO,Georgia,Tbilisi,2015,12,3,1.0
+GEO,Georgia,Tbilisi,2016,6,2,1.0
+GEO,Georgia,Tbilisi,2017,6,2,1.0
+GEO,Georgia,Tbilisi,2018,8,2,1.0
+GEO,Georgia,Tbilisi,2019,14,4,1.0
+GEO,Georgia,Tbilisi,2020,11,2,1.0
+GEO,Georgia,Tbilisi,2021,14,4,1.0
+GEO,Georgia,Tbilisi,2022,12,3,1.0
+GEO,Georgia,Tbilisi,2023,8,2,1.0
+GEO,Georgia,Tbilisi,2024,16,3,1.0
+GEO,Georgia,Tbilisi,2025,12,2,1.0
+GEO,Georgia,Tbilisi,2026,5,1,0.767
+URY,Uruguay,Montevideo,2000,0,0,1.0
+URY,Uruguay,Montevideo,2001,3,1,1.0
+URY,Uruguay,Montevideo,2002,8,2,1.0
+URY,Uruguay,Montevideo,2003,0,0,1.0
+URY,Uruguay,Montevideo,2004,15,3,1.0
+URY,Uruguay,Montevideo,2005,6,2,1.0
+URY,Uruguay,Montevideo,2006,0,0,1.0
+URY,Uruguay,Montevideo,2007,5,1,1.0
+URY,Uruguay,Montevideo,2008,3,1,1.0
+URY,Uruguay,Montevideo,2009,9,2,1.0
+URY,Uruguay,Montevideo,2010,3,1,1.0
+URY,Uruguay,Montevideo,2011,0,0,1.0
+URY,Uruguay,Montevideo,2012,4,1,1.0
+URY,Uruguay,Montevideo,2013,4,1,1.0
+URY,Uruguay,Montevideo,2014,0,0,1.0
+URY,Uruguay,Montevideo,2015,9,3,1.0
+URY,Uruguay,Montevideo,2016,0,0,1.0
+URY,Uruguay,Montevideo,2017,9,2,1.0
+URY,Uruguay,Montevideo,2018,0,0,1.0
+URY,Uruguay,Montevideo,2019,3,1,1.0
+URY,Uruguay,Montevideo,2020,3,1,1.0
+URY,Uruguay,Montevideo,2021,3,1,1.0
+URY,Uruguay,Montevideo,2022,7,2,1.0
+URY,Uruguay,Montevideo,2023,16,4,1.0
+URY,Uruguay,Montevideo,2024,3,1,1.0
+URY,Uruguay,Montevideo,2025,3,1,1.0
+URY,Uruguay,Montevideo,2026,0,0,0.764
+BIH,Bosnia and Herz.,Sarajevo,2000,6,2,1.0
+BIH,Bosnia and Herz.,Sarajevo,2001,0,0,1.0
+BIH,Bosnia and Herz.,Sarajevo,2002,3,1,1.0
+BIH,Bosnia and Herz.,Sarajevo,2003,9,2,1.0
+BIH,Bosnia and Herz.,Sarajevo,2004,0,0,1.0
+BIH,Bosnia and Herz.,Sarajevo,2005,0,0,1.0
+BIH,Bosnia and Herz.,Sarajevo,2006,0,0,1.0
+BIH,Bosnia and Herz.,Sarajevo,2007,15,3,1.0
+BIH,Bosnia and Herz.,Sarajevo,2008,11,3,1.0
+BIH,Bosnia and Herz.,Sarajevo,2009,6,2,1.0
+BIH,Bosnia and Herz.,Sarajevo,2010,10,3,1.0
+BIH,Bosnia and Herz.,Sarajevo,2011,5,1,1.0
+BIH,Bosnia and Herz.,Sarajevo,2012,20,5,1.0
+BIH,Bosnia and Herz.,Sarajevo,2013,13,4,1.0
+BIH,Bosnia and Herz.,Sarajevo,2014,8,2,1.0
+BIH,Bosnia and Herz.,Sarajevo,2015,11,3,1.0
+BIH,Bosnia and Herz.,Sarajevo,2016,8,2,1.0
+BIH,Bosnia and Herz.,Sarajevo,2017,8,2,1.0
+BIH,Bosnia and Herz.,Sarajevo,2018,0,0,1.0
+BIH,Bosnia and Herz.,Sarajevo,2019,10,3,1.0
+BIH,Bosnia and Herz.,Sarajevo,2020,0,0,1.0
+BIH,Bosnia and Herz.,Sarajevo,2021,10,3,1.0
+BIH,Bosnia and Herz.,Sarajevo,2022,4,2,1.0
+BIH,Bosnia and Herz.,Sarajevo,2023,11,3,1.0
+BIH,Bosnia and Herz.,Sarajevo,2024,27,6,1.0
+BIH,Bosnia and Herz.,Sarajevo,2025,14,4,1.0
+BIH,Bosnia and Herz.,Sarajevo,2026,6,2,0.767
+MNG,Mongolia,Ulaanbaatar,2000,4,1,1.0
+MNG,Mongolia,Ulaanbaatar,2001,4,1,1.0
+MNG,Mongolia,Ulaanbaatar,2002,18,4,1.0
+MNG,Mongolia,Ulaanbaatar,2003,3,1,1.0
+MNG,Mongolia,Ulaanbaatar,2004,0,0,1.0
+MNG,Mongolia,Ulaanbaatar,2005,0,0,1.0
+MNG,Mongolia,Ulaanbaatar,2006,3,1,1.0
+MNG,Mongolia,Ulaanbaatar,2007,10,2,1.0
+MNG,Mongolia,Ulaanbaatar,2008,4,1,1.0
+MNG,Mongolia,Ulaanbaatar,2009,8,2,1.0
+MNG,Mongolia,Ulaanbaatar,2010,18,4,1.0
+MNG,Mongolia,Ulaanbaatar,2011,0,0,1.0
+MNG,Mongolia,Ulaanbaatar,2012,0,0,1.0
+MNG,Mongolia,Ulaanbaatar,2013,2,1,1.0
+MNG,Mongolia,Ulaanbaatar,2014,10,2,1.0
+MNG,Mongolia,Ulaanbaatar,2015,4,1,1.0
+MNG,Mongolia,Ulaanbaatar,2016,4,1,1.0
+MNG,Mongolia,Ulaanbaatar,2017,7,2,1.0
+MNG,Mongolia,Ulaanbaatar,2018,6,2,1.0
+MNG,Mongolia,Ulaanbaatar,2019,14,4,1.0
+MNG,Mongolia,Ulaanbaatar,2020,3,1,1.0
+MNG,Mongolia,Ulaanbaatar,2021,0,0,1.0
+MNG,Mongolia,Ulaanbaatar,2022,3,1,1.0
+MNG,Mongolia,Ulaanbaatar,2023,3,1,1.0
+MNG,Mongolia,Ulaanbaatar,2024,0,0,1.0
+MNG,Mongolia,Ulaanbaatar,2025,3,1,1.0
+MNG,Mongolia,Ulaanbaatar,2026,3,1,0.767
+PRI,Puerto Rico,San Juan,2000,2,1,1.0
+PRI,Puerto Rico,San Juan,2001,4,1,1.0
+PRI,Puerto Rico,San Juan,2002,0,0,1.0
+PRI,Puerto Rico,San Juan,2003,6,2,1.0
+PRI,Puerto Rico,San Juan,2004,0,0,1.0
+PRI,Puerto Rico,San Juan,2005,7,2,1.0
+PRI,Puerto Rico,San Juan,2006,0,0,1.0
+PRI,Puerto Rico,San Juan,2007,3,1,1.0
+PRI,Puerto Rico,San Juan,2008,0,0,1.0
+PRI,Puerto Rico,San Juan,2009,3,1,1.0
+PRI,Puerto Rico,San Juan,2010,16,5,1.0
+PRI,Puerto Rico,San Juan,2011,0,0,1.0
+PRI,Puerto Rico,San Juan,2012,3,1,1.0
+PRI,Puerto Rico,San Juan,2013,0,0,1.0
+PRI,Puerto Rico,San Juan,2014,3,1,1.0
+PRI,Puerto Rico,San Juan,2015,22,4,1.0
+PRI,Puerto Rico,San Juan,2016,0,0,1.0
+PRI,Puerto Rico,San Juan,2017,0,0,1.0
+PRI,Puerto Rico,San Juan,2018,0,0,1.0
+PRI,Puerto Rico,San Juan,2019,3,1,1.0
+PRI,Puerto Rico,San Juan,2020,8,2,1.0
+PRI,Puerto Rico,San Juan,2021,0,0,1.0
+PRI,Puerto Rico,San Juan,2022,0,0,1.0
+PRI,Puerto Rico,San Juan,2023,24,5,1.0
+PRI,Puerto Rico,San Juan,2024,20,6,1.0
+PRI,Puerto Rico,San Juan,2025,3,1,1.0
+PRI,Puerto Rico,San Juan,2026,3,1,0.764
+ARM,Armenia,Yerevan,2000,4,1,1.0
+ARM,Armenia,Yerevan,2001,0,0,1.0
+ARM,Armenia,Yerevan,2002,4,1,1.0
+ARM,Armenia,Yerevan,2003,0,0,1.0
+ARM,Armenia,Yerevan,2004,6,2,1.0
+ARM,Armenia,Yerevan,2005,4,1,1.0
+ARM,Armenia,Yerevan,2006,7,2,1.0
+ARM,Armenia,Yerevan,2007,3,1,1.0
+ARM,Armenia,Yerevan,2008,13,3,1.0
+ARM,Armenia,Yerevan,2009,0,0,1.0
+ARM,Armenia,Yerevan,2010,26,5,1.0
+ARM,Armenia,Yerevan,2011,4,1,1.0
+ARM,Armenia,Yerevan,2012,0,0,1.0
+ARM,Armenia,Yerevan,2013,4,1,1.0
+ARM,Armenia,Yerevan,2014,3,1,1.0
+ARM,Armenia,Yerevan,2015,8,2,1.0
+ARM,Armenia,Yerevan,2016,3,1,1.0
+ARM,Armenia,Yerevan,2017,3,1,1.0
+ARM,Armenia,Yerevan,2018,13,3,1.0
+ARM,Armenia,Yerevan,2019,8,2,1.0
+ARM,Armenia,Yerevan,2020,7,2,1.0
+ARM,Armenia,Yerevan,2021,22,5,1.0
+ARM,Armenia,Yerevan,2022,20,6,1.0
+ARM,Armenia,Yerevan,2023,17,5,1.0
+ARM,Armenia,Yerevan,2024,16,3,1.0
+ARM,Armenia,Yerevan,2025,16,4,1.0
+ARM,Armenia,Yerevan,2026,4,1,0.767
+JAM,Jamaica,Kingston,2000,0,0,1.0
+JAM,Jamaica,Kingston,2001,0,0,1.0
+JAM,Jamaica,Kingston,2002,0,0,1.0
+JAM,Jamaica,Kingston,2003,0,0,1.0
+JAM,Jamaica,Kingston,2004,0,0,1.0
+JAM,Jamaica,Kingston,2005,0,0,1.0
+JAM,Jamaica,Kingston,2006,0,0,1.0
+JAM,Jamaica,Kingston,2007,0,0,1.0
+JAM,Jamaica,Kingston,2008,0,0,1.0
+JAM,Jamaica,Kingston,2009,20,5,1.0
+JAM,Jamaica,Kingston,2010,0,0,1.0
+JAM,Jamaica,Kingston,2011,0,0,1.0
+JAM,Jamaica,Kingston,2012,0,0,1.0
+JAM,Jamaica,Kingston,2013,0,0,1.0
+JAM,Jamaica,Kingston,2014,4,1,1.0
+JAM,Jamaica,Kingston,2015,0,0,1.0
+JAM,Jamaica,Kingston,2016,0,0,1.0
+JAM,Jamaica,Kingston,2017,3,1,1.0
+JAM,Jamaica,Kingston,2018,0,0,1.0
+JAM,Jamaica,Kingston,2019,0,0,1.0
+JAM,Jamaica,Kingston,2020,30,8,1.0
+JAM,Jamaica,Kingston,2021,0,0,1.0
+JAM,Jamaica,Kingston,2022,0,0,1.0
+JAM,Jamaica,Kingston,2023,35,9,1.0
+JAM,Jamaica,Kingston,2024,9,3,1.0
+JAM,Jamaica,Kingston,2025,12,4,1.0
+JAM,Jamaica,Kingston,2026,23,4,0.764
+ALB,Albania,Tirana,2000,6,2,1.0
+ALB,Albania,Tirana,2001,0,0,1.0
+ALB,Albania,Tirana,2002,10,3,1.0
+ALB,Albania,Tirana,2003,10,2,1.0
+ALB,Albania,Tirana,2004,4,1,1.0
+ALB,Albania,Tirana,2005,0,0,1.0
+ALB,Albania,Tirana,2006,0,0,1.0
+ALB,Albania,Tirana,2007,10,3,1.0
+ALB,Albania,Tirana,2008,6,2,1.0
+ALB,Albania,Tirana,2009,8,2,1.0
+ALB,Albania,Tirana,2010,3,1,1.0
+ALB,Albania,Tirana,2011,3,1,1.0
+ALB,Albania,Tirana,2012,5,1,1.0
+ALB,Albania,Tirana,2013,4,1,1.0
+ALB,Albania,Tirana,2014,7,2,1.0
+ALB,Albania,Tirana,2015,3,1,1.0
+ALB,Albania,Tirana,2016,9,2,1.0
+ALB,Albania,Tirana,2017,7,2,1.0
+ALB,Albania,Tirana,2018,6,2,1.0
+ALB,Albania,Tirana,2019,7,2,1.0
+ALB,Albania,Tirana,2020,13,3,1.0
+ALB,Albania,Tirana,2021,12,3,1.0
+ALB,Albania,Tirana,2022,15,4,1.0
+ALB,Albania,Tirana,2023,12,3,1.0
+ALB,Albania,Tirana,2024,18,5,1.0
+ALB,Albania,Tirana,2025,9,2,1.0
+ALB,Albania,Tirana,2026,22,3,0.767
+QAT,Qatar,Doha,2000,0,0,1.0
+QAT,Qatar,Doha,2001,11,3,1.0
+QAT,Qatar,Doha,2002,0,0,1.0
+QAT,Qatar,Doha,2003,3,1,1.0
+QAT,Qatar,Doha,2004,9,2,1.0
+QAT,Qatar,Doha,2005,5,1,1.0
+QAT,Qatar,Doha,2006,7,2,1.0
+QAT,Qatar,Doha,2007,0,0,1.0
+QAT,Qatar,Doha,2008,4,1,1.0
+QAT,Qatar,Doha,2009,10,2,1.0
+QAT,Qatar,Doha,2010,11,3,1.0
+QAT,Qatar,Doha,2011,4,1,1.0
+QAT,Qatar,Doha,2012,0,0,1.0
+QAT,Qatar,Doha,2013,0,0,1.0
+QAT,Qatar,Doha,2014,0,0,1.0
+QAT,Qatar,Doha,2015,0,0,1.0
+QAT,Qatar,Doha,2016,2,1,1.0
+QAT,Qatar,Doha,2017,4,1,1.0
+QAT,Qatar,Doha,2018,0,0,1.0
+QAT,Qatar,Doha,2019,12,3,1.0
+QAT,Qatar,Doha,2020,3,1,1.0
+QAT,Qatar,Doha,2021,3,1,1.0
+QAT,Qatar,Doha,2022,5,1,1.0
+QAT,Qatar,Doha,2023,0,0,1.0
+QAT,Qatar,Doha,2024,8,2,1.0
+QAT,Qatar,Doha,2025,3,1,1.0
+QAT,Qatar,Doha,2026,4,1,0.767
+LTU,Lithuania,Vilnius,2000,9,3,1.0
+LTU,Lithuania,Vilnius,2001,3,1,1.0
+LTU,Lithuania,Vilnius,2002,13,3,1.0
+LTU,Lithuania,Vilnius,2003,0,0,1.0
+LTU,Lithuania,Vilnius,2004,0,0,1.0
+LTU,Lithuania,Vilnius,2005,6,1,1.0
+LTU,Lithuania,Vilnius,2006,13,3,1.0
+LTU,Lithuania,Vilnius,2007,10,3,1.0
+LTU,Lithuania,Vilnius,2008,0,0,1.0
+LTU,Lithuania,Vilnius,2009,0,0,1.0
+LTU,Lithuania,Vilnius,2010,7,2,1.0
+LTU,Lithuania,Vilnius,2011,4,1,1.0
+LTU,Lithuania,Vilnius,2012,3,1,1.0
+LTU,Lithuania,Vilnius,2013,3,1,1.0
+LTU,Lithuania,Vilnius,2014,12,4,1.0
+LTU,Lithuania,Vilnius,2015,8,2,1.0
+LTU,Lithuania,Vilnius,2016,0,0,1.0
+LTU,Lithuania,Vilnius,2017,0,0,1.0
+LTU,Lithuania,Vilnius,2018,12,3,1.0
+LTU,Lithuania,Vilnius,2019,12,3,1.0
+LTU,Lithuania,Vilnius,2020,0,0,1.0
+LTU,Lithuania,Vilnius,2021,9,2,1.0
+LTU,Lithuania,Vilnius,2022,7,3,1.0
+LTU,Lithuania,Vilnius,2023,13,3,1.0
+LTU,Lithuania,Vilnius,2024,16,4,1.0
+LTU,Lithuania,Vilnius,2025,18,4,1.0
+LTU,Lithuania,Vilnius,2026,14,3,0.767
+MDA,Moldova,Chișinău,2000,6,2,1.0
+MDA,Moldova,Chișinău,2001,0,0,1.0
+MDA,Moldova,Chișinău,2002,3,1,1.0
+MDA,Moldova,Chișinău,2003,8,1,1.0
+MDA,Moldova,Chișinău,2004,4,1,1.0
+MDA,Moldova,Chișinău,2005,5,1,1.0
+MDA,Moldova,Chișinău,2006,0,0,1.0
+MDA,Moldova,Chișinău,2007,22,4,1.0
+MDA,Moldova,Chișinău,2008,4,1,1.0
+MDA,Moldova,Chișinău,2009,0,0,1.0
+MDA,Moldova,Chișinău,2010,14,3,1.0
+MDA,Moldova,Chișinău,2011,0,0,1.0
+MDA,Moldova,Chișinău,2012,18,4,1.0
+MDA,Moldova,Chișinău,2013,4,1,1.0
+MDA,Moldova,Chișinău,2014,0,0,1.0
+MDA,Moldova,Chișinău,2015,8,2,1.0
+MDA,Moldova,Chișinău,2016,9,3,1.0
+MDA,Moldova,Chișinău,2017,7,2,1.0
+MDA,Moldova,Chișinău,2018,6,2,1.0
+MDA,Moldova,Chișinău,2019,8,2,1.0
+MDA,Moldova,Chișinău,2020,0,0,1.0
+MDA,Moldova,Chișinău,2021,0,0,1.0
+MDA,Moldova,Chișinău,2022,4,2,1.0
+MDA,Moldova,Chișinău,2023,24,5,1.0
+MDA,Moldova,Chișinău,2024,26,6,1.0
+MDA,Moldova,Chișinău,2025,15,4,1.0
+MDA,Moldova,Chișinău,2026,7,2,0.767
+NAM,Namibia,Windhoek,2000,0,0,1.0
+NAM,Namibia,Windhoek,2001,0,0,1.0
+NAM,Namibia,Windhoek,2002,0,0,1.0
+NAM,Namibia,Windhoek,2003,0,0,1.0
+NAM,Namibia,Windhoek,2004,3,1,1.0
+NAM,Namibia,Windhoek,2005,3,1,1.0
+NAM,Namibia,Windhoek,2006,0,0,1.0
+NAM,Namibia,Windhoek,2007,4,1,1.0
+NAM,Namibia,Windhoek,2008,0,0,1.0
+NAM,Namibia,Windhoek,2009,4,1,1.0
+NAM,Namibia,Windhoek,2010,0,0,1.0
+NAM,Namibia,Windhoek,2011,0,0,1.0
+NAM,Namibia,Windhoek,2012,10,3,1.0
+NAM,Namibia,Windhoek,2013,11,3,1.0
+NAM,Namibia,Windhoek,2014,0,0,1.0
+NAM,Namibia,Windhoek,2015,6,2,1.0
+NAM,Namibia,Windhoek,2016,35,8,1.0
+NAM,Namibia,Windhoek,2017,11,2,1.0
+NAM,Namibia,Windhoek,2018,3,1,1.0
+NAM,Namibia,Windhoek,2019,49,10,1.0
+NAM,Namibia,Windhoek,2020,0,0,1.0
+NAM,Namibia,Windhoek,2021,5,1,1.0
+NAM,Namibia,Windhoek,2022,13,3,1.0
+NAM,Namibia,Windhoek,2023,15,5,1.0
+NAM,Namibia,Windhoek,2024,56,12,1.0
+NAM,Namibia,Windhoek,2025,0,0,1.0
+NAM,Namibia,Windhoek,2026,10,2,0.767
+GMB,Gambia,Banjul,2000,0,0,1.0
+GMB,Gambia,Banjul,2001,0,0,1.0
+GMB,Gambia,Banjul,2002,0,0,1.0
+GMB,Gambia,Banjul,2003,0,0,1.0
+GMB,Gambia,Banjul,2004,0,0,1.0
+GMB,Gambia,Banjul,2005,0,0,1.0
+GMB,Gambia,Banjul,2006,0,0,1.0
+GMB,Gambia,Banjul,2007,0,0,1.0
+GMB,Gambia,Banjul,2008,0,0,1.0
+GMB,Gambia,Banjul,2009,0,0,1.0
+GMB,Gambia,Banjul,2010,12,4,1.0
+GMB,Gambia,Banjul,2011,0,0,1.0
+GMB,Gambia,Banjul,2012,0,0,1.0
+GMB,Gambia,Banjul,2013,0,0,1.0
+GMB,Gambia,Banjul,2014,0,0,1.0
+GMB,Gambia,Banjul,2015,0,0,1.0
+GMB,Gambia,Banjul,2016,7,2,1.0
+GMB,Gambia,Banjul,2017,10,3,1.0
+GMB,Gambia,Banjul,2018,0,0,1.0
+GMB,Gambia,Banjul,2019,0,0,1.0
+GMB,Gambia,Banjul,2020,17,4,1.0
+GMB,Gambia,Banjul,2021,8,2,1.0
+GMB,Gambia,Banjul,2022,12,3,1.0
+GMB,Gambia,Banjul,2023,22,6,1.0
+GMB,Gambia,Banjul,2024,20,4,1.0
+GMB,Gambia,Banjul,2025,0,0,1.0
+GMB,Gambia,Banjul,2026,14,3,0.767
+BWA,Botswana,Gaborone,2000,0,0,1.0
+BWA,Botswana,Gaborone,2001,0,0,1.0
+BWA,Botswana,Gaborone,2002,3,1,1.0
+BWA,Botswana,Gaborone,2003,8,2,1.0
+BWA,Botswana,Gaborone,2004,0,0,1.0
+BWA,Botswana,Gaborone,2005,9,3,1.0
+BWA,Botswana,Gaborone,2006,0,0,1.0
+BWA,Botswana,Gaborone,2007,6,2,1.0
+BWA,Botswana,Gaborone,2008,0,0,1.0
+BWA,Botswana,Gaborone,2009,0,0,1.0
+BWA,Botswana,Gaborone,2010,0,0,1.0
+BWA,Botswana,Gaborone,2011,0,0,1.0
+BWA,Botswana,Gaborone,2012,7,2,1.0
+BWA,Botswana,Gaborone,2013,12,3,1.0
+BWA,Botswana,Gaborone,2014,0,0,1.0
+BWA,Botswana,Gaborone,2015,23,5,1.0
+BWA,Botswana,Gaborone,2016,17,4,1.0
+BWA,Botswana,Gaborone,2017,0,0,1.0
+BWA,Botswana,Gaborone,2018,17,4,1.0
+BWA,Botswana,Gaborone,2019,21,5,1.0
+BWA,Botswana,Gaborone,2020,0,0,1.0
+BWA,Botswana,Gaborone,2021,3,1,1.0
+BWA,Botswana,Gaborone,2022,0,0,1.0
+BWA,Botswana,Gaborone,2023,6,1,1.0
+BWA,Botswana,Gaborone,2024,37,10,1.0
+BWA,Botswana,Gaborone,2025,0,0,1.0
+BWA,Botswana,Gaborone,2026,3,1,0.767
+GAB,Gabon,Libreville,2000,0,0,1.0
+GAB,Gabon,Libreville,2001,0,0,1.0
+GAB,Gabon,Libreville,2002,0,0,1.0
+GAB,Gabon,Libreville,2003,0,0,1.0
+GAB,Gabon,Libreville,2004,0,0,1.0
+GAB,Gabon,Libreville,2005,0,0,1.0
+GAB,Gabon,Libreville,2006,0,0,1.0
+GAB,Gabon,Libreville,2007,0,0,1.0
+GAB,Gabon,Libreville,2008,0,0,1.0
+GAB,Gabon,Libreville,2009,0,0,1.0
+GAB,Gabon,Libreville,2010,0,0,1.0
+GAB,Gabon,Libreville,2011,0,0,1.0
+GAB,Gabon,Libreville,2012,0,0,1.0
+GAB,Gabon,Libreville,2013,0,0,1.0
+GAB,Gabon,Libreville,2014,0,0,1.0
+GAB,Gabon,Libreville,2015,0,0,1.0
+GAB,Gabon,Libreville,2016,0,0,1.0
+GAB,Gabon,Libreville,2017,0,0,1.0
+GAB,Gabon,Libreville,2018,0,0,1.0
+GAB,Gabon,Libreville,2019,3,1,1.0
+GAB,Gabon,Libreville,2020,3,1,1.0
+GAB,Gabon,Libreville,2021,0,0,1.0
+GAB,Gabon,Libreville,2022,0,0,1.0
+GAB,Gabon,Libreville,2023,12,4,1.0
+GAB,Gabon,Libreville,2024,31,9,1.0
+GAB,Gabon,Libreville,2025,0,0,1.0
+GAB,Gabon,Libreville,2026,7,2,0.767
+LSO,Lesotho,Maseru,2000,0,0,1.0
+LSO,Lesotho,Maseru,2001,0,0,1.0
+LSO,Lesotho,Maseru,2002,0,0,1.0
+LSO,Lesotho,Maseru,2003,0,0,1.0
+LSO,Lesotho,Maseru,2004,3,1,1.0
+LSO,Lesotho,Maseru,2005,3,1,1.0
+LSO,Lesotho,Maseru,2006,0,0,1.0
+LSO,Lesotho,Maseru,2007,13,4,1.0
+LSO,Lesotho,Maseru,2008,0,0,1.0
+LSO,Lesotho,Maseru,2009,0,0,1.0
+LSO,Lesotho,Maseru,2010,6,2,1.0
+LSO,Lesotho,Maseru,2011,0,0,1.0
+LSO,Lesotho,Maseru,2012,11,3,1.0
+LSO,Lesotho,Maseru,2013,13,4,1.0
+LSO,Lesotho,Maseru,2014,8,2,1.0
+LSO,Lesotho,Maseru,2015,37,9,1.0
+LSO,Lesotho,Maseru,2016,18,4,1.0
+LSO,Lesotho,Maseru,2017,6,2,1.0
+LSO,Lesotho,Maseru,2018,16,4,1.0
+LSO,Lesotho,Maseru,2019,26,7,1.0
+LSO,Lesotho,Maseru,2020,11,3,1.0
+LSO,Lesotho,Maseru,2021,11,3,1.0
+LSO,Lesotho,Maseru,2022,0,0,1.0
+LSO,Lesotho,Maseru,2023,0,0,1.0
+LSO,Lesotho,Maseru,2024,50,11,1.0
+LSO,Lesotho,Maseru,2025,3,1,1.0
+LSO,Lesotho,Maseru,2026,0,0,0.767
+SVN,Slovenia,Ljubljana,2000,7,2,1.0
+SVN,Slovenia,Ljubljana,2001,3,1,1.0
+SVN,Slovenia,Ljubljana,2002,4,1,1.0
+SVN,Slovenia,Ljubljana,2003,10,2,1.0
+SVN,Slovenia,Ljubljana,2004,3,1,1.0
+SVN,Slovenia,Ljubljana,2005,3,1,1.0
+SVN,Slovenia,Ljubljana,2006,10,3,1.0
+SVN,Slovenia,Ljubljana,2007,7,2,1.0
+SVN,Slovenia,Ljubljana,2008,0,0,1.0
+SVN,Slovenia,Ljubljana,2009,6,1,1.0
+SVN,Slovenia,Ljubljana,2010,0,0,1.0
+SVN,Slovenia,Ljubljana,2011,32,7,1.0
+SVN,Slovenia,Ljubljana,2012,7,2,1.0
+SVN,Slovenia,Ljubljana,2013,10,2,1.0
+SVN,Slovenia,Ljubljana,2014,8,2,1.0
+SVN,Slovenia,Ljubljana,2015,7,1,1.0
+SVN,Slovenia,Ljubljana,2016,3,1,1.0
+SVN,Slovenia,Ljubljana,2017,11,3,1.0
+SVN,Slovenia,Ljubljana,2018,4,1,1.0
+SVN,Slovenia,Ljubljana,2019,13,3,1.0
+SVN,Slovenia,Ljubljana,2020,0,0,1.0
+SVN,Slovenia,Ljubljana,2021,11,3,1.0
+SVN,Slovenia,Ljubljana,2022,8,3,1.0
+SVN,Slovenia,Ljubljana,2023,9,2,1.0
+SVN,Slovenia,Ljubljana,2024,12,4,1.0
+SVN,Slovenia,Ljubljana,2025,5,1,1.0
+SVN,Slovenia,Ljubljana,2026,23,5,0.767
+MKD,North Macedonia,Skopje,2000,0,0,1.0
+MKD,North Macedonia,Skopje,2001,3,1,1.0
+MKD,North Macedonia,Skopje,2002,3,1,1.0
+MKD,North Macedonia,Skopje,2003,14,2,1.0
+MKD,North Macedonia,Skopje,2004,3,1,1.0
+MKD,North Macedonia,Skopje,2005,0,0,1.0
+MKD,North Macedonia,Skopje,2006,0,0,1.0
+MKD,North Macedonia,Skopje,2007,27,5,1.0
+MKD,North Macedonia,Skopje,2008,12,4,1.0
+MKD,North Macedonia,Skopje,2009,3,1,1.0
+MKD,North Macedonia,Skopje,2010,10,3,1.0
+MKD,North Macedonia,Skopje,2011,7,1,1.0
+MKD,North Macedonia,Skopje,2012,24,5,1.0
+MKD,North Macedonia,Skopje,2013,7,1,1.0
+MKD,North Macedonia,Skopje,2014,3,1,1.0
+MKD,North Macedonia,Skopje,2015,7,2,1.0
+MKD,North Macedonia,Skopje,2016,14,4,1.0
+MKD,North Macedonia,Skopje,2017,11,3,1.0
+MKD,North Macedonia,Skopje,2018,0,0,1.0
+MKD,North Macedonia,Skopje,2019,16,4,1.0
+MKD,North Macedonia,Skopje,2020,4,1,1.0
+MKD,North Macedonia,Skopje,2021,6,2,1.0
+MKD,North Macedonia,Skopje,2022,7,2,1.0
+MKD,North Macedonia,Skopje,2023,11,3,1.0
+MKD,North Macedonia,Skopje,2024,12,3,1.0
+MKD,North Macedonia,Skopje,2025,10,3,1.0
+MKD,North Macedonia,Skopje,2026,0,0,0.767
+GNB,Guinea-Bissau,Bissau,2000,0,0,1.0
+GNB,Guinea-Bissau,Bissau,2001,0,0,1.0
+GNB,Guinea-Bissau,Bissau,2002,0,0,1.0
+GNB,Guinea-Bissau,Bissau,2003,0,0,1.0
+GNB,Guinea-Bissau,Bissau,2004,0,0,1.0
+GNB,Guinea-Bissau,Bissau,2005,0,0,1.0
+GNB,Guinea-Bissau,Bissau,2006,0,0,1.0
+GNB,Guinea-Bissau,Bissau,2007,4,1,1.0
+GNB,Guinea-Bissau,Bissau,2008,0,0,1.0
+GNB,Guinea-Bissau,Bissau,2009,0,0,1.0
+GNB,Guinea-Bissau,Bissau,2010,0,0,1.0
+GNB,Guinea-Bissau,Bissau,2011,0,0,1.0
+GNB,Guinea-Bissau,Bissau,2012,0,0,1.0
+GNB,Guinea-Bissau,Bissau,2013,0,0,1.0
+GNB,Guinea-Bissau,Bissau,2014,0,0,1.0
+GNB,Guinea-Bissau,Bissau,2015,0,0,1.0
+GNB,Guinea-Bissau,Bissau,2016,0,0,1.0
+GNB,Guinea-Bissau,Bissau,2017,0,0,1.0
+GNB,Guinea-Bissau,Bissau,2018,3,1,1.0
+GNB,Guinea-Bissau,Bissau,2019,3,1,1.0
+GNB,Guinea-Bissau,Bissau,2020,13,2,1.0
+GNB,Guinea-Bissau,Bissau,2021,16,5,1.0
+GNB,Guinea-Bissau,Bissau,2022,3,1,1.0
+GNB,Guinea-Bissau,Bissau,2023,6,2,1.0
+GNB,Guinea-Bissau,Bissau,2024,23,7,1.0
+GNB,Guinea-Bissau,Bissau,2025,0,0,1.0
+GNB,Guinea-Bissau,Bissau,2026,16,4,0.767
+LVA,Latvia,Riga,2000,6,2,1.0
+LVA,Latvia,Riga,2001,0,0,1.0
+LVA,Latvia,Riga,2002,11,3,1.0
+LVA,Latvia,Riga,2003,3,1,1.0
+LVA,Latvia,Riga,2004,0,0,1.0
+LVA,Latvia,Riga,2005,5,1,1.0
+LVA,Latvia,Riga,2006,20,6,1.0
+LVA,Latvia,Riga,2007,9,3,1.0
+LVA,Latvia,Riga,2008,0,0,1.0
+LVA,Latvia,Riga,2009,0,0,1.0
+LVA,Latvia,Riga,2010,3,1,1.0
+LVA,Latvia,Riga,2011,6,1,1.0
+LVA,Latvia,Riga,2012,0,0,1.0
+LVA,Latvia,Riga,2013,3,1,1.0
+LVA,Latvia,Riga,2014,4,1,1.0
+LVA,Latvia,Riga,2015,16,3,1.0
+LVA,Latvia,Riga,2016,3,1,1.0
+LVA,Latvia,Riga,2017,0,0,1.0
+LVA,Latvia,Riga,2018,16,4,1.0
+LVA,Latvia,Riga,2019,11,3,1.0
+LVA,Latvia,Riga,2020,8,2,1.0
+LVA,Latvia,Riga,2021,10,2,1.0
+LVA,Latvia,Riga,2022,9,2,1.0
+LVA,Latvia,Riga,2023,6,2,1.0
+LVA,Latvia,Riga,2024,10,3,1.0
+LVA,Latvia,Riga,2025,19,5,1.0
+LVA,Latvia,Riga,2026,8,1,0.767
+KOS,Kosovo,Pristina,2000,3,1,1.0
+KOS,Kosovo,Pristina,2001,3,1,1.0
+KOS,Kosovo,Pristina,2002,7,2,1.0
+KOS,Kosovo,Pristina,2003,14,2,1.0
+KOS,Kosovo,Pristina,2004,3,1,1.0
+KOS,Kosovo,Pristina,2005,0,0,1.0
+KOS,Kosovo,Pristina,2006,3,1,1.0
+KOS,Kosovo,Pristina,2007,22,4,1.0
+KOS,Kosovo,Pristina,2008,7,2,1.0
+KOS,Kosovo,Pristina,2009,3,1,1.0
+KOS,Kosovo,Pristina,2010,13,4,1.0
+KOS,Kosovo,Pristina,2011,4,1,1.0
+KOS,Kosovo,Pristina,2012,23,6,1.0
+KOS,Kosovo,Pristina,2013,7,2,1.0
+KOS,Kosovo,Pristina,2014,4,1,1.0
+KOS,Kosovo,Pristina,2015,4,1,1.0
+KOS,Kosovo,Pristina,2016,16,4,1.0
+KOS,Kosovo,Pristina,2017,8,2,1.0
+KOS,Kosovo,Pristina,2018,3,1,1.0
+KOS,Kosovo,Pristina,2019,15,3,1.0
+KOS,Kosovo,Pristina,2020,6,2,1.0
+KOS,Kosovo,Pristina,2021,0,0,1.0
+KOS,Kosovo,Pristina,2022,3,1,1.0
+KOS,Kosovo,Pristina,2023,7,2,1.0
+KOS,Kosovo,Pristina,2024,17,4,1.0
+KOS,Kosovo,Pristina,2025,17,4,1.0
+KOS,Kosovo,Pristina,2026,3,1,0.767
+TTO,Trinidad and Tobago,Port-of-Spain,2000,0,0,1.0
+TTO,Trinidad and Tobago,Port-of-Spain,2001,0,0,1.0
+TTO,Trinidad and Tobago,Port-of-Spain,2002,0,0,1.0
+TTO,Trinidad and Tobago,Port-of-Spain,2003,0,0,1.0
+TTO,Trinidad and Tobago,Port-of-Spain,2004,0,0,1.0
+TTO,Trinidad and Tobago,Port-of-Spain,2005,12,4,1.0
+TTO,Trinidad and Tobago,Port-of-Spain,2006,0,0,1.0
+TTO,Trinidad and Tobago,Port-of-Spain,2007,0,0,1.0
+TTO,Trinidad and Tobago,Port-of-Spain,2008,0,0,1.0
+TTO,Trinidad and Tobago,Port-of-Spain,2009,0,0,1.0
+TTO,Trinidad and Tobago,Port-of-Spain,2010,28,6,1.0
+TTO,Trinidad and Tobago,Port-of-Spain,2011,0,0,1.0
+TTO,Trinidad and Tobago,Port-of-Spain,2012,6,2,1.0
+TTO,Trinidad and Tobago,Port-of-Spain,2013,0,0,1.0
+TTO,Trinidad and Tobago,Port-of-Spain,2014,0,0,1.0
+TTO,Trinidad and Tobago,Port-of-Spain,2015,6,2,1.0
+TTO,Trinidad and Tobago,Port-of-Spain,2016,0,0,1.0
+TTO,Trinidad and Tobago,Port-of-Spain,2017,0,0,1.0
+TTO,Trinidad and Tobago,Port-of-Spain,2018,0,0,1.0
+TTO,Trinidad and Tobago,Port-of-Spain,2019,0,0,1.0
+TTO,Trinidad and Tobago,Port-of-Spain,2020,3,1,1.0
+TTO,Trinidad and Tobago,Port-of-Spain,2021,0,0,1.0
+TTO,Trinidad and Tobago,Port-of-Spain,2022,0,0,1.0
+TTO,Trinidad and Tobago,Port-of-Spain,2023,30,6,1.0
+TTO,Trinidad and Tobago,Port-of-Spain,2024,87,22,1.0
+TTO,Trinidad and Tobago,Port-of-Spain,2025,12,4,1.0
+TTO,Trinidad and Tobago,Port-of-Spain,2026,0,0,0.764
+GNQ,Eq. Guinea,Malabo,2000,0,0,1.0
+GNQ,Eq. Guinea,Malabo,2001,0,0,1.0
+GNQ,Eq. Guinea,Malabo,2002,0,0,1.0
+GNQ,Eq. Guinea,Malabo,2003,3,1,1.0
+GNQ,Eq. Guinea,Malabo,2004,0,0,1.0
+GNQ,Eq. Guinea,Malabo,2005,0,0,1.0
+GNQ,Eq. Guinea,Malabo,2006,0,0,1.0
+GNQ,Eq. Guinea,Malabo,2007,0,0,1.0
+GNQ,Eq. Guinea,Malabo,2008,0,0,1.0
+GNQ,Eq. Guinea,Malabo,2009,0,0,1.0
+GNQ,Eq. Guinea,Malabo,2010,0,0,1.0
+GNQ,Eq. Guinea,Malabo,2011,0,0,1.0
+GNQ,Eq. Guinea,Malabo,2012,0,0,1.0
+GNQ,Eq. Guinea,Malabo,2013,0,0,1.0
+GNQ,Eq. Guinea,Malabo,2014,0,0,1.0
+GNQ,Eq. Guinea,Malabo,2015,0,0,1.0
+GNQ,Eq. Guinea,Malabo,2016,0,0,1.0
+GNQ,Eq. Guinea,Malabo,2017,0,0,1.0
+GNQ,Eq. Guinea,Malabo,2018,0,0,1.0
+GNQ,Eq. Guinea,Malabo,2019,0,0,1.0
+GNQ,Eq. Guinea,Malabo,2020,3,1,1.0
+GNQ,Eq. Guinea,Malabo,2021,0,0,1.0
+GNQ,Eq. Guinea,Malabo,2022,0,0,1.0
+GNQ,Eq. Guinea,Malabo,2023,29,8,1.0
+GNQ,Eq. Guinea,Malabo,2024,37,10,1.0
+GNQ,Eq. Guinea,Malabo,2025,0,0,1.0
+GNQ,Eq. Guinea,Malabo,2026,9,2,0.767
+EST,Estonia,Tallinn,2000,3,1,1.0
+EST,Estonia,Tallinn,2001,0,0,1.0
+EST,Estonia,Tallinn,2002,4,1,1.0
+EST,Estonia,Tallinn,2003,5,1,1.0
+EST,Estonia,Tallinn,2004,4,1,1.0
+EST,Estonia,Tallinn,2005,8,2,1.0
+EST,Estonia,Tallinn,2006,15,4,1.0
+EST,Estonia,Tallinn,2007,7,2,1.0
+EST,Estonia,Tallinn,2008,0,0,1.0
+EST,Estonia,Tallinn,2009,0,0,1.0
+EST,Estonia,Tallinn,2010,8,2,1.0
+EST,Estonia,Tallinn,2011,7,2,1.0
+EST,Estonia,Tallinn,2012,0,0,1.0
+EST,Estonia,Tallinn,2013,0,0,1.0
+EST,Estonia,Tallinn,2014,6,2,1.0
+EST,Estonia,Tallinn,2015,16,3,1.0
+EST,Estonia,Tallinn,2016,3,1,1.0
+EST,Estonia,Tallinn,2017,0,0,1.0
+EST,Estonia,Tallinn,2018,14,3,1.0
+EST,Estonia,Tallinn,2019,4,1,1.0
+EST,Estonia,Tallinn,2020,19,4,1.0
+EST,Estonia,Tallinn,2021,10,2,1.0
+EST,Estonia,Tallinn,2022,20,5,1.0
+EST,Estonia,Tallinn,2023,0,0,1.0
+EST,Estonia,Tallinn,2024,15,4,1.0
+EST,Estonia,Tallinn,2025,13,4,1.0
+EST,Estonia,Tallinn,2026,3,1,0.767
+TLS,Timor-Leste,Dili,2000,0,0,1.0
+TLS,Timor-Leste,Dili,2001,0,0,1.0
+TLS,Timor-Leste,Dili,2002,0,0,1.0
+TLS,Timor-Leste,Dili,2003,0,0,1.0
+TLS,Timor-Leste,Dili,2004,0,0,1.0
+TLS,Timor-Leste,Dili,2005,0,0,1.0
+TLS,Timor-Leste,Dili,2006,0,0,1.0
+TLS,Timor-Leste,Dili,2007,4,1,1.0
+TLS,Timor-Leste,Dili,2008,0,0,1.0
+TLS,Timor-Leste,Dili,2009,0,0,1.0
+TLS,Timor-Leste,Dili,2010,0,0,1.0
+TLS,Timor-Leste,Dili,2011,4,1,1.0
+TLS,Timor-Leste,Dili,2012,0,0,1.0
+TLS,Timor-Leste,Dili,2013,0,0,1.0
+TLS,Timor-Leste,Dili,2014,4,1,1.0
+TLS,Timor-Leste,Dili,2015,0,0,1.0
+TLS,Timor-Leste,Dili,2016,9,3,1.0
+TLS,Timor-Leste,Dili,2017,0,0,1.0
+TLS,Timor-Leste,Dili,2018,6,2,1.0
+TLS,Timor-Leste,Dili,2019,3,1,1.0
+TLS,Timor-Leste,Dili,2020,15,4,1.0
+TLS,Timor-Leste,Dili,2021,25,7,1.0
+TLS,Timor-Leste,Dili,2022,3,1,1.0
+TLS,Timor-Leste,Dili,2023,3,1,1.0
+TLS,Timor-Leste,Dili,2024,7,2,1.0
+TLS,Timor-Leste,Dili,2025,3,1,1.0
+TLS,Timor-Leste,Dili,2026,0,0,0.767
+CYP,Cyprus,Nicosia,2000,13,3,1.0
+CYP,Cyprus,Nicosia,2001,6,2,1.0
+CYP,Cyprus,Nicosia,2002,13,4,1.0
+CYP,Cyprus,Nicosia,2003,10,3,1.0
+CYP,Cyprus,Nicosia,2004,4,1,1.0
+CYP,Cyprus,Nicosia,2005,3,1,1.0
+CYP,Cyprus,Nicosia,2006,8,2,1.0
+CYP,Cyprus,Nicosia,2007,13,4,1.0
+CYP,Cyprus,Nicosia,2008,11,3,1.0
+CYP,Cyprus,Nicosia,2009,5,1,1.0
+CYP,Cyprus,Nicosia,2010,25,5,1.0
+CYP,Cyprus,Nicosia,2011,0,0,1.0
+CYP,Cyprus,Nicosia,2012,4,1,1.0
+CYP,Cyprus,Nicosia,2013,7,2,1.0
+CYP,Cyprus,Nicosia,2014,0,0,1.0
+CYP,Cyprus,Nicosia,2015,5,1,1.0
+CYP,Cyprus,Nicosia,2016,14,3,1.0
+CYP,Cyprus,Nicosia,2017,4,1,1.0
+CYP,Cyprus,Nicosia,2018,10,3,1.0
+CYP,Cyprus,Nicosia,2019,4,1,1.0
+CYP,Cyprus,Nicosia,2020,19,4,1.0
+CYP,Cyprus,Nicosia,2021,10,3,1.0
+CYP,Cyprus,Nicosia,2022,4,1,1.0
+CYP,Cyprus,Nicosia,2023,8,2,1.0
+CYP,Cyprus,Nicosia,2024,21,5,1.0
+CYP,Cyprus,Nicosia,2025,20,5,1.0
+CYP,Cyprus,Nicosia,2026,0,0,0.767
+SWZ,eSwatini,Mbabane,2000,0,0,1.0
+SWZ,eSwatini,Mbabane,2001,0,0,1.0
+SWZ,eSwatini,Mbabane,2002,3,1,1.0
+SWZ,eSwatini,Mbabane,2003,0,0,1.0
+SWZ,eSwatini,Mbabane,2004,0,0,1.0
+SWZ,eSwatini,Mbabane,2005,0,0,1.0
+SWZ,eSwatini,Mbabane,2006,0,0,1.0
+SWZ,eSwatini,Mbabane,2007,0,0,1.0
+SWZ,eSwatini,Mbabane,2008,0,0,1.0
+SWZ,eSwatini,Mbabane,2009,0,0,1.0
+SWZ,eSwatini,Mbabane,2010,0,0,1.0
+SWZ,eSwatini,Mbabane,2011,0,0,1.0
+SWZ,eSwatini,Mbabane,2012,3,1,1.0
+SWZ,eSwatini,Mbabane,2013,0,0,1.0
+SWZ,eSwatini,Mbabane,2014,3,1,1.0
+SWZ,eSwatini,Mbabane,2015,0,0,1.0
+SWZ,eSwatini,Mbabane,2016,10,3,1.0
+SWZ,eSwatini,Mbabane,2017,0,0,1.0
+SWZ,eSwatini,Mbabane,2018,3,1,1.0
+SWZ,eSwatini,Mbabane,2019,3,1,1.0
+SWZ,eSwatini,Mbabane,2020,3,1,1.0
+SWZ,eSwatini,Mbabane,2021,7,2,1.0
+SWZ,eSwatini,Mbabane,2022,0,0,1.0
+SWZ,eSwatini,Mbabane,2023,0,0,1.0
+SWZ,eSwatini,Mbabane,2024,15,4,1.0
+SWZ,eSwatini,Mbabane,2025,3,1,1.0
+SWZ,eSwatini,Mbabane,2026,0,0,0.767
+DJI,Djibouti,Djibouti,2000,10,3,1.0
+DJI,Djibouti,Djibouti,2001,4,1,1.0
+DJI,Djibouti,Djibouti,2002,3,1,1.0
+DJI,Djibouti,Djibouti,2003,3,1,1.0
+DJI,Djibouti,Djibouti,2004,0,0,1.0
+DJI,Djibouti,Djibouti,2005,3,1,1.0
+DJI,Djibouti,Djibouti,2006,4,1,1.0
+DJI,Djibouti,Djibouti,2007,0,0,1.0
+DJI,Djibouti,Djibouti,2008,6,2,1.0
+DJI,Djibouti,Djibouti,2009,0,0,1.0
+DJI,Djibouti,Djibouti,2010,0,0,1.0
+DJI,Djibouti,Djibouti,2011,4,1,1.0
+DJI,Djibouti,Djibouti,2012,0,0,1.0
+DJI,Djibouti,Djibouti,2013,0,0,1.0
+DJI,Djibouti,Djibouti,2014,3,1,1.0
+DJI,Djibouti,Djibouti,2015,7,2,1.0
+DJI,Djibouti,Djibouti,2016,7,3,1.0
+DJI,Djibouti,Djibouti,2017,5,1,1.0
+DJI,Djibouti,Djibouti,2018,0,0,1.0
+DJI,Djibouti,Djibouti,2019,6,2,1.0
+DJI,Djibouti,Djibouti,2020,0,0,1.0
+DJI,Djibouti,Djibouti,2021,7,2,1.0
+DJI,Djibouti,Djibouti,2022,9,3,1.0
+DJI,Djibouti,Djibouti,2023,3,1,1.0
+DJI,Djibouti,Djibouti,2024,23,6,1.0
+DJI,Djibouti,Djibouti,2025,11,3,1.0
+DJI,Djibouti,Djibouti,2026,10,3,0.767
+FJI,Fiji,Suva,2000,3,1,1.0
+FJI,Fiji,Suva,2001,0,0,1.0
+FJI,Fiji,Suva,2002,9,3,1.0
+FJI,Fiji,Suva,2003,0,0,1.0
+FJI,Fiji,Suva,2004,0,0,1.0
+FJI,Fiji,Suva,2005,3,1,1.0
+FJI,Fiji,Suva,2006,0,0,1.0
+FJI,Fiji,Suva,2007,3,1,1.0
+FJI,Fiji,Suva,2008,0,0,1.0
+FJI,Fiji,Suva,2009,0,0,1.0
+FJI,Fiji,Suva,2010,0,0,1.0
+FJI,Fiji,Suva,2011,6,2,1.0
+FJI,Fiji,Suva,2012,0,0,1.0
+FJI,Fiji,Suva,2013,0,0,1.0
+FJI,Fiji,Suva,2014,0,0,1.0
+FJI,Fiji,Suva,2015,0,0,1.0
+FJI,Fiji,Suva,2016,9,2,1.0
+FJI,Fiji,Suva,2017,0,0,1.0
+FJI,Fiji,Suva,2018,3,1,1.0
+FJI,Fiji,Suva,2019,3,1,1.0
+FJI,Fiji,Suva,2020,0,0,1.0
+FJI,Fiji,Suva,2021,0,0,1.0
+FJI,Fiji,Suva,2022,19,6,1.0
+FJI,Fiji,Suva,2023,7,2,1.0
+FJI,Fiji,Suva,2024,25,7,1.0
+FJI,Fiji,Suva,2025,6,1,1.0
+FJI,Fiji,Suva,2026,7,2,0.767
+GUY,Guyana,Georgetown,2000,0,0,1.0
+GUY,Guyana,Georgetown,2001,0,0,1.0
+GUY,Guyana,Georgetown,2002,3,1,1.0
+GUY,Guyana,Georgetown,2003,0,0,1.0
+GUY,Guyana,Georgetown,2004,0,0,1.0
+GUY,Guyana,Georgetown,2005,4,1,1.0
+GUY,Guyana,Georgetown,2006,0,0,1.0
+GUY,Guyana,Georgetown,2007,0,0,1.0
+GUY,Guyana,Georgetown,2008,0,0,1.0
+GUY,Guyana,Georgetown,2009,0,0,1.0
+GUY,Guyana,Georgetown,2010,3,1,1.0
+GUY,Guyana,Georgetown,2011,3,1,1.0
+GUY,Guyana,Georgetown,2012,0,0,1.0
+GUY,Guyana,Georgetown,2013,0,0,1.0
+GUY,Guyana,Georgetown,2014,0,0,1.0
+GUY,Guyana,Georgetown,2015,0,0,1.0
+GUY,Guyana,Georgetown,2016,0,0,1.0
+GUY,Guyana,Georgetown,2017,0,0,1.0
+GUY,Guyana,Georgetown,2018,0,0,1.0
+GUY,Guyana,Georgetown,2019,0,0,1.0
+GUY,Guyana,Georgetown,2020,3,1,1.0
+GUY,Guyana,Georgetown,2021,0,0,1.0
+GUY,Guyana,Georgetown,2022,0,0,1.0
+GUY,Guyana,Georgetown,2023,53,11,1.0
+GUY,Guyana,Georgetown,2024,79,12,1.0
+GUY,Guyana,Georgetown,2025,0,0,1.0
+GUY,Guyana,Georgetown,2026,10,3,0.764
+BTN,Bhutan,Thimphu,2000,3,1,1.0
+BTN,Bhutan,Thimphu,2001,0,0,1.0
+BTN,Bhutan,Thimphu,2002,0,0,1.0
+BTN,Bhutan,Thimphu,2003,0,0,1.0
+BTN,Bhutan,Thimphu,2004,0,0,1.0
+BTN,Bhutan,Thimphu,2005,0,0,1.0
+BTN,Bhutan,Thimphu,2006,9,2,1.0
+BTN,Bhutan,Thimphu,2007,3,1,1.0
+BTN,Bhutan,Thimphu,2008,3,1,1.0
+BTN,Bhutan,Thimphu,2009,7,2,1.0
+BTN,Bhutan,Thimphu,2010,3,1,1.0
+BTN,Bhutan,Thimphu,2011,0,0,1.0
+BTN,Bhutan,Thimphu,2012,0,0,1.0
+BTN,Bhutan,Thimphu,2013,11,3,1.0
+BTN,Bhutan,Thimphu,2014,0,0,1.0
+BTN,Bhutan,Thimphu,2015,3,1,1.0
+BTN,Bhutan,Thimphu,2016,6,2,1.0
+BTN,Bhutan,Thimphu,2017,3,1,1.0
+BTN,Bhutan,Thimphu,2018,0,0,1.0
+BTN,Bhutan,Thimphu,2019,10,2,1.0
+BTN,Bhutan,Thimphu,2020,11,2,1.0
+BTN,Bhutan,Thimphu,2021,13,3,1.0
+BTN,Bhutan,Thimphu,2022,10,3,1.0
+BTN,Bhutan,Thimphu,2023,5,1,1.0
+BTN,Bhutan,Thimphu,2024,20,5,1.0
+BTN,Bhutan,Thimphu,2025,34,6,1.0
+BTN,Bhutan,Thimphu,2026,19,6,0.767
+SLB,Solomon Is.,Honiara,2000,0,0,1.0
+SLB,Solomon Is.,Honiara,2001,0,0,1.0
+SLB,Solomon Is.,Honiara,2002,0,0,1.0
+SLB,Solomon Is.,Honiara,2003,0,0,1.0
+SLB,Solomon Is.,Honiara,2004,0,0,1.0
+SLB,Solomon Is.,Honiara,2005,0,0,1.0
+SLB,Solomon Is.,Honiara,2006,3,1,1.0
+SLB,Solomon Is.,Honiara,2007,0,0,1.0
+SLB,Solomon Is.,Honiara,2008,0,0,1.0
+SLB,Solomon Is.,Honiara,2009,0,0,1.0
+SLB,Solomon Is.,Honiara,2010,0,0,1.0
+SLB,Solomon Is.,Honiara,2011,0,0,1.0
+SLB,Solomon Is.,Honiara,2012,0,0,1.0
+SLB,Solomon Is.,Honiara,2013,0,0,1.0
+SLB,Solomon Is.,Honiara,2014,0,0,1.0
+SLB,Solomon Is.,Honiara,2015,0,0,1.0
+SLB,Solomon Is.,Honiara,2016,0,0,1.0
+SLB,Solomon Is.,Honiara,2017,0,0,1.0
+SLB,Solomon Is.,Honiara,2018,3,1,1.0
+SLB,Solomon Is.,Honiara,2019,0,0,1.0
+SLB,Solomon Is.,Honiara,2020,3,1,1.0
+SLB,Solomon Is.,Honiara,2021,13,3,1.0
+SLB,Solomon Is.,Honiara,2022,0,0,1.0
+SLB,Solomon Is.,Honiara,2023,4,1,1.0
+SLB,Solomon Is.,Honiara,2024,18,4,1.0
+SLB,Solomon Is.,Honiara,2025,4,1,1.0
+SLB,Solomon Is.,Honiara,2026,0,0,0.767
+MNE,Montenegro,Podgorica,2000,3,1,1.0
+MNE,Montenegro,Podgorica,2001,0,0,1.0
+MNE,Montenegro,Podgorica,2002,6,2,1.0
+MNE,Montenegro,Podgorica,2003,13,2,1.0
+MNE,Montenegro,Podgorica,2004,3,1,1.0
+MNE,Montenegro,Podgorica,2005,0,0,1.0
+MNE,Montenegro,Podgorica,2006,3,1,1.0
+MNE,Montenegro,Podgorica,2007,12,4,1.0
+MNE,Montenegro,Podgorica,2008,10,3,1.0
+MNE,Montenegro,Podgorica,2009,11,2,1.0
+MNE,Montenegro,Podgorica,2010,0,0,1.0
+MNE,Montenegro,Podgorica,2011,9,2,1.0
+MNE,Montenegro,Podgorica,2012,10,3,1.0
+MNE,Montenegro,Podgorica,2013,4,1,1.0
+MNE,Montenegro,Podgorica,2014,0,0,1.0
+MNE,Montenegro,Podgorica,2015,14,4,1.0
+MNE,Montenegro,Podgorica,2016,10,2,1.0
+MNE,Montenegro,Podgorica,2017,12,3,1.0
+MNE,Montenegro,Podgorica,2018,9,2,1.0
+MNE,Montenegro,Podgorica,2019,6,1,1.0
+MNE,Montenegro,Podgorica,2020,7,1,1.0
+MNE,Montenegro,Podgorica,2021,12,4,1.0
+MNE,Montenegro,Podgorica,2022,11,2,1.0
+MNE,Montenegro,Podgorica,2023,4,1,1.0
+MNE,Montenegro,Podgorica,2024,33,6,1.0
+MNE,Montenegro,Podgorica,2025,15,3,1.0
+MNE,Montenegro,Podgorica,2026,11,3,0.767
+LUX,Luxembourg,Luxembourg,2000,7,2,1.0
+LUX,Luxembourg,Luxembourg,2001,0,0,1.0
+LUX,Luxembourg,Luxembourg,2002,4,1,1.0
+LUX,Luxembourg,Luxembourg,2003,14,2,1.0
+LUX,Luxembourg,Luxembourg,2004,5,1,1.0
+LUX,Luxembourg,Luxembourg,2005,9,2,1.0
+LUX,Luxembourg,Luxembourg,2006,7,2,1.0
+LUX,Luxembourg,Luxembourg,2007,13,3,1.0
+LUX,Luxembourg,Luxembourg,2008,0,0,1.0
+LUX,Luxembourg,Luxembourg,2009,0,0,1.0
+LUX,Luxembourg,Luxembourg,2010,0,0,1.0
+LUX,Luxembourg,Luxembourg,2011,10,2,1.0
+LUX,Luxembourg,Luxembourg,2012,0,0,1.0
+LUX,Luxembourg,Luxembourg,2013,0,0,1.0
+LUX,Luxembourg,Luxembourg,2014,11,2,1.0
+LUX,Luxembourg,Luxembourg,2015,8,2,1.0
+LUX,Luxembourg,Luxembourg,2016,7,2,1.0
+LUX,Luxembourg,Luxembourg,2017,7,2,1.0
+LUX,Luxembourg,Luxembourg,2018,15,3,1.0
+LUX,Luxembourg,Luxembourg,2019,12,3,1.0
+LUX,Luxembourg,Luxembourg,2020,3,1,1.0
+LUX,Luxembourg,Luxembourg,2021,10,2,1.0
+LUX,Luxembourg,Luxembourg,2022,7,2,1.0
+LUX,Luxembourg,Luxembourg,2023,6,1,1.0
+LUX,Luxembourg,Luxembourg,2024,0,0,1.0
+LUX,Luxembourg,Luxembourg,2025,15,4,1.0
+LUX,Luxembourg,Luxembourg,2026,43,8,0.767
+SAH,W. Sahara,Bir Lehlou,2000,0,0,1.0
+SAH,W. Sahara,Bir Lehlou,2001,0,0,1.0
+SAH,W. Sahara,Bir Lehlou,2002,0,0,1.0
+SAH,W. Sahara,Bir Lehlou,2003,0,0,1.0
+SAH,W. Sahara,Bir Lehlou,2004,0,0,1.0
+SAH,W. Sahara,Bir Lehlou,2005,0,0,1.0
+SAH,W. Sahara,Bir Lehlou,2006,8,2,1.0
+SAH,W. Sahara,Bir Lehlou,2007,3,1,1.0
+SAH,W. Sahara,Bir Lehlou,2008,8,2,1.0
+SAH,W. Sahara,Bir Lehlou,2009,3,1,1.0
+SAH,W. Sahara,Bir Lehlou,2010,34,8,1.0
+SAH,W. Sahara,Bir Lehlou,2011,4,1,1.0
+SAH,W. Sahara,Bir Lehlou,2012,4,1,1.0
+SAH,W. Sahara,Bir Lehlou,2013,4,1,1.0
+SAH,W. Sahara,Bir Lehlou,2014,0,0,1.0
+SAH,W. Sahara,Bir Lehlou,2015,5,1,1.0
+SAH,W. Sahara,Bir Lehlou,2016,6,1,1.0
+SAH,W. Sahara,Bir Lehlou,2017,6,2,1.0
+SAH,W. Sahara,Bir Lehlou,2018,0,0,1.0
+SAH,W. Sahara,Bir Lehlou,2019,6,2,1.0
+SAH,W. Sahara,Bir Lehlou,2020,3,1,1.0
+SAH,W. Sahara,Bir Lehlou,2021,22,6,1.0
+SAH,W. Sahara,Bir Lehlou,2022,5,1,1.0
+SAH,W. Sahara,Bir Lehlou,2023,26,6,1.0
+SAH,W. Sahara,Bir Lehlou,2024,26,5,1.0
+SAH,W. Sahara,Bir Lehlou,2025,13,4,1.0
+SAH,W. Sahara,Bir Lehlou,2026,12,4,0.767
+SUR,Suriname,Paramaribo,2000,0,0,1.0
+SUR,Suriname,Paramaribo,2001,0,0,1.0
+SUR,Suriname,Paramaribo,2002,0,0,1.0
+SUR,Suriname,Paramaribo,2003,4,1,1.0
+SUR,Suriname,Paramaribo,2004,0,0,1.0
+SUR,Suriname,Paramaribo,2005,0,0,1.0
+SUR,Suriname,Paramaribo,2006,0,0,1.0
+SUR,Suriname,Paramaribo,2007,0,0,1.0
+SUR,Suriname,Paramaribo,2008,3,1,1.0
+SUR,Suriname,Paramaribo,2009,3,1,1.0
+SUR,Suriname,Paramaribo,2010,3,1,1.0
+SUR,Suriname,Paramaribo,2011,8,2,1.0
+SUR,Suriname,Paramaribo,2012,0,0,1.0
+SUR,Suriname,Paramaribo,2013,0,0,1.0
+SUR,Suriname,Paramaribo,2014,0,0,1.0
+SUR,Suriname,Paramaribo,2015,0,0,1.0
+SUR,Suriname,Paramaribo,2016,6,2,1.0
+SUR,Suriname,Paramaribo,2017,3,1,1.0
+SUR,Suriname,Paramaribo,2018,0,0,1.0
+SUR,Suriname,Paramaribo,2019,0,0,1.0
+SUR,Suriname,Paramaribo,2020,0,0,1.0
+SUR,Suriname,Paramaribo,2021,0,0,1.0
+SUR,Suriname,Paramaribo,2022,0,0,1.0
+SUR,Suriname,Paramaribo,2023,32,8,1.0
+SUR,Suriname,Paramaribo,2024,102,20,1.0
+SUR,Suriname,Paramaribo,2025,0,0,1.0
+SUR,Suriname,Paramaribo,2026,0,0,0.764
+BRN,Brunei,Bandar Seri Begawan,2000,0,0,1.0
+BRN,Brunei,Bandar Seri Begawan,2001,6,1,1.0
+BRN,Brunei,Bandar Seri Begawan,2002,26,5,1.0
+BRN,Brunei,Bandar Seri Begawan,2003,48,9,1.0
+BRN,Brunei,Bandar Seri Begawan,2004,0,0,1.0
+BRN,Brunei,Bandar Seri Begawan,2005,26,6,1.0
+BRN,Brunei,Bandar Seri Begawan,2006,5,1,1.0
+BRN,Brunei,Bandar Seri Begawan,2007,0,0,1.0
+BRN,Brunei,Bandar Seri Begawan,2008,0,0,1.0
+BRN,Brunei,Bandar Seri Begawan,2009,9,3,1.0
+BRN,Brunei,Bandar Seri Begawan,2010,3,1,1.0
+BRN,Brunei,Bandar Seri Begawan,2011,0,0,1.0
+BRN,Brunei,Bandar Seri Begawan,2012,0,0,1.0
+BRN,Brunei,Bandar Seri Begawan,2013,0,0,1.0
+BRN,Brunei,Bandar Seri Begawan,2014,0,0,1.0
+BRN,Brunei,Bandar Seri Begawan,2015,0,0,1.0
+BRN,Brunei,Bandar Seri Begawan,2016,4,1,1.0
+BRN,Brunei,Bandar Seri Begawan,2017,0,0,1.0
+BRN,Brunei,Bandar Seri Begawan,2018,6,2,1.0
+BRN,Brunei,Bandar Seri Begawan,2019,18,3,1.0
+BRN,Brunei,Bandar Seri Begawan,2020,0,0,1.0
+BRN,Brunei,Bandar Seri Begawan,2021,0,0,1.0
+BRN,Brunei,Bandar Seri Begawan,2022,0,0,1.0
+BRN,Brunei,Bandar Seri Begawan,2023,4,1,1.0
+BRN,Brunei,Bandar Seri Begawan,2024,7,2,1.0
+BRN,Brunei,Bandar Seri Begawan,2025,3,1,1.0
+BRN,Brunei,Bandar Seri Begawan,2026,3,1,0.767
+BLZ,Belize,Belmopan,2000,0,0,1.0
+BLZ,Belize,Belmopan,2001,0,0,1.0
+BLZ,Belize,Belmopan,2002,3,1,1.0
+BLZ,Belize,Belmopan,2003,11,2,1.0
+BLZ,Belize,Belmopan,2004,7,2,1.0
+BLZ,Belize,Belmopan,2005,22,6,1.0
+BLZ,Belize,Belmopan,2006,0,0,1.0
+BLZ,Belize,Belmopan,2007,0,0,1.0
+BLZ,Belize,Belmopan,2008,0,0,1.0
+BLZ,Belize,Belmopan,2009,22,5,1.0
+BLZ,Belize,Belmopan,2010,16,5,1.0
+BLZ,Belize,Belmopan,2011,3,1,1.0
+BLZ,Belize,Belmopan,2012,0,0,1.0
+BLZ,Belize,Belmopan,2013,0,0,1.0
+BLZ,Belize,Belmopan,2014,3,1,1.0
+BLZ,Belize,Belmopan,2015,6,2,1.0
+BLZ,Belize,Belmopan,2016,0,0,1.0
+BLZ,Belize,Belmopan,2017,0,0,1.0
+BLZ,Belize,Belmopan,2018,3,1,1.0
+BLZ,Belize,Belmopan,2019,16,4,1.0
+BLZ,Belize,Belmopan,2020,17,5,1.0
+BLZ,Belize,Belmopan,2021,10,3,1.0
+BLZ,Belize,Belmopan,2022,5,1,1.0
+BLZ,Belize,Belmopan,2023,17,5,1.0
+BLZ,Belize,Belmopan,2024,6,2,1.0
+BLZ,Belize,Belmopan,2025,0,0,1.0
+BLZ,Belize,Belmopan,2026,0,0,0.764
+BHS,Bahamas,Nassau,2000,0,0,1.0
+BHS,Bahamas,Nassau,2001,0,0,1.0
+BHS,Bahamas,Nassau,2002,3,1,1.0
+BHS,Bahamas,Nassau,2003,15,3,1.0
+BHS,Bahamas,Nassau,2004,0,0,1.0
+BHS,Bahamas,Nassau,2005,4,1,1.0
+BHS,Bahamas,Nassau,2006,0,0,1.0
+BHS,Bahamas,Nassau,2007,0,0,1.0
+BHS,Bahamas,Nassau,2008,0,0,1.0
+BHS,Bahamas,Nassau,2009,3,1,1.0
+BHS,Bahamas,Nassau,2010,12,2,1.0
+BHS,Bahamas,Nassau,2011,0,0,1.0
+BHS,Bahamas,Nassau,2012,0,0,1.0
+BHS,Bahamas,Nassau,2013,0,0,1.0
+BHS,Bahamas,Nassau,2014,6,2,1.0
+BHS,Bahamas,Nassau,2015,14,3,1.0
+BHS,Bahamas,Nassau,2016,0,0,1.0
+BHS,Bahamas,Nassau,2017,0,0,1.0
+BHS,Bahamas,Nassau,2018,3,1,1.0
+BHS,Bahamas,Nassau,2019,6,2,1.0
+BHS,Bahamas,Nassau,2020,17,3,1.0
+BHS,Bahamas,Nassau,2021,7,2,1.0
+BHS,Bahamas,Nassau,2022,3,1,1.0
+BHS,Bahamas,Nassau,2023,47,7,1.0
+BHS,Bahamas,Nassau,2024,34,8,1.0
+BHS,Bahamas,Nassau,2025,4,1,1.0
+BHS,Bahamas,Nassau,2026,32,5,0.764
+ISL,Iceland,Reykjavík,2000,0,0,1.0
+ISL,Iceland,Reykjavík,2001,6,2,1.0
+ISL,Iceland,Reykjavík,2002,8,2,1.0
+ISL,Iceland,Reykjavík,2003,12,3,1.0
+ISL,Iceland,Reykjavík,2004,15,4,1.0
+ISL,Iceland,Reykjavík,2005,0,0,1.0
+ISL,Iceland,Reykjavík,2006,7,2,1.0
+ISL,Iceland,Reykjavík,2007,4,1,1.0
+ISL,Iceland,Reykjavík,2008,0,0,1.0
+ISL,Iceland,Reykjavík,2009,7,2,1.0
+ISL,Iceland,Reykjavík,2010,10,3,1.0
+ISL,Iceland,Reykjavík,2011,8,2,1.0
+ISL,Iceland,Reykjavík,2012,7,2,1.0
+ISL,Iceland,Reykjavík,2013,3,1,1.0
+ISL,Iceland,Reykjavík,2014,3,1,1.0
+ISL,Iceland,Reykjavík,2015,3,1,1.0
+ISL,Iceland,Reykjavík,2016,3,1,1.0
+ISL,Iceland,Reykjavík,2017,3,1,1.0
+ISL,Iceland,Reykjavík,2018,0,0,1.0
+ISL,Iceland,Reykjavík,2019,8,2,1.0
+ISL,Iceland,Reykjavík,2020,0,0,1.0
+ISL,Iceland,Reykjavík,2021,0,0,1.0
+ISL,Iceland,Reykjavík,2022,0,0,1.0
+ISL,Iceland,Reykjavík,2023,0,0,1.0
+ISL,Iceland,Reykjavík,2024,3,1,1.0
+ISL,Iceland,Reykjavík,2025,9,2,1.0
+ISL,Iceland,Reykjavík,2026,0,0,0.767
+CYN,N. Cyprus,North Nicosia,2000,13,3,1.0
+CYN,N. Cyprus,North Nicosia,2001,6,2,1.0
+CYN,N. Cyprus,North Nicosia,2002,13,4,1.0
+CYN,N. Cyprus,North Nicosia,2003,10,3,1.0
+CYN,N. Cyprus,North Nicosia,2004,6,2,1.0
+CYN,N. Cyprus,North Nicosia,2005,3,1,1.0
+CYN,N. Cyprus,North Nicosia,2006,8,2,1.0
+CYN,N. Cyprus,North Nicosia,2007,13,4,1.0
+CYN,N. Cyprus,North Nicosia,2008,12,3,1.0
+CYN,N. Cyprus,North Nicosia,2009,5,1,1.0
+CYN,N. Cyprus,North Nicosia,2010,25,5,1.0
+CYN,N. Cyprus,North Nicosia,2011,0,0,1.0
+CYN,N. Cyprus,North Nicosia,2012,4,1,1.0
+CYN,N. Cyprus,North Nicosia,2013,7,2,1.0
+CYN,N. Cyprus,North Nicosia,2014,0,0,1.0
+CYN,N. Cyprus,North Nicosia,2015,5,1,1.0
+CYN,N. Cyprus,North Nicosia,2016,14,3,1.0
+CYN,N. Cyprus,North Nicosia,2017,4,1,1.0
+CYN,N. Cyprus,North Nicosia,2018,9,3,1.0
+CYN,N. Cyprus,North Nicosia,2019,4,1,1.0
+CYN,N. Cyprus,North Nicosia,2020,19,4,1.0
+CYN,N. Cyprus,North Nicosia,2021,10,3,1.0
+CYN,N. Cyprus,North Nicosia,2022,4,1,1.0
+CYN,N. Cyprus,North Nicosia,2023,8,2,1.0
+CYN,N. Cyprus,North Nicosia,2024,21,5,1.0
+CYN,N. Cyprus,North Nicosia,2025,20,5,1.0
+CYN,N. Cyprus,North Nicosia,2026,0,0,0.767
+VUT,Vanuatu,Port Vila,2000,4,1,1.0
+VUT,Vanuatu,Port Vila,2001,0,0,1.0
+VUT,Vanuatu,Port Vila,2002,3,1,1.0
+VUT,Vanuatu,Port Vila,2003,0,0,1.0
+VUT,Vanuatu,Port Vila,2004,0,0,1.0
+VUT,Vanuatu,Port Vila,2005,0,0,1.0
+VUT,Vanuatu,Port Vila,2006,0,0,1.0
+VUT,Vanuatu,Port Vila,2007,3,1,1.0
+VUT,Vanuatu,Port Vila,2008,6,2,1.0
+VUT,Vanuatu,Port Vila,2009,0,0,1.0
+VUT,Vanuatu,Port Vila,2010,9,2,1.0
+VUT,Vanuatu,Port Vila,2011,0,0,1.0
+VUT,Vanuatu,Port Vila,2012,0,0,1.0
+VUT,Vanuatu,Port Vila,2013,0,0,1.0
+VUT,Vanuatu,Port Vila,2014,0,0,1.0
+VUT,Vanuatu,Port Vila,2015,10,2,1.0
+VUT,Vanuatu,Port Vila,2016,12,2,1.0
+VUT,Vanuatu,Port Vila,2017,0,0,1.0
+VUT,Vanuatu,Port Vila,2018,0,0,1.0
+VUT,Vanuatu,Port Vila,2019,0,0,1.0
+VUT,Vanuatu,Port Vila,2020,3,1,1.0
+VUT,Vanuatu,Port Vila,2021,9,3,1.0
+VUT,Vanuatu,Port Vila,2022,81,15,1.0
+VUT,Vanuatu,Port Vila,2023,3,1,1.0
+VUT,Vanuatu,Port Vila,2024,16,4,1.0
+VUT,Vanuatu,Port Vila,2025,26,7,1.0
+VUT,Vanuatu,Port Vila,2026,7,2,0.767
+NCL,New Caledonia,Nouméa,2000,0,0,1.0
+NCL,New Caledonia,Nouméa,2001,0,0,1.0
+NCL,New Caledonia,Nouméa,2002,15,3,1.0
+NCL,New Caledonia,Nouméa,2003,0,0,1.0
+NCL,New Caledonia,Nouméa,2004,14,4,1.0
+NCL,New Caledonia,Nouméa,2005,0,0,1.0
+NCL,New Caledonia,Nouméa,2006,5,1,1.0
+NCL,New Caledonia,Nouméa,2007,6,2,1.0
+NCL,New Caledonia,Nouméa,2008,12,3,1.0
+NCL,New Caledonia,Nouméa,2009,0,0,1.0
+NCL,New Caledonia,Nouméa,2010,18,4,1.0
+NCL,New Caledonia,Nouméa,2011,3,1,1.0
+NCL,New Caledonia,Nouméa,2012,0,0,1.0
+NCL,New Caledonia,Nouméa,2013,0,0,1.0
+NCL,New Caledonia,Nouméa,2014,3,1,1.0
+NCL,New Caledonia,Nouméa,2015,0,0,1.0
+NCL,New Caledonia,Nouméa,2016,13,4,1.0
+NCL,New Caledonia,Nouméa,2017,4,1,1.0
+NCL,New Caledonia,Nouméa,2018,3,1,1.0
+NCL,New Caledonia,Nouméa,2019,0,0,1.0
+NCL,New Caledonia,Nouméa,2020,3,1,1.0
+NCL,New Caledonia,Nouméa,2021,17,4,1.0
+NCL,New Caledonia,Nouméa,2022,21,5,1.0
+NCL,New Caledonia,Nouméa,2023,4,2,1.0
+NCL,New Caledonia,Nouméa,2024,5,1,1.0
+NCL,New Caledonia,Nouméa,2025,22,6,1.0
+NCL,New Caledonia,Nouméa,2026,12,2,0.767
+GRL,Greenland,Nuuk,2000,3,1,1.0
+GRL,Greenland,Nuuk,2001,5,1,1.0
+GRL,Greenland,Nuuk,2002,4,1,1.0
+GRL,Greenland,Nuuk,2003,3,1,1.0
+GRL,Greenland,Nuuk,2004,0,0,1.0
+GRL,Greenland,Nuuk,2005,7,2,1.0
+GRL,Greenland,Nuuk,2006,6,2,1.0
+GRL,Greenland,Nuuk,2007,6,2,1.0
+GRL,Greenland,Nuuk,2008,0,0,1.0
+GRL,Greenland,Nuuk,2009,7,2,1.0
+GRL,Greenland,Nuuk,2010,30,8,1.0
+GRL,Greenland,Nuuk,2011,5,1,1.0
+GRL,Greenland,Nuuk,2012,4,1,1.0
+GRL,Greenland,Nuuk,2013,10,2,1.0
+GRL,Greenland,Nuuk,2014,0,0,1.0
+GRL,Greenland,Nuuk,2015,0,0,1.0
+GRL,Greenland,Nuuk,2016,11,3,1.0
+GRL,Greenland,Nuuk,2017,7,2,1.0
+GRL,Greenland,Nuuk,2018,0,0,1.0
+GRL,Greenland,Nuuk,2019,10,3,1.0
+GRL,Greenland,Nuuk,2020,0,0,1.0
+GRL,Greenland,Nuuk,2021,3,1,1.0
+GRL,Greenland,Nuuk,2022,4,1,1.0
+GRL,Greenland,Nuuk,2023,9,3,1.0
+GRL,Greenland,Nuuk,2024,6,2,1.0
+GRL,Greenland,Nuuk,2025,13,4,1.0
+GRL,Greenland,Nuuk,2026,5,1,0.764
+FLK,Falkland Is.,Stanley,2000,0,0,1.0
+FLK,Falkland Is.,Stanley,2001,0,0,1.0
+FLK,Falkland Is.,Stanley,2002,0,0,1.0
+FLK,Falkland Is.,Stanley,2003,0,0,1.0
+FLK,Falkland Is.,Stanley,2004,7,2,1.0
+FLK,Falkland Is.,Stanley,2005,0,0,1.0
+FLK,Falkland Is.,Stanley,2006,6,2,1.0
+FLK,Falkland Is.,Stanley,2007,3,1,1.0
+FLK,Falkland Is.,Stanley,2008,0,0,1.0
+FLK,Falkland Is.,Stanley,2009,3,1,1.0
+FLK,Falkland Is.,Stanley,2010,0,0,1.0
+FLK,Falkland Is.,Stanley,2011,0,0,1.0
+FLK,Falkland Is.,Stanley,2012,0,0,1.0
+FLK,Falkland Is.,Stanley,2013,4,1,1.0
+FLK,Falkland Is.,Stanley,2014,3,1,1.0
+FLK,Falkland Is.,Stanley,2015,0,0,1.0
+FLK,Falkland Is.,Stanley,2016,0,0,1.0
+FLK,Falkland Is.,Stanley,2017,6,2,1.0
+FLK,Falkland Is.,Stanley,2018,7,2,1.0
+FLK,Falkland Is.,Stanley,2019,0,0,1.0
+FLK,Falkland Is.,Stanley,2020,12,3,1.0
+FLK,Falkland Is.,Stanley,2021,6,2,1.0
+FLK,Falkland Is.,Stanley,2022,6,2,1.0
+FLK,Falkland Is.,Stanley,2023,0,0,1.0
+FLK,Falkland Is.,Stanley,2024,3,1,1.0
+FLK,Falkland Is.,Stanley,2025,4,1,1.0
+FLK,Falkland Is.,Stanley,2026,4,1,0.764
+ATF,Fr. S. Antarctic Lands,Fr. S. Antarctic Lands (label point),2000,0,0,1.0
+ATF,Fr. S. Antarctic Lands,Fr. S. Antarctic Lands (label point),2001,4,1,1.0
+ATF,Fr. S. Antarctic Lands,Fr. S. Antarctic Lands (label point),2002,0,0,1.0
+ATF,Fr. S. Antarctic Lands,Fr. S. Antarctic Lands (label point),2003,0,0,1.0
+ATF,Fr. S. Antarctic Lands,Fr. S. Antarctic Lands (label point),2004,3,1,1.0
+ATF,Fr. S. Antarctic Lands,Fr. S. Antarctic Lands (label point),2005,3,1,1.0
+ATF,Fr. S. Antarctic Lands,Fr. S. Antarctic Lands (label point),2006,0,0,1.0
+ATF,Fr. S. Antarctic Lands,Fr. S. Antarctic Lands (label point),2007,0,0,1.0
+ATF,Fr. S. Antarctic Lands,Fr. S. Antarctic Lands (label point),2008,0,0,1.0
+ATF,Fr. S. Antarctic Lands,Fr. S. Antarctic Lands (label point),2009,0,0,1.0
+ATF,Fr. S. Antarctic Lands,Fr. S. Antarctic Lands (label point),2010,3,1,1.0
+ATF,Fr. S. Antarctic Lands,Fr. S. Antarctic Lands (label point),2011,3,1,1.0
+ATF,Fr. S. Antarctic Lands,Fr. S. Antarctic Lands (label point),2012,6,2,1.0
+ATF,Fr. S. Antarctic Lands,Fr. S. Antarctic Lands (label point),2013,3,1,1.0
+ATF,Fr. S. Antarctic Lands,Fr. S. Antarctic Lands (label point),2014,0,0,1.0
+ATF,Fr. S. Antarctic Lands,Fr. S. Antarctic Lands (label point),2015,0,0,1.0
+ATF,Fr. S. Antarctic Lands,Fr. S. Antarctic Lands (label point),2016,6,2,1.0
+ATF,Fr. S. Antarctic Lands,Fr. S. Antarctic Lands (label point),2017,3,1,1.0
+ATF,Fr. S. Antarctic Lands,Fr. S. Antarctic Lands (label point),2018,0,0,1.0
+ATF,Fr. S. Antarctic Lands,Fr. S. Antarctic Lands (label point),2019,0,0,1.0
+ATF,Fr. S. Antarctic Lands,Fr. S. Antarctic Lands (label point),2020,0,0,1.0
+ATF,Fr. S. Antarctic Lands,Fr. S. Antarctic Lands (label point),2021,0,0,1.0
+ATF,Fr. S. Antarctic Lands,Fr. S. Antarctic Lands (label point),2022,3,1,1.0
+ATF,Fr. S. Antarctic Lands,Fr. S. Antarctic Lands (label point),2023,12,4,1.0
+ATF,Fr. S. Antarctic Lands,Fr. S. Antarctic Lands (label point),2024,0,0,1.0
+ATF,Fr. S. Antarctic Lands,Fr. S. Antarctic Lands (label point),2025,0,0,1.0
+ATF,Fr. S. Antarctic Lands,Fr. S. Antarctic Lands (label point),2026,6,2,0.767

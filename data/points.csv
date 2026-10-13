@@ -1,0 +1,177 @@
+iso,country,place,lat,lon,kind,pop
+CHN,China,Beijing,39.931,116.386,capital,1397715000
+IND,India,New Delhi,28.6,77.2,capital,1366417754
+USA,United States of America,"Washington, D.C.",38.901,-77.011,capital,328239523
+IDN,Indonesia,Jakarta,-6.172,106.827,capital,270625568
+PAK,Pakistan,Islamabad,33.702,73.165,capital,216565318
+BRA,Brazil,Brasília,-15.781,-47.918,capital,211049527
+NGA,Nigeria,Abuja,9.085,7.531,capital,200963599
+BGD,Bangladesh,Dhaka,23.725,90.407,capital,163046161
+RUS,Russia,Moscow,55.754,37.614,capital,144373535
+MEX,Mexico,Mexico City,19.444,-99.133,capital,127575529
+JPN,Japan,Tokyo,35.687,139.749,capital,126264931
+ETH,Ethiopia,Addis Ababa,9.035,38.698,capital,112078730
+PHL,Philippines,Manila,14.606,120.98,capital,108116615
+EGY,Egypt,Cairo,30.052,31.248,capital,100388073
+VNM,Vietnam,Hanoi,21.035,105.848,capital,96462106
+COD,Dem. Rep. Congo,Kinshasa,-4.328,15.313,capital,86790567
+TUR,Turkey,Ankara,39.929,32.862,capital,83429615
+DEU,Germany,Berlin,52.524,13.4,capital,83132799
+IRN,Iran,Tehran,35.674,51.422,capital,82913906
+THA,Thailand,Bangkok,13.752,100.515,capital,69625582
+FRA,France,Paris,48.869,2.331,capital,67059887
+GBR,United Kingdom,London,51.502,-0.119,capital,66834405
+ITA,Italy,Rome,41.898,12.481,capital,60297396
+ZAF,South Africa,Johannesburg,-26.168,28.028,capital,58558270
+TZA,Tanzania,Dar es Salaam,-6.798,39.266,capital,58005463
+MMR,Myanmar,Yangon,16.785,96.165,capital,54045420
+KEN,Kenya,Nairobi,-1.281,36.815,capital,52573973
+KOR,South Korea,Seoul,37.568,126.998,capital,51709098
+COL,Colombia,Bogota,4.598,-74.085,capital,50339443
+ESP,Spain,Madrid,40.402,-3.685,capital,47076781
+ARG,Argentina,Buenos Aires,-34.601,-58.399,capital,44938712
+UKR,Ukraine,Kyiv,50.435,30.515,capital,44385155
+UGA,Uganda,Kampala,0.319,32.581,capital,44269594
+DZA,Algeria,Algiers,36.765,3.049,capital,43053054
+SDN,Sudan,Khartoum,15.59,32.532,capital,42813238
+IRQ,Iraq,Baghdad,33.341,44.392,capital,39309783
+AFG,Afghanistan,Kabul,34.519,69.181,capital,38041754
+POL,Poland,Warsaw,52.252,20.998,capital,37970874
+CAN,Canada,Ottawa,45.419,-75.702,capital,37589262
+MAR,Morocco,Rabat,34.025,-6.836,capital,36471769
+SAU,Saudi Arabia,Riyadh,24.643,46.771,capital,34268528
+UZB,Uzbekistan,Tashkent,41.314,69.293,capital,33580650
+PER,Peru,Lima,-12.046,-77.052,capital,32510453
+MYS,Malaysia,Kuala Lumpur,3.169,101.698,capital,31949777
+AGO,Angola,Luanda,-8.836,13.232,capital,31825295
+GHA,Ghana,Accra,5.552,-0.219,capital,30417856
+MOZ,Mozambique,Maputo,-25.953,32.587,capital,30366036
+YEM,Yemen,Sanaa,15.357,44.205,capital,29161922
+NPL,Nepal,Kathmandu,27.719,85.315,capital,28608710
+VEN,Venezuela,Caracas,10.503,-66.919,capital,28515829
+MDG,Madagascar,Antananarivo,-18.915,47.515,capital,26969307
+CMR,Cameroon,Yaoundé,3.869,11.515,capital,25876380
+CIV,Côte d'Ivoire,Abidjan,5.322,-4.042,capital,25716544
+PRK,North Korea,Pyongyang,39.021,125.753,capital,25666161
+AUS,Australia,Canberra,-35.283,149.129,capital,25364307
+TWN,Taiwan,Taipei,25.036,121.568,capital,23568378
+NER,Niger,Niamey,13.519,2.115,capital,23310715
+LKA,Sri Lanka,Colombo,6.932,79.858,capital,21803000
+BFA,Burkina Faso,Ouagadougou,12.372,-1.527,capital,20321378
+MLI,Mali,Bamako,12.652,-8.002,capital,19658031
+ROU,Romania,Bucharest,44.435,26.098,capital,19356544
+CHL,Chile,Santiago,-33.448,-70.669,capital,18952038
+MWI,Malawi,Lilongwe,-13.983,33.783,capital,18628747
+KAZ,Kazakhstan,Astana,51.169,71.449,capital,18513930
+ZMB,Zambia,Lusaka,-15.415,28.281,capital,17861030
+ECU,Ecuador,Quito,-0.213,-78.502,capital,17373662
+NLD,Netherlands,Amsterdam,52.352,4.915,capital,17332850
+SYR,Syria,Damascus,33.502,36.298,capital,17070135
+GTM,Guatemala,Guatemala City,14.623,-90.529,capital,16604026
+KHM,Cambodia,Phnom Penh,11.552,104.915,capital,16486542
+SEN,Senegal,Dakar,14.718,-17.475,capital,16296364
+TCD,Chad,N'Djamena,12.115,15.047,capital,15946876
+ZWE,Zimbabwe,Harare,-17.816,31.043,capital,14645468
+GIN,Guinea,Conakry,9.533,-13.682,capital,12771246
+RWA,Rwanda,Kigali,-1.952,30.059,capital,12626950
+BEN,Benin,Cotonou,6.402,2.518,capital,11801151
+TUN,Tunisia,Tunis,36.803,10.18,capital,11694719
+BDI,Burundi,Bujumbura,-3.376,29.36,capital,11530580
+BOL,Bolivia,La Paz,-16.496,-68.152,capital,11513100
+BEL,Belgium,Brussels,50.835,4.331,capital,11484055
+CUB,Cuba,Havana,23.134,-82.366,capital,11333483
+HTI,Haiti,Port-au-Prince,18.543,-72.338,capital,11263077
+SDS,S. Sudan,Juba,4.859,31.571,capital,11062113
+DOM,Dominican Rep.,Santo Domingo,18.472,-69.902,capital,10738958
+GRC,Greece,Athens,37.985,23.731,capital,10716322
+CZE,Czechia,Prague,50.085,14.464,capital,10669709
+SWE,Sweden,Stockholm,59.353,18.095,capital,10285453
+PRT,Portugal,Lisbon,38.725,-9.147,capital,10269417
+SOM,Somalia,Mogadishu,2.069,45.365,capital,10192317
+JOR,Jordan,Amman,31.952,35.931,capital,10101694
+AZE,Azerbaijan,Baku,40.397,49.86,capital,10023318
+ARE,United Arab Emirates,Abu Dhabi,24.467,54.367,capital,9770529
+HUN,Hungary,Budapest,47.502,19.081,capital,9769949
+HND,Honduras,Tegucigalpa,14.104,-87.219,capital,9746117
+BLR,Belarus,Minsk,53.902,27.565,capital,9466856
+TJK,Tajikistan,Dushanbe,38.56,68.774,capital,9321018
+ISR,Israel,Jerusalem,31.778,35.207,capital,9053300
+AUT,Austria,Vienna,48.202,16.365,capital,8877067
+PNG,Papua New Guinea,Port Moresby,-9.465,147.193,capital,8776109
+CHE,Switzerland,Bern,46.917,7.467,capital,8574832
+TGO,Togo,Lomé,6.134,1.221,capital,8082366
+SLE,Sierra Leone,Freetown,8.472,-13.236,capital,7813215
+LAO,Laos,Vientiane,17.967,102.6,capital,7169455
+PRY,Paraguay,Asunción,-25.294,-57.643,capital,7044636
+BGR,Bulgaria,Sofia,42.685,23.315,capital,6975761
+SRB,Serbia,Belgrade,44.821,20.466,capital,6944975
+LBN,Lebanon,Beirut,33.874,35.508,capital,6855713
+LBY,Libya,Tripoli,32.892,13.18,capital,6777452
+NIC,Nicaragua,Managua,12.155,-86.27,capital,6545502
+KGZ,Kyrgyzstan,Bishkek,42.875,74.583,capital,6456900
+SLV,El Salvador,San Salvador,13.712,-89.205,capital,6453553
+ERI,Eritrea,Asmara,15.333,38.933,capital,6081196
+TKM,Turkmenistan,Ashgabat,37.95,58.383,capital,5942089
+DNK,Denmark,København,55.681,12.562,capital,5818553
+FIN,Finland,Helsinki,60.178,24.932,capital,5520314
+SVK,Slovakia,Bratislava,48.15,17.117,capital,5454073
+COG,Congo,Brazzaville,-4.257,15.283,capital,5380508
+NOR,Norway,Oslo,59.919,10.748,capital,5347896
+SOL,Somaliland,Hargeisa,9.56,44.065,capital,5096159
+CRI,Costa Rica,San José,9.937,-84.086,capital,5047561
+OMN,Oman,Muscat,23.613,58.593,capital,4974986
+IRL,Ireland,Dublin,53.335,-6.251,capital,4941444
+LBR,Liberia,Monrovia,6.315,-10.8,capital,4937374
+NZL,New Zealand,Wellington,-41.3,174.783,capital,4917000
+CAF,Central African Rep.,Bangui,4.367,18.558,capital,4745185
+PSX,Palestine,Ramallah,31.903,35.204,administrative capital,4685306
+MRT,Mauritania,Nouakchott,18.086,-15.975,capital,4525696
+PAN,Panama,Panama City,8.97,-79.535,capital,4246439
+KWT,Kuwait,Kuwait City,29.372,47.976,capital,4207083
+HRV,Croatia,Zagreb,45.8,16.0,capital,4067500
+GEO,Georgia,Tbilisi,41.727,44.789,capital,3720382
+URY,Uruguay,Montevideo,-34.856,-56.173,capital,3461734
+BIH,Bosnia and Herz.,Sarajevo,43.85,18.383,capital,3301000
+MNG,Mongolia,Ulaanbaatar,47.919,106.915,capital,3225167
+PRI,Puerto Rico,San Juan,18.44,-66.13,largest city,3193694
+ARM,Armenia,Yerevan,40.183,44.512,capital,2957731
+JAM,Jamaica,Kingston,17.977,-76.767,capital,2948279
+ALB,Albania,Tirana,41.328,19.819,capital,2854191
+QAT,Qatar,Doha,25.287,51.533,capital,2832067
+LTU,Lithuania,Vilnius,54.683,25.317,capital,2786844
+MDA,Moldova,Chișinău,47.005,28.858,capital,2657637
+NAM,Namibia,Windhoek,-22.57,17.084,capital,2494530
+GMB,Gambia,Banjul,13.454,-16.592,capital,2347706
+BWA,Botswana,Gaborone,-24.646,25.912,capital,2303697
+GAB,Gabon,Libreville,0.385,9.458,capital,2172579
+LSO,Lesotho,Maseru,-29.317,27.483,capital,2125268
+SVN,Slovenia,Ljubljana,46.055,14.515,capital,2087946
+MKD,North Macedonia,Skopje,42.0,21.433,capital,2083459
+GNB,Guinea-Bissau,Bissau,11.865,-15.598,capital,1920922
+LVA,Latvia,Riga,56.95,24.1,capital,1912789
+KOS,Kosovo,Pristina,42.667,21.166,capital,1794248
+TTO,Trinidad and Tobago,Port-of-Spain,10.652,-61.517,capital,1394973
+GNQ,Eq. Guinea,Malabo,3.75,8.783,capital,1355986
+EST,Estonia,Tallinn,59.434,24.728,capital,1326590
+TLS,Timor-Leste,Dili,-8.559,125.579,capital,1293119
+CYP,Cyprus,Nicosia,35.167,33.367,capital,1198575
+SWZ,eSwatini,Mbabane,-26.317,31.133,capital,1148130
+DJI,Djibouti,Djibouti,11.595,43.148,capital,973560
+FJI,Fiji,Suva,-18.133,178.442,capital,889953
+GUY,Guyana,Georgetown,6.802,-58.167,capital,782766
+BTN,Bhutan,Thimphu,27.473,89.639,capital,763092
+SLB,Solomon Is.,Honiara,-9.438,159.95,capital,669823
+MNE,Montenegro,Podgorica,42.466,19.266,capital,622137
+LUX,Luxembourg,Luxembourg,49.612,6.13,capital,619896
+SAH,W. Sahara,Bir Lehlou,26.119,-9.653,largest city,603253
+SUR,Suriname,Paramaribo,5.835,-55.167,capital,581363
+BRN,Brunei,Bandar Seri Begawan,4.883,114.933,capital,433285
+BLZ,Belize,Belmopan,17.252,-88.767,capital,390353
+BHS,Bahamas,Nassau,25.083,-77.35,capital,389482
+ISL,Iceland,Reykjavík,64.15,-21.95,capital,361313
+CYN,N. Cyprus,North Nicosia,35.185,33.363,capital,326000
+VUT,Vanuatu,Port Vila,-17.733,168.317,capital,299882
+NCL,New Caledonia,Nouméa,-22.263,166.444,largest city,287800
+GRL,Greenland,Nuuk,64.198,-51.733,largest city,56225
+FLK,Falkland Is.,Stanley,-51.7,-57.85,largest city,3398
+ATF,Fr. S. Antarctic Lands,Fr. S. Antarctic Lands (label point),-49.304,69.122,label point,140

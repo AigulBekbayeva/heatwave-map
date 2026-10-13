@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Global Heatwave Map · 2000 → 2026</title>
+  <meta name="description" content="Heatwave days per country, every year from 2000 to 2026. A heatwave is 3+ consecutive days above the local 95th percentile of daily maximum temperature. ERA5 via Open-Meteo.">
+  <meta property="og:title" content="Global Heatwave Map · 2000 → 2026">
+  <meta property="og:description" content="How many heatwave days did your country have each year since 2000? ERA5 reanalysis, 176 countries.">
+  <meta property="og:type" content="website">
+  <meta name="theme-color" content="#0f0e0d">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🔥</text></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="top">
+    <p class="kicker"><span class="dot"></span> ERA5 reanalysis · 2000 → 2026</p>
+    <h1>Global Heatwave Map</h1>
+    <p class="headline" id="headline">Loading data…</p>
+  </header>
+
+  <div class="banner" id="progress" hidden></div>
+
+  <section class="controls" aria-label="Map controls">
+    <div class="seg" role="tablist" aria-label="What the map shows">
+      <button role="tab" aria-selected="true" data-mode="days">Heatwave days</button>
+      <button role="tab" aria-selected="false" data-mode="change">Change vs 2000–09</button>
+    </div>
+    <div class="timeline" id="timeline">
+      <button class="play" id="play" aria-label="Play animation">
+        <svg viewBox="0 0 16 16" width="14" height="14" aria-hidden="true"><path id="playIcon" d="M4 2.5v11l9-5.5z" fill="currentColor"/></svg>
+      </button>
+      <input type="range" id="year" min="2000" max="2026" step="1" value="2025" aria-label="Year">
+      <output id="yearLabel" for="year">2025</output>
+    </div>
+    <button class="ghost" id="download" title="Download a 1080×1350 image for LinkedIn">
+      <svg viewBox="0 0 16 16" width="14" height="14" aria-hidden="true"><path d="M8 2v8m0 0L4.5 6.5M8 10l3.5-3.5M2.5 13.5h11" stroke="currentColor" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      PNG
+    </button>
+  </section>
+
+  <main class="layout">
+    <section class="map-wrap">
+      <svg id="map" role="img" aria-label="World map of heatwave days per country"></svg>
+      <div class="legend" id="legend"></div>
+    </section>
+
+    <aside class="side">
+      <div class="card">
+        <div class="card-head">
+          <h2 id="seriesTitle">Average across countries</h2>
+          <button class="link" id="clearSel" hidden>Show global</button>
+        </div>
+        <p class="sub" id="seriesSub">Heatwave days per year. Click a country on the map.</p>
+        <svg id="series" role="img" aria-label="Heatwave days per year"></svg>
+        <p class="note" id="seriesNote"></p>
+      </div>
+      <div class="card">
+        <h2 id="topTitle">Most heatwave days</h2>
+        <ol class="top10" id="top10"></ol>
+      </div>
+    </aside>
+  </main>
+
+  <section class="method">
+    <details>
+      <summary>Data table</summary>
+      <div class="table-wrap"><table id="table"></table></div>
+    </details>
+    <div class="cols">
+      <div>
+        <h3>Definition</h3>
+        <p>A <strong>heatwave</strong> is at least <strong>3 consecutive days</strong> on which the daily maximum temperature is above the local <strong>95th percentile</strong> for that calendar day. Every day inside such a run counts as a heatwave day.</p>
+        <p>The percentile is computed separately for each location and calendar day from 2000–2025, using a 15-day window centred on that day (390 values each). So a "hot day" in Oslo and in Riyadh are both unusual <em>for that place and time of year</em>.</p>
+      </div>
+      <div>
+        <h3>Data &amp; caveats</h3>
+        <p>Daily Tmax from <strong>ERA5</strong> (ECMWF / Copernicus, ~25 km grid) via the <a href="https://open-meteo.com/en/docs/historical-weather-api">Open-Meteo Historical Weather API</a>, local-time days. Each country is sampled at its <strong>capital</strong>, so large countries are represented by one location. The baseline (2000–2025) already includes recent warm years; compared with an older baseline such as 1961–1990 it gives fewer heatwave days and a more conservative trend.</p>
+        <p id="partialNote">The latest year is partial (data to <span id="through">—</span>).</p>
+      </div>
+      <div>
+        <h3>Reuse</h3>
+        <p><a href="data/heatwave_days.csv" download>Download the CSV</a> (country, place, year, heatwave days, events). Code and method: <a id="repoLink" href="#">GitHub</a>. Data updates daily.</p>
+        <p class="muted" id="generated"></p>
+      </div>
+    </div>
+  </section>
+
+  <div class="tooltip" id="tip" role="status" hidden></div>
+
+  <script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
