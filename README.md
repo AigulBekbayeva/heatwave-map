@@ -2,7 +2,7 @@
 
 Interactive world map of **heatwave days per country, every year since 2000**, built from ERA5 reanalysis and updated daily by GitHub Actions.
 
-**Live map:** `https://<user>.github.io/<repo>/`
+**Live map:** `https://<user>.github.io/<repo>/](https://aigulbekbayeva.github.io/heatwave-map/`
 
 - Year slider with a play button (2000 → 2026)
 - "Change vs 2000–09" view: 2016–2025 average minus the 2000–2009 average
