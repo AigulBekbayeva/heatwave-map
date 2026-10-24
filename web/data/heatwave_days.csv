@@ -25,7 +25,7 @@ CHN,China,Beijing,2022,0,0,1.0
 CHN,China,Beijing,2023,10,3,1.0
 CHN,China,Beijing,2024,3,1,1.0
 CHN,China,Beijing,2025,14,4,1.0
-CHN,China,Beijing,2026,6,2,0.795
+CHN,China,Beijing,2026,6,2,0.797
 IND,India,New Delhi,2000,7,2,1.0
 IND,India,New Delhi,2001,15,3,1.0
 IND,India,New Delhi,2002,34,5,1.0
@@ -52,7 +52,7 @@ IND,India,New Delhi,2022,11,3,1.0
 IND,India,New Delhi,2023,7,2,1.0
 IND,India,New Delhi,2024,17,4,1.0
 IND,India,New Delhi,2025,0,0,1.0
-IND,India,New Delhi,2026,8,1,0.795
+IND,India,New Delhi,2026,8,1,0.797
 USA,United States of America,"Washington, D.C.",2000,6,2,1.0
 USA,United States of America,"Washington, D.C.",2001,4,1,1.0
 USA,United States of America,"Washington, D.C.",2002,14,4,1.0
@@ -79,7 +79,7 @@ USA,United States of America,"Washington, D.C.",2022,0,0,1.0
 USA,United States of America,"Washington, D.C.",2023,8,2,1.0
 USA,United States of America,"Washington, D.C.",2024,9,3,1.0
 USA,United States of America,"Washington, D.C.",2025,3,1,1.0
-USA,United States of America,"Washington, D.C.",2026,15,4,0.792
+USA,United States of America,"Washington, D.C.",2026,15,4,0.795
 IDN,Indonesia,Jakarta,2000,0,0,1.0
 IDN,Indonesia,Jakarta,2001,0,0,1.0
 IDN,Indonesia,Jakarta,2002,0,0,1.0
@@ -106,7 +106,7 @@ IDN,Indonesia,Jakarta,2022,4,1,1.0
 IDN,Indonesia,Jakarta,2023,28,5,1.0
 IDN,Indonesia,Jakarta,2024,5,1,1.0
 IDN,Indonesia,Jakarta,2025,3,1,1.0
-IDN,Indonesia,Jakarta,2026,25,6,0.795
+IDN,Indonesia,Jakarta,2026,25,6,0.797
 PAK,Pakistan,Islamabad,2000,0,0,1.0
 PAK,Pakistan,Islamabad,2001,4,1,1.0
 PAK,Pakistan,Islamabad,2002,7,2,1.0
@@ -133,7 +133,7 @@ PAK,Pakistan,Islamabad,2022,29,6,1.0
 PAK,Pakistan,Islamabad,2023,27,7,1.0
 PAK,Pakistan,Islamabad,2024,20,4,1.0
 PAK,Pakistan,Islamabad,2025,8,2,1.0
-PAK,Pakistan,Islamabad,2026,19,2,0.795
+PAK,Pakistan,Islamabad,2026,19,2,0.797
 BRA,Brazil,Brasília,2000,3,1,1.0
 BRA,Brazil,Brasília,2001,9,3,1.0
 BRA,Brazil,Brasília,2002,22,5,1.0
@@ -160,7 +160,7 @@ BRA,Brazil,Brasília,2022,0,0,1.0
 BRA,Brazil,Brasília,2023,11,2,1.0
 BRA,Brazil,Brasília,2024,4,1,1.0
 BRA,Brazil,Brasília,2025,5,1,1.0
-BRA,Brazil,Brasília,2026,7,2,0.792
+BRA,Brazil,Brasília,2026,7,2,0.795
 NGA,Nigeria,Abuja,2000,0,0,1.0
 NGA,Nigeria,Abuja,2001,0,0,1.0
 NGA,Nigeria,Abuja,2002,0,0,1.0
@@ -187,7 +187,7 @@ NGA,Nigeria,Abuja,2022,3,1,1.0
 NGA,Nigeria,Abuja,2023,6,2,1.0
 NGA,Nigeria,Abuja,2024,7,2,1.0
 NGA,Nigeria,Abuja,2025,11,4,1.0
-NGA,Nigeria,Abuja,2026,12,3,0.795
+NGA,Nigeria,Abuja,2026,12,3,0.797
 BGD,Bangladesh,Dhaka,2000,0,0,1.0
 BGD,Bangladesh,Dhaka,2001,0,0,1.0
 BGD,Bangladesh,Dhaka,2002,0,0,1.0
@@ -214,7 +214,7 @@ BGD,Bangladesh,Dhaka,2022,7,2,1.0
 BGD,Bangladesh,Dhaka,2023,29,5,1.0
 BGD,Bangladesh,Dhaka,2024,10,3,1.0
 BGD,Bangladesh,Dhaka,2025,8,2,1.0
-BGD,Bangladesh,Dhaka,2026,4,1,0.795
+BGD,Bangladesh,Dhaka,2026,4,1,0.797
 RUS,Russia,Moscow,2000,0,0,1.0
 RUS,Russia,Moscow,2001,0,0,1.0
 RUS,Russia,Moscow,2002,4,1,1.0
@@ -241,7 +241,7 @@ RUS,Russia,Moscow,2022,6,1,1.0
 RUS,Russia,Moscow,2023,6,2,1.0
 RUS,Russia,Moscow,2024,15,3,1.0
 RUS,Russia,Moscow,2025,24,4,1.0
-RUS,Russia,Moscow,2026,20,5,0.795
+RUS,Russia,Moscow,2026,20,5,0.797
 MEX,Mexico,Mexico City,2000,7,2,1.0
 MEX,Mexico,Mexico City,2001,4,1,1.0
 MEX,Mexico,Mexico City,2002,0,0,1.0
@@ -268,7 +268,7 @@ MEX,Mexico,Mexico City,2022,0,0,1.0
 MEX,Mexico,Mexico City,2023,43,7,1.0
 MEX,Mexico,Mexico City,2024,52,10,1.0
 MEX,Mexico,Mexico City,2025,0,0,1.0
-MEX,Mexico,Mexico City,2026,6,2,0.792
+MEX,Mexico,Mexico City,2026,6,2,0.795
 JPN,Japan,Tokyo,2000,0,0,1.0
 JPN,Japan,Tokyo,2001,0,0,1.0
 JPN,Japan,Tokyo,2002,0,0,1.0
@@ -295,7 +295,7 @@ JPN,Japan,Tokyo,2022,8,1,1.0
 JPN,Japan,Tokyo,2023,16,4,1.0
 JPN,Japan,Tokyo,2024,14,4,1.0
 JPN,Japan,Tokyo,2025,22,5,1.0
-JPN,Japan,Tokyo,2026,7,2,0.795
+JPN,Japan,Tokyo,2026,7,2,0.797
 ETH,Ethiopia,Addis Ababa,2000,0,0,1.0
 ETH,Ethiopia,Addis Ababa,2001,0,0,1.0
 ETH,Ethiopia,Addis Ababa,2002,0,0,1.0
@@ -322,7 +322,7 @@ ETH,Ethiopia,Addis Ababa,2022,8,2,1.0
 ETH,Ethiopia,Addis Ababa,2023,0,0,1.0
 ETH,Ethiopia,Addis Ababa,2024,0,0,1.0
 ETH,Ethiopia,Addis Ababa,2025,0,0,1.0
-ETH,Ethiopia,Addis Ababa,2026,10,3,0.795
+ETH,Ethiopia,Addis Ababa,2026,10,3,0.797
 PHL,Philippines,Manila,2000,0,0,1.0
 PHL,Philippines,Manila,2001,0,0,1.0
 PHL,Philippines,Manila,2002,12,3,1.0
@@ -349,7 +349,7 @@ PHL,Philippines,Manila,2022,3,1,1.0
 PHL,Philippines,Manila,2023,17,3,1.0
 PHL,Philippines,Manila,2024,21,6,1.0
 PHL,Philippines,Manila,2025,12,4,1.0
-PHL,Philippines,Manila,2026,9,2,0.795
+PHL,Philippines,Manila,2026,9,2,0.797
 EGY,Egypt,Cairo,2000,0,0,1.0
 EGY,Egypt,Cairo,2001,0,0,1.0
 EGY,Egypt,Cairo,2002,5,1,1.0
@@ -376,7 +376,7 @@ EGY,Egypt,Cairo,2022,6,2,1.0
 EGY,Egypt,Cairo,2023,6,2,1.0
 EGY,Egypt,Cairo,2024,3,1,1.0
 EGY,Egypt,Cairo,2025,3,1,1.0
-EGY,Egypt,Cairo,2026,4,1,0.795
+EGY,Egypt,Cairo,2026,4,1,0.797
 VNM,Vietnam,Hanoi,2000,0,0,1.0
 VNM,Vietnam,Hanoi,2001,5,1,1.0
 VNM,Vietnam,Hanoi,2002,8,2,1.0
@@ -403,7 +403,7 @@ VNM,Vietnam,Hanoi,2022,3,1,1.0
 VNM,Vietnam,Hanoi,2023,13,4,1.0
 VNM,Vietnam,Hanoi,2024,9,2,1.0
 VNM,Vietnam,Hanoi,2025,3,1,1.0
-VNM,Vietnam,Hanoi,2026,25,5,0.795
+VNM,Vietnam,Hanoi,2026,26,5,0.797
 COD,Dem. Rep. Congo,Kinshasa,2000,0,0,1.0
 COD,Dem. Rep. Congo,Kinshasa,2001,0,0,1.0
 COD,Dem. Rep. Congo,Kinshasa,2002,0,0,1.0
@@ -430,7 +430,7 @@ COD,Dem. Rep. Congo,Kinshasa,2022,0,0,1.0
 COD,Dem. Rep. Congo,Kinshasa,2023,3,1,1.0
 COD,Dem. Rep. Congo,Kinshasa,2024,11,3,1.0
 COD,Dem. Rep. Congo,Kinshasa,2025,0,0,1.0
-COD,Dem. Rep. Congo,Kinshasa,2026,19,5,0.795
+COD,Dem. Rep. Congo,Kinshasa,2026,19,5,0.797
 TUR,Turkey,Ankara,2000,3,1,1.0
 TUR,Turkey,Ankara,2001,7,2,1.0
 TUR,Turkey,Ankara,2002,0,0,1.0
@@ -457,7 +457,7 @@ TUR,Turkey,Ankara,2022,3,1,1.0
 TUR,Turkey,Ankara,2023,17,4,1.0
 TUR,Turkey,Ankara,2024,10,3,1.0
 TUR,Turkey,Ankara,2025,15,3,1.0
-TUR,Turkey,Ankara,2026,0,0,0.795
+TUR,Turkey,Ankara,2026,0,0,0.797
 DEU,Germany,Berlin,2000,12,4,1.0
 DEU,Germany,Berlin,2001,0,0,1.0
 DEU,Germany,Berlin,2002,4,1,1.0
@@ -484,7 +484,7 @@ DEU,Germany,Berlin,2022,7,2,1.0
 DEU,Germany,Berlin,2023,10,2,1.0
 DEU,Germany,Berlin,2024,13,3,1.0
 DEU,Germany,Berlin,2025,12,3,1.0
-DEU,Germany,Berlin,2026,14,3,0.795
+DEU,Germany,Berlin,2026,14,3,0.797
 IRN,Iran,Tehran,2000,0,0,1.0
 IRN,Iran,Tehran,2001,10,3,1.0
 IRN,Iran,Tehran,2002,5,1,1.0
@@ -511,7 +511,7 @@ IRN,Iran,Tehran,2022,3,1,1.0
 IRN,Iran,Tehran,2023,0,0,1.0
 IRN,Iran,Tehran,2024,12,3,1.0
 IRN,Iran,Tehran,2025,17,5,1.0
-IRN,Iran,Tehran,2026,28,5,0.795
+IRN,Iran,Tehran,2026,29,5,0.797
 THA,Thailand,Bangkok,2000,15,4,1.0
 THA,Thailand,Bangkok,2001,33,8,1.0
 THA,Thailand,Bangkok,2002,0,0,1.0
@@ -538,7 +538,7 @@ THA,Thailand,Bangkok,2022,0,0,1.0
 THA,Thailand,Bangkok,2023,11,4,1.0
 THA,Thailand,Bangkok,2024,6,1,1.0
 THA,Thailand,Bangkok,2025,0,0,1.0
-THA,Thailand,Bangkok,2026,4,1,0.795
+THA,Thailand,Bangkok,2026,4,1,0.797
 FRA,France,Paris,2000,0,0,1.0
 FRA,France,Paris,2001,0,0,1.0
 FRA,France,Paris,2002,0,0,1.0
@@ -565,7 +565,7 @@ FRA,France,Paris,2022,8,2,1.0
 FRA,France,Paris,2023,15,2,1.0
 FRA,France,Paris,2024,0,0,1.0
 FRA,France,Paris,2025,15,4,1.0
-FRA,France,Paris,2026,43,6,0.795
+FRA,France,Paris,2026,43,6,0.797
 GBR,United Kingdom,London,2000,0,0,1.0
 GBR,United Kingdom,London,2001,0,0,1.0
 GBR,United Kingdom,London,2002,0,0,1.0
@@ -592,7 +592,7 @@ GBR,United Kingdom,London,2022,19,5,1.0
 GBR,United Kingdom,London,2023,11,2,1.0
 GBR,United Kingdom,London,2024,0,0,1.0
 GBR,United Kingdom,London,2025,16,4,1.0
-GBR,United Kingdom,London,2026,17,4,0.795
+GBR,United Kingdom,London,2026,17,4,0.797
 ITA,Italy,Rome,2000,0,0,1.0
 ITA,Italy,Rome,2001,0,0,1.0
 ITA,Italy,Rome,2002,10,3,1.0
@@ -619,7 +619,7 @@ ITA,Italy,Rome,2022,20,6,1.0
 ITA,Italy,Rome,2023,16,3,1.0
 ITA,Italy,Rome,2024,15,4,1.0
 ITA,Italy,Rome,2025,16,3,1.0
-ITA,Italy,Rome,2026,24,6,0.795
+ITA,Italy,Rome,2026,24,6,0.797
 ZAF,South Africa,Johannesburg,2000,0,0,1.0
 ZAF,South Africa,Johannesburg,2001,0,0,1.0
 ZAF,South Africa,Johannesburg,2002,0,0,1.0
@@ -646,7 +646,7 @@ ZAF,South Africa,Johannesburg,2022,0,0,1.0
 ZAF,South Africa,Johannesburg,2023,15,3,1.0
 ZAF,South Africa,Johannesburg,2024,41,9,1.0
 ZAF,South Africa,Johannesburg,2025,3,1,1.0
-ZAF,South Africa,Johannesburg,2026,0,0,0.795
+ZAF,South Africa,Johannesburg,2026,0,0,0.797
 TZA,Tanzania,Dar es Salaam,2000,0,0,1.0
 TZA,Tanzania,Dar es Salaam,2001,0,0,1.0
 TZA,Tanzania,Dar es Salaam,2002,0,0,1.0
@@ -673,7 +673,7 @@ TZA,Tanzania,Dar es Salaam,2022,8,2,1.0
 TZA,Tanzania,Dar es Salaam,2023,19,6,1.0
 TZA,Tanzania,Dar es Salaam,2024,22,6,1.0
 TZA,Tanzania,Dar es Salaam,2025,3,1,1.0
-TZA,Tanzania,Dar es Salaam,2026,0,0,0.795
+TZA,Tanzania,Dar es Salaam,2026,0,0,0.797
 MMR,Myanmar,Yangon,2000,0,0,1.0
 MMR,Myanmar,Yangon,2001,3,1,1.0
 MMR,Myanmar,Yangon,2002,0,0,1.0
@@ -700,7 +700,7 @@ MMR,Myanmar,Yangon,2022,4,1,1.0
 MMR,Myanmar,Yangon,2023,3,1,1.0
 MMR,Myanmar,Yangon,2024,10,3,1.0
 MMR,Myanmar,Yangon,2025,3,1,1.0
-MMR,Myanmar,Yangon,2026,6,2,0.795
+MMR,Myanmar,Yangon,2026,6,2,0.797
 KEN,Kenya,Nairobi,2000,0,0,1.0
 KEN,Kenya,Nairobi,2001,0,0,1.0
 KEN,Kenya,Nairobi,2002,0,0,1.0
@@ -727,7 +727,7 @@ KEN,Kenya,Nairobi,2022,16,5,1.0
 KEN,Kenya,Nairobi,2023,7,2,1.0
 KEN,Kenya,Nairobi,2024,3,1,1.0
 KEN,Kenya,Nairobi,2025,0,0,1.0
-KEN,Kenya,Nairobi,2026,14,4,0.795
+KEN,Kenya,Nairobi,2026,14,4,0.797
 KOR,South Korea,Seoul,2000,0,0,1.0
 KOR,South Korea,Seoul,2001,0,0,1.0
 KOR,South Korea,Seoul,2002,5,1,1.0
@@ -754,7 +754,7 @@ KOR,South Korea,Seoul,2022,0,0,1.0
 KOR,South Korea,Seoul,2023,17,5,1.0
 KOR,South Korea,Seoul,2024,15,4,1.0
 KOR,South Korea,Seoul,2025,8,2,1.0
-KOR,South Korea,Seoul,2026,9,2,0.795
+KOR,South Korea,Seoul,2026,9,2,0.797
 COL,Colombia,Bogota,2000,3,1,1.0
 COL,Colombia,Bogota,2001,1,1,1.0
 COL,Colombia,Bogota,2002,6,1,1.0
@@ -781,7 +781,7 @@ COL,Colombia,Bogota,2022,0,0,1.0
 COL,Colombia,Bogota,2023,0,0,1.0
 COL,Colombia,Bogota,2024,0,0,1.0
 COL,Colombia,Bogota,2025,0,0,1.0
-COL,Colombia,Bogota,2026,0,0,0.792
+COL,Colombia,Bogota,2026,0,0,0.795
 ESP,Spain,Madrid,2000,3,1,1.0
 ESP,Spain,Madrid,2001,7,1,1.0
 ESP,Spain,Madrid,2002,4,1,1.0
@@ -808,7 +808,7 @@ ESP,Spain,Madrid,2022,13,3,1.0
 ESP,Spain,Madrid,2023,17,4,1.0
 ESP,Spain,Madrid,2024,8,2,1.0
 ESP,Spain,Madrid,2025,4,1,1.0
-ESP,Spain,Madrid,2026,25,6,0.795
+ESP,Spain,Madrid,2026,25,6,0.797
 ARG,Argentina,Buenos Aires,2000,0,0,1.0
 ARG,Argentina,Buenos Aires,2001,3,1,1.0
 ARG,Argentina,Buenos Aires,2002,7,2,1.0
@@ -835,7 +835,7 @@ ARG,Argentina,Buenos Aires,2022,8,2,1.0
 ARG,Argentina,Buenos Aires,2023,23,6,1.0
 ARG,Argentina,Buenos Aires,2024,7,2,1.0
 ARG,Argentina,Buenos Aires,2025,3,1,1.0
-ARG,Argentina,Buenos Aires,2026,0,0,0.792
+ARG,Argentina,Buenos Aires,2026,0,0,0.795
 UKR,Ukraine,Kyiv,2000,0,0,1.0
 UKR,Ukraine,Kyiv,2001,3,1,1.0
 UKR,Ukraine,Kyiv,2002,13,3,1.0
@@ -862,7 +862,7 @@ UKR,Ukraine,Kyiv,2022,0,0,1.0
 UKR,Ukraine,Kyiv,2023,9,3,1.0
 UKR,Ukraine,Kyiv,2024,18,4,1.0
 UKR,Ukraine,Kyiv,2025,25,5,1.0
-UKR,Ukraine,Kyiv,2026,10,3,0.795
+UKR,Ukraine,Kyiv,2026,10,3,0.797
 UGA,Uganda,Kampala,2000,0,0,1.0
 UGA,Uganda,Kampala,2001,0,0,1.0
 UGA,Uganda,Kampala,2002,0,0,1.0
@@ -889,7 +889,7 @@ UGA,Uganda,Kampala,2022,3,1,1.0
 UGA,Uganda,Kampala,2023,15,4,1.0
 UGA,Uganda,Kampala,2024,36,9,1.0
 UGA,Uganda,Kampala,2025,13,3,1.0
-UGA,Uganda,Kampala,2026,36,8,0.795
+UGA,Uganda,Kampala,2026,36,8,0.797
 DZA,Algeria,Algiers,2000,0,0,1.0
 DZA,Algeria,Algiers,2001,4,1,1.0
 DZA,Algeria,Algiers,2002,0,0,1.0
@@ -916,7 +916,7 @@ DZA,Algeria,Algiers,2022,20,5,1.0
 DZA,Algeria,Algiers,2023,8,2,1.0
 DZA,Algeria,Algiers,2024,19,5,1.0
 DZA,Algeria,Algiers,2025,3,1,1.0
-DZA,Algeria,Algiers,2026,4,1,0.795
+DZA,Algeria,Algiers,2026,4,1,0.797
 SDN,Sudan,Khartoum,2000,0,0,1.0
 SDN,Sudan,Khartoum,2001,0,0,1.0
 SDN,Sudan,Khartoum,2002,7,2,1.0
@@ -943,7 +943,7 @@ SDN,Sudan,Khartoum,2022,3,1,1.0
 SDN,Sudan,Khartoum,2023,17,5,1.0
 SDN,Sudan,Khartoum,2024,4,1,1.0
 SDN,Sudan,Khartoum,2025,3,1,1.0
-SDN,Sudan,Khartoum,2026,46,6,0.795
+SDN,Sudan,Khartoum,2026,46,6,0.797
 IRQ,Iraq,Baghdad,2000,7,2,1.0
 IRQ,Iraq,Baghdad,2001,9,3,1.0
 IRQ,Iraq,Baghdad,2002,3,1,1.0
@@ -970,7 +970,7 @@ IRQ,Iraq,Baghdad,2022,10,3,1.0
 IRQ,Iraq,Baghdad,2023,3,1,1.0
 IRQ,Iraq,Baghdad,2024,10,2,1.0
 IRQ,Iraq,Baghdad,2025,3,1,1.0
-IRQ,Iraq,Baghdad,2026,3,1,0.795
+IRQ,Iraq,Baghdad,2026,3,1,0.797
 AFG,Afghanistan,Kabul,2000,21,5,1.0
 AFG,Afghanistan,Kabul,2001,7,2,1.0
 AFG,Afghanistan,Kabul,2002,6,1,1.0
@@ -997,7 +997,7 @@ AFG,Afghanistan,Kabul,2022,6,2,1.0
 AFG,Afghanistan,Kabul,2023,0,0,1.0
 AFG,Afghanistan,Kabul,2024,9,2,1.0
 AFG,Afghanistan,Kabul,2025,16,5,1.0
-AFG,Afghanistan,Kabul,2026,5,1,0.795
+AFG,Afghanistan,Kabul,2026,5,1,0.797
 POL,Poland,Warsaw,2000,12,3,1.0
 POL,Poland,Warsaw,2001,0,0,1.0
 POL,Poland,Warsaw,2002,11,3,1.0
@@ -1024,7 +1024,7 @@ POL,Poland,Warsaw,2022,4,1,1.0
 POL,Poland,Warsaw,2023,12,3,1.0
 POL,Poland,Warsaw,2024,15,4,1.0
 POL,Poland,Warsaw,2025,16,4,1.0
-POL,Poland,Warsaw,2026,11,2,0.795
+POL,Poland,Warsaw,2026,11,2,0.797
 CAN,Canada,Ottawa,2000,7,2,1.0
 CAN,Canada,Ottawa,2001,11,3,1.0
 CAN,Canada,Ottawa,2002,11,3,1.0
@@ -1051,7 +1051,7 @@ CAN,Canada,Ottawa,2022,13,3,1.0
 CAN,Canada,Ottawa,2023,12,4,1.0
 CAN,Canada,Ottawa,2024,12,4,1.0
 CAN,Canada,Ottawa,2025,7,2,1.0
-CAN,Canada,Ottawa,2026,0,0,0.792
+CAN,Canada,Ottawa,2026,0,0,0.795
 MAR,Morocco,Rabat,2000,12,3,1.0
 MAR,Morocco,Rabat,2001,8,2,1.0
 MAR,Morocco,Rabat,2002,4,1,1.0
@@ -1078,7 +1078,7 @@ MAR,Morocco,Rabat,2022,19,5,1.0
 MAR,Morocco,Rabat,2023,18,4,1.0
 MAR,Morocco,Rabat,2024,17,4,1.0
 MAR,Morocco,Rabat,2025,10,3,1.0
-MAR,Morocco,Rabat,2026,24,5,0.795
+MAR,Morocco,Rabat,2026,24,5,0.797
 SAU,Saudi Arabia,Riyadh,2000,0,0,1.0
 SAU,Saudi Arabia,Riyadh,2001,3,1,1.0
 SAU,Saudi Arabia,Riyadh,2002,0,0,1.0
@@ -1105,7 +1105,7 @@ SAU,Saudi Arabia,Riyadh,2022,8,2,1.0
 SAU,Saudi Arabia,Riyadh,2023,7,2,1.0
 SAU,Saudi Arabia,Riyadh,2024,7,2,1.0
 SAU,Saudi Arabia,Riyadh,2025,6,2,1.0
-SAU,Saudi Arabia,Riyadh,2026,21,6,0.795
+SAU,Saudi Arabia,Riyadh,2026,21,6,0.797
 UZB,Uzbekistan,Tashkent,2000,3,1,1.0
 UZB,Uzbekistan,Tashkent,2001,6,2,1.0
 UZB,Uzbekistan,Tashkent,2002,3,1,1.0
@@ -1132,7 +1132,7 @@ UZB,Uzbekistan,Tashkent,2022,6,2,1.0
 UZB,Uzbekistan,Tashkent,2023,0,0,1.0
 UZB,Uzbekistan,Tashkent,2024,0,0,1.0
 UZB,Uzbekistan,Tashkent,2025,7,2,1.0
-UZB,Uzbekistan,Tashkent,2026,9,3,0.795
+UZB,Uzbekistan,Tashkent,2026,9,3,0.797
 PER,Peru,Lima,2000,3,1,1.0
 PER,Peru,Lima,2001,0,0,1.0
 PER,Peru,Lima,2002,9,2,1.0
@@ -1159,7 +1159,7 @@ PER,Peru,Lima,2022,0,0,1.0
 PER,Peru,Lima,2023,129,19,1.0
 PER,Peru,Lima,2024,31,2,1.0
 PER,Peru,Lima,2025,0,0,1.0
-PER,Peru,Lima,2026,136,7,0.792
+PER,Peru,Lima,2026,137,7,0.795
 MYS,Malaysia,Kuala Lumpur,2000,0,0,1.0
 MYS,Malaysia,Kuala Lumpur,2001,0,0,1.0
 MYS,Malaysia,Kuala Lumpur,2002,17,3,1.0
@@ -1186,7 +1186,7 @@ MYS,Malaysia,Kuala Lumpur,2022,0,0,1.0
 MYS,Malaysia,Kuala Lumpur,2023,0,0,1.0
 MYS,Malaysia,Kuala Lumpur,2024,6,2,1.0
 MYS,Malaysia,Kuala Lumpur,2025,0,0,1.0
-MYS,Malaysia,Kuala Lumpur,2026,18,4,0.795
+MYS,Malaysia,Kuala Lumpur,2026,18,4,0.797
 AGO,Angola,Luanda,2000,8,2,1.0
 AGO,Angola,Luanda,2001,7,2,1.0
 AGO,Angola,Luanda,2002,3,1,1.0
@@ -1213,7 +1213,7 @@ AGO,Angola,Luanda,2022,7,2,1.0
 AGO,Angola,Luanda,2023,0,0,1.0
 AGO,Angola,Luanda,2024,22,4,1.0
 AGO,Angola,Luanda,2025,3,1,1.0
-AGO,Angola,Luanda,2026,3,1,0.795
+AGO,Angola,Luanda,2026,3,1,0.797
 GHA,Ghana,Accra,2000,0,0,1.0
 GHA,Ghana,Accra,2001,0,0,1.0
 GHA,Ghana,Accra,2002,0,0,1.0
@@ -1240,7 +1240,7 @@ GHA,Ghana,Accra,2022,0,0,1.0
 GHA,Ghana,Accra,2023,12,2,1.0
 GHA,Ghana,Accra,2024,7,2,1.0
 GHA,Ghana,Accra,2025,0,0,1.0
-GHA,Ghana,Accra,2026,0,0,0.792
+GHA,Ghana,Accra,2026,0,0,0.795
 MOZ,Mozambique,Maputo,2000,0,0,1.0
 MOZ,Mozambique,Maputo,2001,0,0,1.0
 MOZ,Mozambique,Maputo,2002,0,0,1.0
@@ -1267,7 +1267,7 @@ MOZ,Mozambique,Maputo,2022,0,0,1.0
 MOZ,Mozambique,Maputo,2023,4,1,1.0
 MOZ,Mozambique,Maputo,2024,0,0,1.0
 MOZ,Mozambique,Maputo,2025,0,0,1.0
-MOZ,Mozambique,Maputo,2026,3,1,0.795
+MOZ,Mozambique,Maputo,2026,3,1,0.797
 YEM,Yemen,Sanaa,2000,0,0,1.0
 YEM,Yemen,Sanaa,2001,8,2,1.0
 YEM,Yemen,Sanaa,2002,3,1,1.0
@@ -1294,7 +1294,7 @@ YEM,Yemen,Sanaa,2022,13,3,1.0
 YEM,Yemen,Sanaa,2023,17,5,1.0
 YEM,Yemen,Sanaa,2024,0,0,1.0
 YEM,Yemen,Sanaa,2025,7,2,1.0
-YEM,Yemen,Sanaa,2026,10,2,0.795
+YEM,Yemen,Sanaa,2026,10,2,0.797
 NPL,Nepal,Kathmandu,2000,4,1,1.0
 NPL,Nepal,Kathmandu,2001,0,0,1.0
 NPL,Nepal,Kathmandu,2002,0,0,1.0
@@ -1321,7 +1321,7 @@ NPL,Nepal,Kathmandu,2022,16,5,1.0
 NPL,Nepal,Kathmandu,2023,12,3,1.0
 NPL,Nepal,Kathmandu,2024,22,5,1.0
 NPL,Nepal,Kathmandu,2025,13,4,1.0
-NPL,Nepal,Kathmandu,2026,4,1,0.795
+NPL,Nepal,Kathmandu,2026,4,1,0.797
 VEN,Venezuela,Caracas,2000,0,0,1.0
 VEN,Venezuela,Caracas,2001,0,0,1.0
 VEN,Venezuela,Caracas,2002,0,0,1.0
@@ -1348,7 +1348,7 @@ VEN,Venezuela,Caracas,2022,0,0,1.0
 VEN,Venezuela,Caracas,2023,11,3,1.0
 VEN,Venezuela,Caracas,2024,18,5,1.0
 VEN,Venezuela,Caracas,2025,6,2,1.0
-VEN,Venezuela,Caracas,2026,42,9,0.792
+VEN,Venezuela,Caracas,2026,42,9,0.795
 MDG,Madagascar,Antananarivo,2000,4,1,1.0
 MDG,Madagascar,Antananarivo,2001,3,1,1.0
 MDG,Madagascar,Antananarivo,2002,3,1,1.0
@@ -1375,7 +1375,7 @@ MDG,Madagascar,Antananarivo,2022,0,0,1.0
 MDG,Madagascar,Antananarivo,2023,10,2,1.0
 MDG,Madagascar,Antananarivo,2024,27,8,1.0
 MDG,Madagascar,Antananarivo,2025,10,3,1.0
-MDG,Madagascar,Antananarivo,2026,3,1,0.795
+MDG,Madagascar,Antananarivo,2026,3,1,0.797
 CMR,Cameroon,Yaoundé,2000,3,1,1.0
 CMR,Cameroon,Yaoundé,2001,0,0,1.0
 CMR,Cameroon,Yaoundé,2002,0,0,1.0
@@ -1402,7 +1402,7 @@ CMR,Cameroon,Yaoundé,2022,0,0,1.0
 CMR,Cameroon,Yaoundé,2023,0,0,1.0
 CMR,Cameroon,Yaoundé,2024,15,5,1.0
 CMR,Cameroon,Yaoundé,2025,2,0,1.0
-CMR,Cameroon,Yaoundé,2026,3,1,0.795
+CMR,Cameroon,Yaoundé,2026,3,1,0.797
 CIV,Côte d'Ivoire,Abidjan,2000,0,0,1.0
 CIV,Côte d'Ivoire,Abidjan,2001,0,0,1.0
 CIV,Côte d'Ivoire,Abidjan,2002,0,0,1.0
@@ -1429,7 +1429,7 @@ CIV,Côte d'Ivoire,Abidjan,2022,0,0,1.0
 CIV,Côte d'Ivoire,Abidjan,2023,14,3,1.0
 CIV,Côte d'Ivoire,Abidjan,2024,17,5,1.0
 CIV,Côte d'Ivoire,Abidjan,2025,0,0,1.0
-CIV,Côte d'Ivoire,Abidjan,2026,0,0,0.792
+CIV,Côte d'Ivoire,Abidjan,2026,0,0,0.795
 PRK,North Korea,Pyongyang,2000,9,2,1.0
 PRK,North Korea,Pyongyang,2001,3,1,1.0
 PRK,North Korea,Pyongyang,2002,4,1,1.0
@@ -1456,7 +1456,7 @@ PRK,North Korea,Pyongyang,2022,6,2,1.0
 PRK,North Korea,Pyongyang,2023,13,4,1.0
 PRK,North Korea,Pyongyang,2024,14,3,1.0
 PRK,North Korea,Pyongyang,2025,8,2,1.0
-PRK,North Korea,Pyongyang,2026,12,3,0.795
+PRK,North Korea,Pyongyang,2026,12,3,0.797
 AUS,Australia,Canberra,2000,0,0,1.0
 AUS,Australia,Canberra,2001,9,3,1.0
 AUS,Australia,Canberra,2002,9,3,1.0
@@ -1483,7 +1483,7 @@ AUS,Australia,Canberra,2022,0,0,1.0
 AUS,Australia,Canberra,2023,12,3,1.0
 AUS,Australia,Canberra,2024,9,3,1.0
 AUS,Australia,Canberra,2025,6,2,1.0
-AUS,Australia,Canberra,2026,13,4,0.795
+AUS,Australia,Canberra,2026,13,4,0.797
 TWN,Taiwan,Taipei,2000,0,0,1.0
 TWN,Taiwan,Taipei,2001,0,0,1.0
 TWN,Taiwan,Taipei,2002,4,1,1.0
@@ -1510,7 +1510,7 @@ TWN,Taiwan,Taipei,2022,7,2,1.0
 TWN,Taiwan,Taipei,2023,7,2,1.0
 TWN,Taiwan,Taipei,2024,12,4,1.0
 TWN,Taiwan,Taipei,2025,21,3,1.0
-TWN,Taiwan,Taipei,2026,7,2,0.795
+TWN,Taiwan,Taipei,2026,7,2,0.797
 NER,Niger,Niamey,2000,7,2,1.0
 NER,Niger,Niamey,2001,3,1,1.0
 NER,Niger,Niamey,2002,3,1,1.0
@@ -1537,7 +1537,7 @@ NER,Niger,Niamey,2022,0,0,1.0
 NER,Niger,Niamey,2023,5,1,1.0
 NER,Niger,Niamey,2024,15,3,1.0
 NER,Niger,Niamey,2025,24,5,1.0
-NER,Niger,Niamey,2026,22,3,0.795
+NER,Niger,Niamey,2026,22,3,0.797
 LKA,Sri Lanka,Colombo,2000,0,0,1.0
 LKA,Sri Lanka,Colombo,2001,0,0,1.0
 LKA,Sri Lanka,Colombo,2002,0,0,1.0
@@ -1564,7 +1564,7 @@ LKA,Sri Lanka,Colombo,2022,8,2,1.0
 LKA,Sri Lanka,Colombo,2023,26,7,1.0
 LKA,Sri Lanka,Colombo,2024,33,9,1.0
 LKA,Sri Lanka,Colombo,2025,9,2,1.0
-LKA,Sri Lanka,Colombo,2026,14,4,0.795
+LKA,Sri Lanka,Colombo,2026,14,4,0.797
 BFA,Burkina Faso,Ouagadougou,2000,3,1,1.0
 BFA,Burkina Faso,Ouagadougou,2001,0,0,1.0
 BFA,Burkina Faso,Ouagadougou,2002,3,1,1.0
@@ -1591,7 +1591,7 @@ BFA,Burkina Faso,Ouagadougou,2022,0,0,1.0
 BFA,Burkina Faso,Ouagadougou,2023,6,2,1.0
 BFA,Burkina Faso,Ouagadougou,2024,10,3,1.0
 BFA,Burkina Faso,Ouagadougou,2025,6,2,1.0
-BFA,Burkina Faso,Ouagadougou,2026,17,3,0.792
+BFA,Burkina Faso,Ouagadougou,2026,17,3,0.795
 MLI,Mali,Bamako,2000,0,0,1.0
 MLI,Mali,Bamako,2001,0,0,1.0
 MLI,Mali,Bamako,2002,0,0,1.0
@@ -1618,7 +1618,7 @@ MLI,Mali,Bamako,2022,0,0,1.0
 MLI,Mali,Bamako,2023,3,1,1.0
 MLI,Mali,Bamako,2024,32,7,1.0
 MLI,Mali,Bamako,2025,11,3,1.0
-MLI,Mali,Bamako,2026,11,3,0.792
+MLI,Mali,Bamako,2026,11,3,0.795
 ROU,Romania,Bucharest,2000,7,2,1.0
 ROU,Romania,Bucharest,2001,0,0,1.0
 ROU,Romania,Bucharest,2002,7,2,1.0
@@ -1645,7 +1645,7 @@ ROU,Romania,Bucharest,2022,4,2,1.0
 ROU,Romania,Bucharest,2023,20,5,1.0
 ROU,Romania,Bucharest,2024,43,8,1.0
 ROU,Romania,Bucharest,2025,18,4,1.0
-ROU,Romania,Bucharest,2026,0,0,0.795
+ROU,Romania,Bucharest,2026,0,0,0.797
 CHL,Chile,Santiago,2000,0,0,1.0
 CHL,Chile,Santiago,2001,3,1,1.0
 CHL,Chile,Santiago,2002,0,0,1.0
@@ -1672,7 +1672,7 @@ CHL,Chile,Santiago,2022,0,0,1.0
 CHL,Chile,Santiago,2023,17,3,1.0
 CHL,Chile,Santiago,2024,11,3,1.0
 CHL,Chile,Santiago,2025,9,3,1.0
-CHL,Chile,Santiago,2026,15,4,0.792
+CHL,Chile,Santiago,2026,15,4,0.795
 MWI,Malawi,Lilongwe,2000,0,0,1.0
 MWI,Malawi,Lilongwe,2001,0,0,1.0
 MWI,Malawi,Lilongwe,2002,0,0,1.0
@@ -1699,7 +1699,7 @@ MWI,Malawi,Lilongwe,2022,0,0,1.0
 MWI,Malawi,Lilongwe,2023,11,3,1.0
 MWI,Malawi,Lilongwe,2024,27,6,1.0
 MWI,Malawi,Lilongwe,2025,6,2,1.0
-MWI,Malawi,Lilongwe,2026,3,1,0.795
+MWI,Malawi,Lilongwe,2026,3,1,0.797
 KAZ,Kazakhstan,Astana,2000,0,0,1.0
 KAZ,Kazakhstan,Astana,2001,7,2,1.0
 KAZ,Kazakhstan,Astana,2002,7,2,1.0
@@ -1726,7 +1726,7 @@ KAZ,Kazakhstan,Astana,2022,8,2,1.0
 KAZ,Kazakhstan,Astana,2023,16,4,1.0
 KAZ,Kazakhstan,Astana,2024,0,0,1.0
 KAZ,Kazakhstan,Astana,2025,4,1,1.0
-KAZ,Kazakhstan,Astana,2026,6,2,0.795
+KAZ,Kazakhstan,Astana,2026,6,2,0.797
 ZMB,Zambia,Lusaka,2000,0,0,1.0
 ZMB,Zambia,Lusaka,2001,4,1,1.0
 ZMB,Zambia,Lusaka,2002,0,0,1.0
@@ -1753,7 +1753,7 @@ ZMB,Zambia,Lusaka,2022,0,0,1.0
 ZMB,Zambia,Lusaka,2023,28,8,1.0
 ZMB,Zambia,Lusaka,2024,77,16,1.0
 ZMB,Zambia,Lusaka,2025,9,3,1.0
-ZMB,Zambia,Lusaka,2026,9,2,0.795
+ZMB,Zambia,Lusaka,2026,9,2,0.797
 ECU,Ecuador,Quito,2000,0,0,1.0
 ECU,Ecuador,Quito,2001,0,0,1.0
 ECU,Ecuador,Quito,2002,0,0,1.0
@@ -1780,7 +1780,7 @@ ECU,Ecuador,Quito,2022,0,0,1.0
 ECU,Ecuador,Quito,2023,4,1,1.0
 ECU,Ecuador,Quito,2024,9,3,1.0
 ECU,Ecuador,Quito,2025,0,0,1.0
-ECU,Ecuador,Quito,2026,8,2,0.792
+ECU,Ecuador,Quito,2026,8,2,0.795
 NLD,Netherlands,Amsterdam,2000,3,1,1.0
 NLD,Netherlands,Amsterdam,2001,3,1,1.0
 NLD,Netherlands,Amsterdam,2002,9,2,1.0
@@ -1807,7 +1807,7 @@ NLD,Netherlands,Amsterdam,2022,13,3,1.0
 NLD,Netherlands,Amsterdam,2023,11,2,1.0
 NLD,Netherlands,Amsterdam,2024,3,1,1.0
 NLD,Netherlands,Amsterdam,2025,16,4,1.0
-NLD,Netherlands,Amsterdam,2026,12,3,0.795
+NLD,Netherlands,Amsterdam,2026,12,3,0.797
 SYR,Syria,Damascus,2000,10,3,1.0
 SYR,Syria,Damascus,2001,3,1,1.0
 SYR,Syria,Damascus,2002,6,2,1.0
@@ -1834,7 +1834,7 @@ SYR,Syria,Damascus,2022,0,0,1.0
 SYR,Syria,Damascus,2023,20,3,1.0
 SYR,Syria,Damascus,2024,16,4,1.0
 SYR,Syria,Damascus,2025,15,4,1.0
-SYR,Syria,Damascus,2026,0,0,0.795
+SYR,Syria,Damascus,2026,0,0,0.797
 GTM,Guatemala,Guatemala City,2000,0,0,1.0
 GTM,Guatemala,Guatemala City,2001,0,0,1.0
 GTM,Guatemala,Guatemala City,2002,3,1,1.0
@@ -1861,7 +1861,7 @@ GTM,Guatemala,Guatemala City,2022,0,0,1.0
 GTM,Guatemala,Guatemala City,2023,10,3,1.0
 GTM,Guatemala,Guatemala City,2024,19,5,1.0
 GTM,Guatemala,Guatemala City,2025,0,0,1.0
-GTM,Guatemala,Guatemala City,2026,57,8,0.792
+GTM,Guatemala,Guatemala City,2026,57,8,0.795
 KHM,Cambodia,Phnom Penh,2000,0,0,1.0
 KHM,Cambodia,Phnom Penh,2001,0,0,1.0
 KHM,Cambodia,Phnom Penh,2002,11,2,1.0
@@ -1888,7 +1888,7 @@ KHM,Cambodia,Phnom Penh,2022,0,0,1.0
 KHM,Cambodia,Phnom Penh,2023,0,0,1.0
 KHM,Cambodia,Phnom Penh,2024,4,1,1.0
 KHM,Cambodia,Phnom Penh,2025,0,0,1.0
-KHM,Cambodia,Phnom Penh,2026,8,2,0.795
+KHM,Cambodia,Phnom Penh,2026,8,2,0.797
 SEN,Senegal,Dakar,2000,0,0,1.0
 SEN,Senegal,Dakar,2001,0,0,1.0
 SEN,Senegal,Dakar,2002,3,1,1.0
@@ -1915,7 +1915,7 @@ SEN,Senegal,Dakar,2022,7,2,1.0
 SEN,Senegal,Dakar,2023,11,3,1.0
 SEN,Senegal,Dakar,2024,23,6,1.0
 SEN,Senegal,Dakar,2025,0,0,1.0
-SEN,Senegal,Dakar,2026,23,6,0.792
+SEN,Senegal,Dakar,2026,23,6,0.795
 TCD,Chad,N'Djamena,2000,4,1,1.0
 TCD,Chad,N'Djamena,2001,0,0,1.0
 TCD,Chad,N'Djamena,2002,0,0,1.0
@@ -1942,7 +1942,7 @@ TCD,Chad,N'Djamena,2022,7,2,1.0
 TCD,Chad,N'Djamena,2023,0,0,1.0
 TCD,Chad,N'Djamena,2024,28,6,1.0
 TCD,Chad,N'Djamena,2025,8,1,1.0
-TCD,Chad,N'Djamena,2026,12,3,0.795
+TCD,Chad,N'Djamena,2026,12,3,0.797
 ZWE,Zimbabwe,Harare,2000,0,0,1.0
 ZWE,Zimbabwe,Harare,2001,3,1,1.0
 ZWE,Zimbabwe,Harare,2002,9,3,1.0
@@ -1969,7 +1969,7 @@ ZWE,Zimbabwe,Harare,2022,0,0,1.0
 ZWE,Zimbabwe,Harare,2023,16,4,1.0
 ZWE,Zimbabwe,Harare,2024,46,13,1.0
 ZWE,Zimbabwe,Harare,2025,9,3,1.0
-ZWE,Zimbabwe,Harare,2026,0,0,0.795
+ZWE,Zimbabwe,Harare,2026,0,0,0.797
 GIN,Guinea,Conakry,2000,3,1,1.0
 GIN,Guinea,Conakry,2001,0,0,1.0
 GIN,Guinea,Conakry,2002,0,0,1.0
@@ -1996,7 +1996,7 @@ GIN,Guinea,Conakry,2022,0,0,1.0
 GIN,Guinea,Conakry,2023,17,5,1.0
 GIN,Guinea,Conakry,2024,40,11,1.0
 GIN,Guinea,Conakry,2025,4,1,1.0
-GIN,Guinea,Conakry,2026,13,4,0.792
+GIN,Guinea,Conakry,2026,13,4,0.795
 RWA,Rwanda,Kigali,2000,3,1,1.0
 RWA,Rwanda,Kigali,2001,0,0,1.0
 RWA,Rwanda,Kigali,2002,6,2,1.0
@@ -2023,7 +2023,7 @@ RWA,Rwanda,Kigali,2022,0,0,1.0
 RWA,Rwanda,Kigali,2023,10,3,1.0
 RWA,Rwanda,Kigali,2024,41,11,1.0
 RWA,Rwanda,Kigali,2025,6,1,1.0
-RWA,Rwanda,Kigali,2026,4,1,0.795
+RWA,Rwanda,Kigali,2026,4,1,0.797
 BEN,Benin,Cotonou,2000,0,0,1.0
 BEN,Benin,Cotonou,2001,0,0,1.0
 BEN,Benin,Cotonou,2002,0,0,1.0
@@ -2050,7 +2050,7 @@ BEN,Benin,Cotonou,2022,0,0,1.0
 BEN,Benin,Cotonou,2023,15,4,1.0
 BEN,Benin,Cotonou,2024,25,5,1.0
 BEN,Benin,Cotonou,2025,3,1,1.0
-BEN,Benin,Cotonou,2026,3,1,0.795
+BEN,Benin,Cotonou,2026,3,1,0.797
 TUN,Tunisia,Tunis,2000,0,0,1.0
 TUN,Tunisia,Tunis,2001,9,2,1.0
 TUN,Tunisia,Tunis,2002,4,1,1.0
@@ -2077,7 +2077,7 @@ TUN,Tunisia,Tunis,2022,19,5,1.0
 TUN,Tunisia,Tunis,2023,16,5,1.0
 TUN,Tunisia,Tunis,2024,6,2,1.0
 TUN,Tunisia,Tunis,2025,3,1,1.0
-TUN,Tunisia,Tunis,2026,15,3,0.795
+TUN,Tunisia,Tunis,2026,15,3,0.797
 BDI,Burundi,Bujumbura,2000,19,4,1.0
 BDI,Burundi,Bujumbura,2001,0,0,1.0
 BDI,Burundi,Bujumbura,2002,3,1,1.0
@@ -2104,7 +2104,7 @@ BDI,Burundi,Bujumbura,2022,0,0,1.0
 BDI,Burundi,Bujumbura,2023,4,1,1.0
 BDI,Burundi,Bujumbura,2024,0,0,1.0
 BDI,Burundi,Bujumbura,2025,0,0,1.0
-BDI,Burundi,Bujumbura,2026,0,0,0.795
+BDI,Burundi,Bujumbura,2026,0,0,0.797
 BOL,Bolivia,La Paz,2000,0,0,1.0
 BOL,Bolivia,La Paz,2001,4,1,1.0
 BOL,Bolivia,La Paz,2002,0,0,1.0
@@ -2131,7 +2131,7 @@ BOL,Bolivia,La Paz,2022,3,1,1.0
 BOL,Bolivia,La Paz,2023,31,8,1.0
 BOL,Bolivia,La Paz,2024,20,5,1.0
 BOL,Bolivia,La Paz,2025,3,1,1.0
-BOL,Bolivia,La Paz,2026,14,3,0.792
+BOL,Bolivia,La Paz,2026,14,3,0.795
 BEL,Belgium,Brussels,2000,3,1,1.0
 BEL,Belgium,Brussels,2001,3,1,1.0
 BEL,Belgium,Brussels,2002,3,1,1.0
@@ -2158,7 +2158,7 @@ BEL,Belgium,Brussels,2022,8,2,1.0
 BEL,Belgium,Brussels,2023,12,2,1.0
 BEL,Belgium,Brussels,2024,0,0,1.0
 BEL,Belgium,Brussels,2025,15,4,1.0
-BEL,Belgium,Brussels,2026,27,6,0.795
+BEL,Belgium,Brussels,2026,27,6,0.797
 CUB,Cuba,Havana,2000,0,0,1.0
 CUB,Cuba,Havana,2001,0,0,1.0
 CUB,Cuba,Havana,2002,3,1,1.0
@@ -2185,7 +2185,7 @@ CUB,Cuba,Havana,2022,5,1,1.0
 CUB,Cuba,Havana,2023,33,6,1.0
 CUB,Cuba,Havana,2024,13,3,1.0
 CUB,Cuba,Havana,2025,3,1,1.0
-CUB,Cuba,Havana,2026,6,2,0.792
+CUB,Cuba,Havana,2026,6,2,0.795
 HTI,Haiti,Port-au-Prince,2000,0,0,1.0
 HTI,Haiti,Port-au-Prince,2001,0,0,1.0
 HTI,Haiti,Port-au-Prince,2002,0,0,1.0
@@ -2212,7 +2212,7 @@ HTI,Haiti,Port-au-Prince,2022,0,0,1.0
 HTI,Haiti,Port-au-Prince,2023,34,10,1.0
 HTI,Haiti,Port-au-Prince,2024,23,6,1.0
 HTI,Haiti,Port-au-Prince,2025,6,2,1.0
-HTI,Haiti,Port-au-Prince,2026,34,7,0.792
+HTI,Haiti,Port-au-Prince,2026,34,7,0.795
 SDS,S. Sudan,Juba,2000,0,0,1.0
 SDS,S. Sudan,Juba,2001,0,0,1.0
 SDS,S. Sudan,Juba,2002,0,0,1.0
@@ -2239,7 +2239,7 @@ SDS,S. Sudan,Juba,2022,3,1,1.0
 SDS,S. Sudan,Juba,2023,35,6,1.0
 SDS,S. Sudan,Juba,2024,16,3,1.0
 SDS,S. Sudan,Juba,2025,10,3,1.0
-SDS,S. Sudan,Juba,2026,72,7,0.795
+SDS,S. Sudan,Juba,2026,72,7,0.797
 DOM,Dominican Rep.,Santo Domingo,2000,0,0,1.0
 DOM,Dominican Rep.,Santo Domingo,2001,0,0,1.0
 DOM,Dominican Rep.,Santo Domingo,2002,0,0,1.0
@@ -2266,7 +2266,7 @@ DOM,Dominican Rep.,Santo Domingo,2022,3,1,1.0
 DOM,Dominican Rep.,Santo Domingo,2023,15,3,1.0
 DOM,Dominican Rep.,Santo Domingo,2024,9,3,1.0
 DOM,Dominican Rep.,Santo Domingo,2025,3,1,1.0
-DOM,Dominican Rep.,Santo Domingo,2026,3,1,0.792
+DOM,Dominican Rep.,Santo Domingo,2026,3,1,0.795
 GRC,Greece,Athens,2000,13,4,1.0
 GRC,Greece,Athens,2001,12,2,1.0
 GRC,Greece,Athens,2002,3,1,1.0
@@ -2293,7 +2293,7 @@ GRC,Greece,Athens,2022,7,2,1.0
 GRC,Greece,Athens,2023,10,3,1.0
 GRC,Greece,Athens,2024,3,1,1.0
 GRC,Greece,Athens,2025,3,1,1.0
-GRC,Greece,Athens,2026,0,0,0.795
+GRC,Greece,Athens,2026,0,0,0.797
 CZE,Czechia,Prague,2000,3,1,1.0
 CZE,Czechia,Prague,2001,0,0,1.0
 CZE,Czechia,Prague,2002,4,1,1.0
@@ -2320,7 +2320,7 @@ CZE,Czechia,Prague,2022,6,2,1.0
 CZE,Czechia,Prague,2023,6,1,1.0
 CZE,Czechia,Prague,2024,10,3,1.0
 CZE,Czechia,Prague,2025,7,2,1.0
-CZE,Czechia,Prague,2026,18,5,0.795
+CZE,Czechia,Prague,2026,18,5,0.797
 SWE,Sweden,Stockholm,2000,0,0,1.0
 SWE,Sweden,Stockholm,2001,4,1,1.0
 SWE,Sweden,Stockholm,2002,5,1,1.0
@@ -2347,7 +2347,7 @@ SWE,Sweden,Stockholm,2022,3,1,1.0
 SWE,Sweden,Stockholm,2023,0,0,1.0
 SWE,Sweden,Stockholm,2024,14,4,1.0
 SWE,Sweden,Stockholm,2025,11,3,1.0
-SWE,Sweden,Stockholm,2026,3,1,0.795
+SWE,Sweden,Stockholm,2026,3,1,0.797
 PRT,Portugal,Lisbon,2000,4,1,1.0
 PRT,Portugal,Lisbon,2001,0,0,1.0
 PRT,Portugal,Lisbon,2002,3,1,1.0
@@ -2374,7 +2374,7 @@ PRT,Portugal,Lisbon,2022,9,3,1.0
 PRT,Portugal,Lisbon,2023,15,4,1.0
 PRT,Portugal,Lisbon,2024,26,6,1.0
 PRT,Portugal,Lisbon,2025,8,2,1.0
-PRT,Portugal,Lisbon,2026,8,2,0.795
+PRT,Portugal,Lisbon,2026,8,2,0.797
 SOM,Somalia,Mogadishu,2000,0,0,1.0
 SOM,Somalia,Mogadishu,2001,0,0,1.0
 SOM,Somalia,Mogadishu,2002,3,1,1.0
@@ -2401,7 +2401,7 @@ SOM,Somalia,Mogadishu,2022,0,0,1.0
 SOM,Somalia,Mogadishu,2023,6,2,1.0
 SOM,Somalia,Mogadishu,2024,4,1,1.0
 SOM,Somalia,Mogadishu,2025,0,0,1.0
-SOM,Somalia,Mogadishu,2026,11,2,0.795
+SOM,Somalia,Mogadishu,2026,11,2,0.797
 JOR,Jordan,Amman,2000,9,3,1.0
 JOR,Jordan,Amman,2001,0,0,1.0
 JOR,Jordan,Amman,2002,12,4,1.0
@@ -2428,7 +2428,7 @@ JOR,Jordan,Amman,2022,7,1,1.0
 JOR,Jordan,Amman,2023,9,3,1.0
 JOR,Jordan,Amman,2024,12,4,1.0
 JOR,Jordan,Amman,2025,15,3,1.0
-JOR,Jordan,Amman,2026,0,0,0.795
+JOR,Jordan,Amman,2026,0,0,0.797
 AZE,Azerbaijan,Baku,2000,0,0,1.0
 AZE,Azerbaijan,Baku,2001,0,0,1.0
 AZE,Azerbaijan,Baku,2002,0,0,1.0
@@ -2455,7 +2455,7 @@ AZE,Azerbaijan,Baku,2022,7,2,1.0
 AZE,Azerbaijan,Baku,2023,19,6,1.0
 AZE,Azerbaijan,Baku,2024,10,3,1.0
 AZE,Azerbaijan,Baku,2025,5,1,1.0
-AZE,Azerbaijan,Baku,2026,0,0,0.795
+AZE,Azerbaijan,Baku,2026,0,0,0.797
 ARE,United Arab Emirates,Abu Dhabi,2000,0,0,1.0
 ARE,United Arab Emirates,Abu Dhabi,2001,3,1,1.0
 ARE,United Arab Emirates,Abu Dhabi,2002,3,1,1.0
@@ -2482,7 +2482,7 @@ ARE,United Arab Emirates,Abu Dhabi,2022,5,1,1.0
 ARE,United Arab Emirates,Abu Dhabi,2023,3,1,1.0
 ARE,United Arab Emirates,Abu Dhabi,2024,3,1,1.0
 ARE,United Arab Emirates,Abu Dhabi,2025,6,2,1.0
-ARE,United Arab Emirates,Abu Dhabi,2026,3,1,0.795
+ARE,United Arab Emirates,Abu Dhabi,2026,3,1,0.797
 HUN,Hungary,Budapest,2000,15,3,1.0
 HUN,Hungary,Budapest,2001,4,1,1.0
 HUN,Hungary,Budapest,2002,8,2,1.0
@@ -2509,7 +2509,7 @@ HUN,Hungary,Budapest,2022,14,3,1.0
 HUN,Hungary,Budapest,2023,13,4,1.0
 HUN,Hungary,Budapest,2024,13,3,1.0
 HUN,Hungary,Budapest,2025,14,3,1.0
-HUN,Hungary,Budapest,2026,20,4,0.795
+HUN,Hungary,Budapest,2026,20,4,0.797
 HND,Honduras,Tegucigalpa,2000,0,0,1.0
 HND,Honduras,Tegucigalpa,2001,0,0,1.0
 HND,Honduras,Tegucigalpa,2002,3,1,1.0
@@ -2536,7 +2536,7 @@ HND,Honduras,Tegucigalpa,2022,0,0,1.0
 HND,Honduras,Tegucigalpa,2023,14,3,1.0
 HND,Honduras,Tegucigalpa,2024,6,2,1.0
 HND,Honduras,Tegucigalpa,2025,0,0,1.0
-HND,Honduras,Tegucigalpa,2026,47,6,0.792
+HND,Honduras,Tegucigalpa,2026,47,6,0.795
 BLR,Belarus,Minsk,2000,6,2,1.0
 BLR,Belarus,Minsk,2001,4,1,1.0
 BLR,Belarus,Minsk,2002,15,4,1.0
@@ -2563,7 +2563,7 @@ BLR,Belarus,Minsk,2022,7,2,1.0
 BLR,Belarus,Minsk,2023,3,1,1.0
 BLR,Belarus,Minsk,2024,13,4,1.0
 BLR,Belarus,Minsk,2025,22,4,1.0
-BLR,Belarus,Minsk,2026,0,0,0.795
+BLR,Belarus,Minsk,2026,0,0,0.797
 TJK,Tajikistan,Dushanbe,2000,0,0,1.0
 TJK,Tajikistan,Dushanbe,2001,7,2,1.0
 TJK,Tajikistan,Dushanbe,2002,7,2,1.0
@@ -2590,7 +2590,7 @@ TJK,Tajikistan,Dushanbe,2022,7,2,1.0
 TJK,Tajikistan,Dushanbe,2023,9,3,1.0
 TJK,Tajikistan,Dushanbe,2024,9,3,1.0
 TJK,Tajikistan,Dushanbe,2025,65,13,1.0
-TJK,Tajikistan,Dushanbe,2026,50,10,0.795
+TJK,Tajikistan,Dushanbe,2026,50,10,0.797
 ISR,Israel,Jerusalem,2000,3,1,1.0
 ISR,Israel,Jerusalem,2001,0,0,1.0
 ISR,Israel,Jerusalem,2002,12,4,1.0
@@ -2617,7 +2617,7 @@ ISR,Israel,Jerusalem,2022,4,1,1.0
 ISR,Israel,Jerusalem,2023,3,1,1.0
 ISR,Israel,Jerusalem,2024,3,1,1.0
 ISR,Israel,Jerusalem,2025,7,2,1.0
-ISR,Israel,Jerusalem,2026,6,2,0.795
+ISR,Israel,Jerusalem,2026,6,2,0.797
 AUT,Austria,Vienna,2000,10,3,1.0
 AUT,Austria,Vienna,2001,0,0,1.0
 AUT,Austria,Vienna,2002,6,2,1.0
@@ -2644,7 +2644,7 @@ AUT,Austria,Vienna,2022,0,0,1.0
 AUT,Austria,Vienna,2023,12,3,1.0
 AUT,Austria,Vienna,2024,11,2,1.0
 AUT,Austria,Vienna,2025,5,1,1.0
-AUT,Austria,Vienna,2026,16,4,0.795
+AUT,Austria,Vienna,2026,16,4,0.797
 PNG,Papua New Guinea,Port Moresby,2000,0,0,1.0
 PNG,Papua New Guinea,Port Moresby,2001,9,2,1.0
 PNG,Papua New Guinea,Port Moresby,2002,4,1,1.0
@@ -2671,7 +2671,7 @@ PNG,Papua New Guinea,Port Moresby,2022,18,5,1.0
 PNG,Papua New Guinea,Port Moresby,2023,17,4,1.0
 PNG,Papua New Guinea,Port Moresby,2024,26,8,1.0
 PNG,Papua New Guinea,Port Moresby,2025,3,1,1.0
-PNG,Papua New Guinea,Port Moresby,2026,10,3,0.795
+PNG,Papua New Guinea,Port Moresby,2026,10,3,0.797
 CHE,Switzerland,Bern,2000,6,2,1.0
 CHE,Switzerland,Bern,2001,0,0,1.0
 CHE,Switzerland,Bern,2002,3,1,1.0
@@ -2698,7 +2698,7 @@ CHE,Switzerland,Bern,2022,19,6,1.0
 CHE,Switzerland,Bern,2023,25,4,1.0
 CHE,Switzerland,Bern,2024,3,1,1.0
 CHE,Switzerland,Bern,2025,6,2,1.0
-CHE,Switzerland,Bern,2026,47,8,0.795
+CHE,Switzerland,Bern,2026,47,8,0.797
 TGO,Togo,Lomé,2000,0,0,1.0
 TGO,Togo,Lomé,2001,0,0,1.0
 TGO,Togo,Lomé,2002,0,0,1.0
@@ -2725,7 +2725,7 @@ TGO,Togo,Lomé,2022,0,0,1.0
 TGO,Togo,Lomé,2023,19,3,1.0
 TGO,Togo,Lomé,2024,14,3,1.0
 TGO,Togo,Lomé,2025,0,0,1.0
-TGO,Togo,Lomé,2026,3,1,0.792
+TGO,Togo,Lomé,2026,3,1,0.795
 SLE,Sierra Leone,Freetown,2000,0,0,1.0
 SLE,Sierra Leone,Freetown,2001,0,0,1.0
 SLE,Sierra Leone,Freetown,2002,0,0,1.0
@@ -2752,7 +2752,7 @@ SLE,Sierra Leone,Freetown,2022,0,0,1.0
 SLE,Sierra Leone,Freetown,2023,3,1,1.0
 SLE,Sierra Leone,Freetown,2024,45,11,1.0
 SLE,Sierra Leone,Freetown,2025,3,0,1.0
-SLE,Sierra Leone,Freetown,2026,22,6,0.792
+SLE,Sierra Leone,Freetown,2026,22,6,0.795
 LAO,Laos,Vientiane,2000,5,1,1.0
 LAO,Laos,Vientiane,2001,4,1,1.0
 LAO,Laos,Vientiane,2002,3,1,1.0
@@ -2779,7 +2779,7 @@ LAO,Laos,Vientiane,2022,4,1,1.0
 LAO,Laos,Vientiane,2023,36,8,1.0
 LAO,Laos,Vientiane,2024,15,3,1.0
 LAO,Laos,Vientiane,2025,3,1,1.0
-LAO,Laos,Vientiane,2026,14,3,0.795
+LAO,Laos,Vientiane,2026,14,3,0.797
 PRY,Paraguay,Asunción,2000,5,1,1.0
 PRY,Paraguay,Asunción,2001,3,1,1.0
 PRY,Paraguay,Asunción,2002,3,1,1.0
@@ -2806,7 +2806,7 @@ PRY,Paraguay,Asunción,2022,20,4,1.0
 PRY,Paraguay,Asunción,2023,15,5,1.0
 PRY,Paraguay,Asunción,2024,28,6,1.0
 PRY,Paraguay,Asunción,2025,14,4,1.0
-PRY,Paraguay,Asunción,2026,3,1,0.792
+PRY,Paraguay,Asunción,2026,3,1,0.795
 BGR,Bulgaria,Sofia,2000,6,2,1.0
 BGR,Bulgaria,Sofia,2001,4,1,1.0
 BGR,Bulgaria,Sofia,2002,3,1,1.0
@@ -2833,7 +2833,7 @@ BGR,Bulgaria,Sofia,2022,6,2,1.0
 BGR,Bulgaria,Sofia,2023,10,3,1.0
 BGR,Bulgaria,Sofia,2024,17,4,1.0
 BGR,Bulgaria,Sofia,2025,10,3,1.0
-BGR,Bulgaria,Sofia,2026,0,0,0.795
+BGR,Bulgaria,Sofia,2026,0,0,0.797
 SRB,Serbia,Belgrade,2000,8,2,1.0
 SRB,Serbia,Belgrade,2001,4,1,1.0
 SRB,Serbia,Belgrade,2002,5,1,1.0
@@ -2860,7 +2860,7 @@ SRB,Serbia,Belgrade,2022,1,1,1.0
 SRB,Serbia,Belgrade,2023,2,0,1.0
 SRB,Serbia,Belgrade,2024,32,7,1.0
 SRB,Serbia,Belgrade,2025,18,5,1.0
-SRB,Serbia,Belgrade,2026,6,1,0.795
+SRB,Serbia,Belgrade,2026,6,1,0.797
 LBN,Lebanon,Beirut,2000,12,4,1.0
 LBN,Lebanon,Beirut,2001,0,0,1.0
 LBN,Lebanon,Beirut,2002,10,3,1.0
@@ -2887,7 +2887,7 @@ LBN,Lebanon,Beirut,2022,0,0,1.0
 LBN,Lebanon,Beirut,2023,0,0,1.0
 LBN,Lebanon,Beirut,2024,3,1,1.0
 LBN,Lebanon,Beirut,2025,11,2,1.0
-LBN,Lebanon,Beirut,2026,0,0,0.795
+LBN,Lebanon,Beirut,2026,0,0,0.797
 LBY,Libya,Tripoli,2000,3,1,1.0
 LBY,Libya,Tripoli,2001,0,0,1.0
 LBY,Libya,Tripoli,2002,3,1,1.0
@@ -2914,7 +2914,7 @@ LBY,Libya,Tripoli,2022,7,2,1.0
 LBY,Libya,Tripoli,2023,0,0,1.0
 LBY,Libya,Tripoli,2024,7,2,1.0
 LBY,Libya,Tripoli,2025,15,4,1.0
-LBY,Libya,Tripoli,2026,27,6,0.795
+LBY,Libya,Tripoli,2026,27,6,0.797
 NIC,Nicaragua,Managua,2000,9,2,1.0
 NIC,Nicaragua,Managua,2001,0,0,1.0
 NIC,Nicaragua,Managua,2002,0,0,1.0
@@ -2941,7 +2941,7 @@ NIC,Nicaragua,Managua,2022,0,0,1.0
 NIC,Nicaragua,Managua,2023,11,3,1.0
 NIC,Nicaragua,Managua,2024,3,1,1.0
 NIC,Nicaragua,Managua,2025,0,0,1.0
-NIC,Nicaragua,Managua,2026,26,7,0.792
+NIC,Nicaragua,Managua,2026,26,7,0.795
 KGZ,Kyrgyzstan,Bishkek,2000,3,1,1.0
 KGZ,Kyrgyzstan,Bishkek,2001,6,2,1.0
 KGZ,Kyrgyzstan,Bishkek,2002,6,2,1.0
@@ -2968,7 +2968,7 @@ KGZ,Kyrgyzstan,Bishkek,2022,3,1,1.0
 KGZ,Kyrgyzstan,Bishkek,2023,9,3,1.0
 KGZ,Kyrgyzstan,Bishkek,2024,0,0,1.0
 KGZ,Kyrgyzstan,Bishkek,2025,15,5,1.0
-KGZ,Kyrgyzstan,Bishkek,2026,19,4,0.795
+KGZ,Kyrgyzstan,Bishkek,2026,19,4,0.797
 SLV,El Salvador,San Salvador,2000,0,0,1.0
 SLV,El Salvador,San Salvador,2001,0,0,1.0
 SLV,El Salvador,San Salvador,2002,5,1,1.0
@@ -2995,7 +2995,7 @@ SLV,El Salvador,San Salvador,2022,0,0,1.0
 SLV,El Salvador,San Salvador,2023,18,5,1.0
 SLV,El Salvador,San Salvador,2024,14,4,1.0
 SLV,El Salvador,San Salvador,2025,6,2,1.0
-SLV,El Salvador,San Salvador,2026,54,7,0.792
+SLV,El Salvador,San Salvador,2026,54,7,0.795
 ERI,Eritrea,Asmara,2000,0,0,1.0
 ERI,Eritrea,Asmara,2001,0,0,1.0
 ERI,Eritrea,Asmara,2002,6,2,1.0
@@ -3022,7 +3022,7 @@ ERI,Eritrea,Asmara,2022,6,2,1.0
 ERI,Eritrea,Asmara,2023,14,4,1.0
 ERI,Eritrea,Asmara,2024,8,2,1.0
 ERI,Eritrea,Asmara,2025,8,2,1.0
-ERI,Eritrea,Asmara,2026,20,5,0.795
+ERI,Eritrea,Asmara,2026,20,5,0.797
 TKM,Turkmenistan,Ashgabat,2000,6,2,1.0
 TKM,Turkmenistan,Ashgabat,2001,4,1,1.0
 TKM,Turkmenistan,Ashgabat,2002,7,2,1.0
@@ -3049,7 +3049,7 @@ TKM,Turkmenistan,Ashgabat,2022,7,2,1.0
 TKM,Turkmenistan,Ashgabat,2023,6,2,1.0
 TKM,Turkmenistan,Ashgabat,2024,3,1,1.0
 TKM,Turkmenistan,Ashgabat,2025,12,4,1.0
-TKM,Turkmenistan,Ashgabat,2026,6,2,0.795
+TKM,Turkmenistan,Ashgabat,2026,6,2,0.797
 DNK,Denmark,København,2000,6,2,1.0
 DNK,Denmark,København,2001,0,0,1.0
 DNK,Denmark,København,2002,0,0,1.0
@@ -3076,7 +3076,7 @@ DNK,Denmark,København,2022,15,4,1.0
 DNK,Denmark,København,2023,2,0,1.0
 DNK,Denmark,København,2024,10,2,1.0
 DNK,Denmark,København,2025,6,1,1.0
-DNK,Denmark,København,2026,6,2,0.795
+DNK,Denmark,København,2026,6,2,0.797
 FIN,Finland,Helsinki,2000,0,0,1.0
 FIN,Finland,Helsinki,2001,0,0,1.0
 FIN,Finland,Helsinki,2002,6,1,1.0
@@ -3103,7 +3103,7 @@ FIN,Finland,Helsinki,2022,12,3,1.0
 FIN,Finland,Helsinki,2023,6,2,1.0
 FIN,Finland,Helsinki,2024,7,2,1.0
 FIN,Finland,Helsinki,2025,25,7,1.0
-FIN,Finland,Helsinki,2026,3,1,0.795
+FIN,Finland,Helsinki,2026,3,1,0.797
 SVK,Slovakia,Bratislava,2000,20,6,1.0
 SVK,Slovakia,Bratislava,2001,0,0,1.0
 SVK,Slovakia,Bratislava,2002,7,2,1.0
@@ -3130,7 +3130,7 @@ SVK,Slovakia,Bratislava,2022,10,2,1.0
 SVK,Slovakia,Bratislava,2023,15,4,1.0
 SVK,Slovakia,Bratislava,2024,15,3,1.0
 SVK,Slovakia,Bratislava,2025,12,3,1.0
-SVK,Slovakia,Bratislava,2026,14,3,0.795
+SVK,Slovakia,Bratislava,2026,14,3,0.797
 COG,Congo,Brazzaville,2000,0,0,1.0
 COG,Congo,Brazzaville,2001,0,0,1.0
 COG,Congo,Brazzaville,2002,0,0,1.0
@@ -3157,7 +3157,7 @@ COG,Congo,Brazzaville,2022,0,0,1.0
 COG,Congo,Brazzaville,2023,3,1,1.0
 COG,Congo,Brazzaville,2024,11,3,1.0
 COG,Congo,Brazzaville,2025,0,0,1.0
-COG,Congo,Brazzaville,2026,19,5,0.795
+COG,Congo,Brazzaville,2026,19,5,0.797
 NOR,Norway,Oslo,2000,6,2,1.0
 NOR,Norway,Oslo,2001,0,0,1.0
 NOR,Norway,Oslo,2002,4,1,1.0
@@ -3184,7 +3184,7 @@ NOR,Norway,Oslo,2022,9,2,1.0
 NOR,Norway,Oslo,2023,4,1,1.0
 NOR,Norway,Oslo,2024,3,1,1.0
 NOR,Norway,Oslo,2025,12,3,1.0
-NOR,Norway,Oslo,2026,3,1,0.795
+NOR,Norway,Oslo,2026,3,1,0.797
 SOL,Somaliland,Hargeisa,2000,0,0,1.0
 SOL,Somaliland,Hargeisa,2001,3,1,1.0
 SOL,Somaliland,Hargeisa,2002,0,0,1.0
@@ -3211,7 +3211,7 @@ SOL,Somaliland,Hargeisa,2022,15,4,1.0
 SOL,Somaliland,Hargeisa,2023,20,6,1.0
 SOL,Somaliland,Hargeisa,2024,31,8,1.0
 SOL,Somaliland,Hargeisa,2025,9,3,1.0
-SOL,Somaliland,Hargeisa,2026,15,4,0.795
+SOL,Somaliland,Hargeisa,2026,15,4,0.797
 CRI,Costa Rica,San José,2000,0,0,1.0
 CRI,Costa Rica,San José,2001,0,0,1.0
 CRI,Costa Rica,San José,2002,0,0,1.0
@@ -3238,7 +3238,7 @@ CRI,Costa Rica,San José,2022,0,0,1.0
 CRI,Costa Rica,San José,2023,19,5,1.0
 CRI,Costa Rica,San José,2024,47,10,1.0
 CRI,Costa Rica,San José,2025,0,0,1.0
-CRI,Costa Rica,San José,2026,13,4,0.792
+CRI,Costa Rica,San José,2026,13,4,0.795
 OMN,Oman,Muscat,2000,3,1,1.0
 OMN,Oman,Muscat,2001,7,2,1.0
 OMN,Oman,Muscat,2002,6,2,1.0
@@ -3265,7 +3265,7 @@ OMN,Oman,Muscat,2022,3,1,1.0
 OMN,Oman,Muscat,2023,0,0,1.0
 OMN,Oman,Muscat,2024,9,3,1.0
 OMN,Oman,Muscat,2025,3,1,1.0
-OMN,Oman,Muscat,2026,4,1,0.795
+OMN,Oman,Muscat,2026,4,1,0.797
 IRL,Ireland,Dublin,2000,4,1,1.0
 IRL,Ireland,Dublin,2001,0,0,1.0
 IRL,Ireland,Dublin,2002,0,0,1.0
@@ -3292,7 +3292,7 @@ IRL,Ireland,Dublin,2022,16,3,1.0
 IRL,Ireland,Dublin,2023,13,2,1.0
 IRL,Ireland,Dublin,2024,4,1,1.0
 IRL,Ireland,Dublin,2025,7,2,1.0
-IRL,Ireland,Dublin,2026,11,3,0.795
+IRL,Ireland,Dublin,2026,11,3,0.797
 LBR,Liberia,Monrovia,2000,0,0,1.0
 LBR,Liberia,Monrovia,2001,0,0,1.0
 LBR,Liberia,Monrovia,2002,0,0,1.0
@@ -3319,7 +3319,7 @@ LBR,Liberia,Monrovia,2022,0,0,1.0
 LBR,Liberia,Monrovia,2023,6,2,1.0
 LBR,Liberia,Monrovia,2024,45,11,1.0
 LBR,Liberia,Monrovia,2025,5,1,1.0
-LBR,Liberia,Monrovia,2026,3,1,0.792
+LBR,Liberia,Monrovia,2026,3,1,0.795
 NZL,New Zealand,Wellington,2000,3,1,1.0
 NZL,New Zealand,Wellington,2001,5,1,1.0
 NZL,New Zealand,Wellington,2002,0,0,1.0
@@ -3346,7 +3346,7 @@ NZL,New Zealand,Wellington,2022,13,3,1.0
 NZL,New Zealand,Wellington,2023,8,2,1.0
 NZL,New Zealand,Wellington,2024,3,1,1.0
 NZL,New Zealand,Wellington,2025,6,2,1.0
-NZL,New Zealand,Wellington,2026,6,2,0.795
+NZL,New Zealand,Wellington,2026,6,2,0.797
 CAF,Central African Rep.,Bangui,2000,0,0,1.0
 CAF,Central African Rep.,Bangui,2001,0,0,1.0
 CAF,Central African Rep.,Bangui,2002,0,0,1.0
@@ -3373,7 +3373,7 @@ CAF,Central African Rep.,Bangui,2022,0,0,1.0
 CAF,Central African Rep.,Bangui,2023,3,1,1.0
 CAF,Central African Rep.,Bangui,2024,16,5,1.0
 CAF,Central African Rep.,Bangui,2025,0,0,1.0
-CAF,Central African Rep.,Bangui,2026,0,0,0.795
+CAF,Central African Rep.,Bangui,2026,0,0,0.797
 PSX,Palestine,Ramallah,2000,3,1,1.0
 PSX,Palestine,Ramallah,2001,0,0,1.0
 PSX,Palestine,Ramallah,2002,9,3,1.0
@@ -3400,7 +3400,7 @@ PSX,Palestine,Ramallah,2022,3,1,1.0
 PSX,Palestine,Ramallah,2023,4,1,1.0
 PSX,Palestine,Ramallah,2024,6,2,1.0
 PSX,Palestine,Ramallah,2025,15,4,1.0
-PSX,Palestine,Ramallah,2026,0,0,0.795
+PSX,Palestine,Ramallah,2026,0,0,0.797
 MRT,Mauritania,Nouakchott,2000,6,2,1.0
 MRT,Mauritania,Nouakchott,2001,10,2,1.0
 MRT,Mauritania,Nouakchott,2002,3,1,1.0
@@ -3427,7 +3427,7 @@ MRT,Mauritania,Nouakchott,2022,10,2,1.0
 MRT,Mauritania,Nouakchott,2023,0,0,1.0
 MRT,Mauritania,Nouakchott,2024,8,2,1.0
 MRT,Mauritania,Nouakchott,2025,6,2,1.0
-MRT,Mauritania,Nouakchott,2026,11,2,0.792
+MRT,Mauritania,Nouakchott,2026,11,2,0.795
 PAN,Panama,Panama City,2000,0,0,1.0
 PAN,Panama,Panama City,2001,0,0,1.0
 PAN,Panama,Panama City,2002,3,1,1.0
@@ -3454,7 +3454,7 @@ PAN,Panama,Panama City,2022,0,0,1.0
 PAN,Panama,Panama City,2023,28,8,1.0
 PAN,Panama,Panama City,2024,23,5,1.0
 PAN,Panama,Panama City,2025,3,1,1.0
-PAN,Panama,Panama City,2026,23,6,0.792
+PAN,Panama,Panama City,2026,23,6,0.795
 KWT,Kuwait,Kuwait City,2000,0,0,1.0
 KWT,Kuwait,Kuwait City,2001,0,0,1.0
 KWT,Kuwait,Kuwait City,2002,0,0,1.0
@@ -3481,7 +3481,7 @@ KWT,Kuwait,Kuwait City,2022,0,0,1.0
 KWT,Kuwait,Kuwait City,2023,3,1,1.0
 KWT,Kuwait,Kuwait City,2024,14,4,1.0
 KWT,Kuwait,Kuwait City,2025,8,2,1.0
-KWT,Kuwait,Kuwait City,2026,20,5,0.795
+KWT,Kuwait,Kuwait City,2026,20,5,0.797
 HRV,Croatia,Zagreb,2000,12,4,1.0
 HRV,Croatia,Zagreb,2001,0,0,1.0
 HRV,Croatia,Zagreb,2002,3,1,1.0
@@ -3508,7 +3508,7 @@ HRV,Croatia,Zagreb,2022,1,1,1.0
 HRV,Croatia,Zagreb,2023,5,1,1.0
 HRV,Croatia,Zagreb,2024,20,6,1.0
 HRV,Croatia,Zagreb,2025,8,2,1.0
-HRV,Croatia,Zagreb,2026,10,2,0.795
+HRV,Croatia,Zagreb,2026,10,2,0.797
 GEO,Georgia,Tbilisi,2000,9,2,1.0
 GEO,Georgia,Tbilisi,2001,0,0,1.0
 GEO,Georgia,Tbilisi,2002,0,0,1.0
@@ -3535,7 +3535,7 @@ GEO,Georgia,Tbilisi,2022,12,3,1.0
 GEO,Georgia,Tbilisi,2023,8,2,1.0
 GEO,Georgia,Tbilisi,2024,16,3,1.0
 GEO,Georgia,Tbilisi,2025,12,2,1.0
-GEO,Georgia,Tbilisi,2026,5,1,0.795
+GEO,Georgia,Tbilisi,2026,5,1,0.797
 URY,Uruguay,Montevideo,2000,0,0,1.0
 URY,Uruguay,Montevideo,2001,3,1,1.0
 URY,Uruguay,Montevideo,2002,8,2,1.0
@@ -3562,7 +3562,7 @@ URY,Uruguay,Montevideo,2022,7,2,1.0
 URY,Uruguay,Montevideo,2023,16,4,1.0
 URY,Uruguay,Montevideo,2024,3,1,1.0
 URY,Uruguay,Montevideo,2025,3,1,1.0
-URY,Uruguay,Montevideo,2026,0,0,0.792
+URY,Uruguay,Montevideo,2026,0,0,0.795
 BIH,Bosnia and Herz.,Sarajevo,2000,6,2,1.0
 BIH,Bosnia and Herz.,Sarajevo,2001,0,0,1.0
 BIH,Bosnia and Herz.,Sarajevo,2002,3,1,1.0
@@ -3589,7 +3589,7 @@ BIH,Bosnia and Herz.,Sarajevo,2022,4,2,1.0
 BIH,Bosnia and Herz.,Sarajevo,2023,11,3,1.0
 BIH,Bosnia and Herz.,Sarajevo,2024,27,6,1.0
 BIH,Bosnia and Herz.,Sarajevo,2025,14,4,1.0
-BIH,Bosnia and Herz.,Sarajevo,2026,6,2,0.795
+BIH,Bosnia and Herz.,Sarajevo,2026,6,2,0.797
 MNG,Mongolia,Ulaanbaatar,2000,4,1,1.0
 MNG,Mongolia,Ulaanbaatar,2001,4,1,1.0
 MNG,Mongolia,Ulaanbaatar,2002,18,4,1.0
@@ -3616,7 +3616,7 @@ MNG,Mongolia,Ulaanbaatar,2022,3,1,1.0
 MNG,Mongolia,Ulaanbaatar,2023,3,1,1.0
 MNG,Mongolia,Ulaanbaatar,2024,0,0,1.0
 MNG,Mongolia,Ulaanbaatar,2025,3,1,1.0
-MNG,Mongolia,Ulaanbaatar,2026,3,1,0.795
+MNG,Mongolia,Ulaanbaatar,2026,3,1,0.797
 PRI,Puerto Rico,San Juan,2000,2,1,1.0
 PRI,Puerto Rico,San Juan,2001,4,1,1.0
 PRI,Puerto Rico,San Juan,2002,0,0,1.0
@@ -3643,7 +3643,7 @@ PRI,Puerto Rico,San Juan,2022,0,0,1.0
 PRI,Puerto Rico,San Juan,2023,24,5,1.0
 PRI,Puerto Rico,San Juan,2024,20,6,1.0
 PRI,Puerto Rico,San Juan,2025,3,1,1.0
-PRI,Puerto Rico,San Juan,2026,3,1,0.792
+PRI,Puerto Rico,San Juan,2026,3,1,0.795
 ARM,Armenia,Yerevan,2000,4,1,1.0
 ARM,Armenia,Yerevan,2001,0,0,1.0
 ARM,Armenia,Yerevan,2002,4,1,1.0
@@ -3670,7 +3670,7 @@ ARM,Armenia,Yerevan,2022,20,6,1.0
 ARM,Armenia,Yerevan,2023,17,5,1.0
 ARM,Armenia,Yerevan,2024,16,3,1.0
 ARM,Armenia,Yerevan,2025,16,4,1.0
-ARM,Armenia,Yerevan,2026,4,1,0.795
+ARM,Armenia,Yerevan,2026,4,1,0.797
 JAM,Jamaica,Kingston,2000,0,0,1.0
 JAM,Jamaica,Kingston,2001,0,0,1.0
 JAM,Jamaica,Kingston,2002,0,0,1.0
@@ -3697,7 +3697,7 @@ JAM,Jamaica,Kingston,2022,0,0,1.0
 JAM,Jamaica,Kingston,2023,35,9,1.0
 JAM,Jamaica,Kingston,2024,9,3,1.0
 JAM,Jamaica,Kingston,2025,12,4,1.0
-JAM,Jamaica,Kingston,2026,23,4,0.792
+JAM,Jamaica,Kingston,2026,26,5,0.795
 ALB,Albania,Tirana,2000,6,2,1.0
 ALB,Albania,Tirana,2001,0,0,1.0
 ALB,Albania,Tirana,2002,10,3,1.0
@@ -3724,7 +3724,7 @@ ALB,Albania,Tirana,2022,15,4,1.0
 ALB,Albania,Tirana,2023,12,3,1.0
 ALB,Albania,Tirana,2024,18,5,1.0
 ALB,Albania,Tirana,2025,9,2,1.0
-ALB,Albania,Tirana,2026,22,3,0.795
+ALB,Albania,Tirana,2026,22,3,0.797
 QAT,Qatar,Doha,2000,0,0,1.0
 QAT,Qatar,Doha,2001,11,3,1.0
 QAT,Qatar,Doha,2002,0,0,1.0
@@ -3751,7 +3751,7 @@ QAT,Qatar,Doha,2022,5,1,1.0
 QAT,Qatar,Doha,2023,0,0,1.0
 QAT,Qatar,Doha,2024,8,2,1.0
 QAT,Qatar,Doha,2025,3,1,1.0
-QAT,Qatar,Doha,2026,7,2,0.795
+QAT,Qatar,Doha,2026,10,3,0.797
 LTU,Lithuania,Vilnius,2000,9,3,1.0
 LTU,Lithuania,Vilnius,2001,3,1,1.0
 LTU,Lithuania,Vilnius,2002,13,3,1.0
@@ -3778,7 +3778,7 @@ LTU,Lithuania,Vilnius,2022,7,3,1.0
 LTU,Lithuania,Vilnius,2023,13,3,1.0
 LTU,Lithuania,Vilnius,2024,16,4,1.0
 LTU,Lithuania,Vilnius,2025,18,4,1.0
-LTU,Lithuania,Vilnius,2026,14,3,0.795
+LTU,Lithuania,Vilnius,2026,14,3,0.797
 MDA,Moldova,Chișinău,2000,6,2,1.0
 MDA,Moldova,Chișinău,2001,0,0,1.0
 MDA,Moldova,Chișinău,2002,3,1,1.0
@@ -3805,7 +3805,7 @@ MDA,Moldova,Chișinău,2022,4,2,1.0
 MDA,Moldova,Chișinău,2023,24,5,1.0
 MDA,Moldova,Chișinău,2024,26,6,1.0
 MDA,Moldova,Chișinău,2025,15,4,1.0
-MDA,Moldova,Chișinău,2026,7,2,0.795
+MDA,Moldova,Chișinău,2026,7,2,0.797
 NAM,Namibia,Windhoek,2000,0,0,1.0
 NAM,Namibia,Windhoek,2001,0,0,1.0
 NAM,Namibia,Windhoek,2002,0,0,1.0
@@ -3832,7 +3832,7 @@ NAM,Namibia,Windhoek,2022,13,3,1.0
 NAM,Namibia,Windhoek,2023,15,5,1.0
 NAM,Namibia,Windhoek,2024,56,12,1.0
 NAM,Namibia,Windhoek,2025,0,0,1.0
-NAM,Namibia,Windhoek,2026,10,2,0.795
+NAM,Namibia,Windhoek,2026,10,2,0.797
 GMB,Gambia,Banjul,2000,0,0,1.0
 GMB,Gambia,Banjul,2001,0,0,1.0
 GMB,Gambia,Banjul,2002,0,0,1.0
@@ -3859,7 +3859,7 @@ GMB,Gambia,Banjul,2022,12,3,1.0
 GMB,Gambia,Banjul,2023,22,6,1.0
 GMB,Gambia,Banjul,2024,20,4,1.0
 GMB,Gambia,Banjul,2025,0,0,1.0
-GMB,Gambia,Banjul,2026,19,4,0.792
+GMB,Gambia,Banjul,2026,19,4,0.795
 BWA,Botswana,Gaborone,2000,0,0,1.0
 BWA,Botswana,Gaborone,2001,0,0,1.0
 BWA,Botswana,Gaborone,2002,3,1,1.0
@@ -3886,7 +3886,7 @@ BWA,Botswana,Gaborone,2022,0,0,1.0
 BWA,Botswana,Gaborone,2023,6,1,1.0
 BWA,Botswana,Gaborone,2024,37,10,1.0
 BWA,Botswana,Gaborone,2025,0,0,1.0
-BWA,Botswana,Gaborone,2026,3,1,0.795
+BWA,Botswana,Gaborone,2026,3,1,0.797
 GAB,Gabon,Libreville,2000,0,0,1.0
 GAB,Gabon,Libreville,2001,0,0,1.0
 GAB,Gabon,Libreville,2002,0,0,1.0
@@ -3913,7 +3913,7 @@ GAB,Gabon,Libreville,2022,0,0,1.0
 GAB,Gabon,Libreville,2023,12,4,1.0
 GAB,Gabon,Libreville,2024,31,9,1.0
 GAB,Gabon,Libreville,2025,0,0,1.0
-GAB,Gabon,Libreville,2026,7,2,0.795
+GAB,Gabon,Libreville,2026,7,2,0.797
 LSO,Lesotho,Maseru,2000,0,0,1.0
 LSO,Lesotho,Maseru,2001,0,0,1.0
 LSO,Lesotho,Maseru,2002,0,0,1.0
@@ -3940,7 +3940,7 @@ LSO,Lesotho,Maseru,2022,0,0,1.0
 LSO,Lesotho,Maseru,2023,0,0,1.0
 LSO,Lesotho,Maseru,2024,50,11,1.0
 LSO,Lesotho,Maseru,2025,3,1,1.0
-LSO,Lesotho,Maseru,2026,0,0,0.795
+LSO,Lesotho,Maseru,2026,0,0,0.797
 SVN,Slovenia,Ljubljana,2000,7,2,1.0
 SVN,Slovenia,Ljubljana,2001,3,1,1.0
 SVN,Slovenia,Ljubljana,2002,4,1,1.0
@@ -3967,7 +3967,7 @@ SVN,Slovenia,Ljubljana,2022,8,3,1.0
 SVN,Slovenia,Ljubljana,2023,9,2,1.0
 SVN,Slovenia,Ljubljana,2024,12,4,1.0
 SVN,Slovenia,Ljubljana,2025,5,1,1.0
-SVN,Slovenia,Ljubljana,2026,23,5,0.795
+SVN,Slovenia,Ljubljana,2026,23,5,0.797
 MKD,North Macedonia,Skopje,2000,0,0,1.0
 MKD,North Macedonia,Skopje,2001,3,1,1.0
 MKD,North Macedonia,Skopje,2002,3,1,1.0
@@ -3994,7 +3994,7 @@ MKD,North Macedonia,Skopje,2022,7,2,1.0
 MKD,North Macedonia,Skopje,2023,11,3,1.0
 MKD,North Macedonia,Skopje,2024,12,3,1.0
 MKD,North Macedonia,Skopje,2025,10,3,1.0
-MKD,North Macedonia,Skopje,2026,0,0,0.795
+MKD,North Macedonia,Skopje,2026,0,0,0.797
 GNB,Guinea-Bissau,Bissau,2000,0,0,1.0
 GNB,Guinea-Bissau,Bissau,2001,0,0,1.0
 GNB,Guinea-Bissau,Bissau,2002,0,0,1.0
@@ -4021,7 +4021,7 @@ GNB,Guinea-Bissau,Bissau,2022,3,1,1.0
 GNB,Guinea-Bissau,Bissau,2023,6,2,1.0
 GNB,Guinea-Bissau,Bissau,2024,23,7,1.0
 GNB,Guinea-Bissau,Bissau,2025,0,0,1.0
-GNB,Guinea-Bissau,Bissau,2026,16,4,0.792
+GNB,Guinea-Bissau,Bissau,2026,16,4,0.795
 LVA,Latvia,Riga,2000,6,2,1.0
 LVA,Latvia,Riga,2001,0,0,1.0
 LVA,Latvia,Riga,2002,11,3,1.0
@@ -4048,7 +4048,7 @@ LVA,Latvia,Riga,2022,9,2,1.0
 LVA,Latvia,Riga,2023,6,2,1.0
 LVA,Latvia,Riga,2024,10,3,1.0
 LVA,Latvia,Riga,2025,19,5,1.0
-LVA,Latvia,Riga,2026,8,1,0.795
+LVA,Latvia,Riga,2026,8,1,0.797
 KOS,Kosovo,Pristina,2000,3,1,1.0
 KOS,Kosovo,Pristina,2001,3,1,1.0
 KOS,Kosovo,Pristina,2002,7,2,1.0
@@ -4075,7 +4075,7 @@ KOS,Kosovo,Pristina,2022,3,1,1.0
 KOS,Kosovo,Pristina,2023,7,2,1.0
 KOS,Kosovo,Pristina,2024,17,4,1.0
 KOS,Kosovo,Pristina,2025,17,4,1.0
-KOS,Kosovo,Pristina,2026,3,1,0.795
+KOS,Kosovo,Pristina,2026,3,1,0.797
 TTO,Trinidad and Tobago,Port-of-Spain,2000,0,0,1.0
 TTO,Trinidad and Tobago,Port-of-Spain,2001,0,0,1.0
 TTO,Trinidad and Tobago,Port-of-Spain,2002,0,0,1.0
@@ -4102,7 +4102,7 @@ TTO,Trinidad and Tobago,Port-of-Spain,2022,0,0,1.0
 TTO,Trinidad and Tobago,Port-of-Spain,2023,30,6,1.0
 TTO,Trinidad and Tobago,Port-of-Spain,2024,87,22,1.0
 TTO,Trinidad and Tobago,Port-of-Spain,2025,12,4,1.0
-TTO,Trinidad and Tobago,Port-of-Spain,2026,0,0,0.792
+TTO,Trinidad and Tobago,Port-of-Spain,2026,0,0,0.795
 GNQ,Eq. Guinea,Malabo,2000,0,0,1.0
 GNQ,Eq. Guinea,Malabo,2001,0,0,1.0
 GNQ,Eq. Guinea,Malabo,2002,0,0,1.0
@@ -4129,7 +4129,7 @@ GNQ,Eq. Guinea,Malabo,2022,0,0,1.0
 GNQ,Eq. Guinea,Malabo,2023,29,8,1.0
 GNQ,Eq. Guinea,Malabo,2024,37,10,1.0
 GNQ,Eq. Guinea,Malabo,2025,0,0,1.0
-GNQ,Eq. Guinea,Malabo,2026,9,2,0.795
+GNQ,Eq. Guinea,Malabo,2026,9,2,0.797
 EST,Estonia,Tallinn,2000,3,1,1.0
 EST,Estonia,Tallinn,2001,0,0,1.0
 EST,Estonia,Tallinn,2002,4,1,1.0
@@ -4156,7 +4156,7 @@ EST,Estonia,Tallinn,2022,20,5,1.0
 EST,Estonia,Tallinn,2023,0,0,1.0
 EST,Estonia,Tallinn,2024,15,4,1.0
 EST,Estonia,Tallinn,2025,13,4,1.0
-EST,Estonia,Tallinn,2026,3,1,0.795
+EST,Estonia,Tallinn,2026,3,1,0.797
 TLS,Timor-Leste,Dili,2000,0,0,1.0
 TLS,Timor-Leste,Dili,2001,0,0,1.0
 TLS,Timor-Leste,Dili,2002,0,0,1.0
@@ -4183,7 +4183,7 @@ TLS,Timor-Leste,Dili,2022,3,1,1.0
 TLS,Timor-Leste,Dili,2023,3,1,1.0
 TLS,Timor-Leste,Dili,2024,7,2,1.0
 TLS,Timor-Leste,Dili,2025,3,1,1.0
-TLS,Timor-Leste,Dili,2026,0,0,0.795
+TLS,Timor-Leste,Dili,2026,0,0,0.797
 CYP,Cyprus,Nicosia,2000,13,3,1.0
 CYP,Cyprus,Nicosia,2001,6,2,1.0
 CYP,Cyprus,Nicosia,2002,13,4,1.0
@@ -4210,7 +4210,7 @@ CYP,Cyprus,Nicosia,2022,4,1,1.0
 CYP,Cyprus,Nicosia,2023,8,2,1.0
 CYP,Cyprus,Nicosia,2024,21,5,1.0
 CYP,Cyprus,Nicosia,2025,20,5,1.0
-CYP,Cyprus,Nicosia,2026,0,0,0.795
+CYP,Cyprus,Nicosia,2026,0,0,0.797
 SWZ,eSwatini,Mbabane,2000,0,0,1.0
 SWZ,eSwatini,Mbabane,2001,0,0,1.0
 SWZ,eSwatini,Mbabane,2002,3,1,1.0
@@ -4237,7 +4237,7 @@ SWZ,eSwatini,Mbabane,2022,0,0,1.0
 SWZ,eSwatini,Mbabane,2023,0,0,1.0
 SWZ,eSwatini,Mbabane,2024,15,4,1.0
 SWZ,eSwatini,Mbabane,2025,3,1,1.0
-SWZ,eSwatini,Mbabane,2026,0,0,0.795
+SWZ,eSwatini,Mbabane,2026,0,0,0.797
 DJI,Djibouti,Djibouti,2000,10,3,1.0
 DJI,Djibouti,Djibouti,2001,4,1,1.0
 DJI,Djibouti,Djibouti,2002,3,1,1.0
@@ -4264,7 +4264,7 @@ DJI,Djibouti,Djibouti,2022,9,3,1.0
 DJI,Djibouti,Djibouti,2023,3,1,1.0
 DJI,Djibouti,Djibouti,2024,23,6,1.0
 DJI,Djibouti,Djibouti,2025,11,3,1.0
-DJI,Djibouti,Djibouti,2026,10,3,0.795
+DJI,Djibouti,Djibouti,2026,10,3,0.797
 FJI,Fiji,Suva,2000,3,1,1.0
 FJI,Fiji,Suva,2001,0,0,1.0
 FJI,Fiji,Suva,2002,9,3,1.0
@@ -4291,7 +4291,7 @@ FJI,Fiji,Suva,2022,19,6,1.0
 FJI,Fiji,Suva,2023,7,2,1.0
 FJI,Fiji,Suva,2024,25,7,1.0
 FJI,Fiji,Suva,2025,6,1,1.0
-FJI,Fiji,Suva,2026,7,2,0.795
+FJI,Fiji,Suva,2026,7,2,0.797
 GUY,Guyana,Georgetown,2000,0,0,1.0
 GUY,Guyana,Georgetown,2001,0,0,1.0
 GUY,Guyana,Georgetown,2002,3,1,1.0
@@ -4318,7 +4318,7 @@ GUY,Guyana,Georgetown,2022,0,0,1.0
 GUY,Guyana,Georgetown,2023,53,11,1.0
 GUY,Guyana,Georgetown,2024,79,12,1.0
 GUY,Guyana,Georgetown,2025,0,0,1.0
-GUY,Guyana,Georgetown,2026,10,3,0.792
+GUY,Guyana,Georgetown,2026,10,3,0.795
 BTN,Bhutan,Thimphu,2000,3,1,1.0
 BTN,Bhutan,Thimphu,2001,0,0,1.0
 BTN,Bhutan,Thimphu,2002,0,0,1.0
@@ -4345,7 +4345,7 @@ BTN,Bhutan,Thimphu,2022,10,3,1.0
 BTN,Bhutan,Thimphu,2023,5,1,1.0
 BTN,Bhutan,Thimphu,2024,20,5,1.0
 BTN,Bhutan,Thimphu,2025,34,6,1.0
-BTN,Bhutan,Thimphu,2026,19,6,0.795
+BTN,Bhutan,Thimphu,2026,19,6,0.797
 SLB,Solomon Is.,Honiara,2000,0,0,1.0
 SLB,Solomon Is.,Honiara,2001,0,0,1.0
 SLB,Solomon Is.,Honiara,2002,0,0,1.0
@@ -4372,7 +4372,7 @@ SLB,Solomon Is.,Honiara,2022,0,0,1.0
 SLB,Solomon Is.,Honiara,2023,4,1,1.0
 SLB,Solomon Is.,Honiara,2024,18,4,1.0
 SLB,Solomon Is.,Honiara,2025,4,1,1.0
-SLB,Solomon Is.,Honiara,2026,0,0,0.795
+SLB,Solomon Is.,Honiara,2026,0,0,0.797
 MNE,Montenegro,Podgorica,2000,3,1,1.0
 MNE,Montenegro,Podgorica,2001,0,0,1.0
 MNE,Montenegro,Podgorica,2002,6,2,1.0
@@ -4399,7 +4399,7 @@ MNE,Montenegro,Podgorica,2022,11,2,1.0
 MNE,Montenegro,Podgorica,2023,4,1,1.0
 MNE,Montenegro,Podgorica,2024,33,6,1.0
 MNE,Montenegro,Podgorica,2025,15,3,1.0
-MNE,Montenegro,Podgorica,2026,11,3,0.795
+MNE,Montenegro,Podgorica,2026,11,3,0.797
 LUX,Luxembourg,Luxembourg,2000,7,2,1.0
 LUX,Luxembourg,Luxembourg,2001,0,0,1.0
 LUX,Luxembourg,Luxembourg,2002,4,1,1.0
@@ -4426,7 +4426,7 @@ LUX,Luxembourg,Luxembourg,2022,7,2,1.0
 LUX,Luxembourg,Luxembourg,2023,6,1,1.0
 LUX,Luxembourg,Luxembourg,2024,0,0,1.0
 LUX,Luxembourg,Luxembourg,2025,15,4,1.0
-LUX,Luxembourg,Luxembourg,2026,43,8,0.795
+LUX,Luxembourg,Luxembourg,2026,43,8,0.797
 SAH,W. Sahara,Bir Lehlou,2000,0,0,1.0
 SAH,W. Sahara,Bir Lehlou,2001,0,0,1.0
 SAH,W. Sahara,Bir Lehlou,2002,0,0,1.0
@@ -4453,7 +4453,7 @@ SAH,W. Sahara,Bir Lehlou,2022,5,1,1.0
 SAH,W. Sahara,Bir Lehlou,2023,26,6,1.0
 SAH,W. Sahara,Bir Lehlou,2024,26,5,1.0
 SAH,W. Sahara,Bir Lehlou,2025,13,4,1.0
-SAH,W. Sahara,Bir Lehlou,2026,12,4,0.795
+SAH,W. Sahara,Bir Lehlou,2026,12,4,0.797
 SUR,Suriname,Paramaribo,2000,0,0,1.0
 SUR,Suriname,Paramaribo,2001,0,0,1.0
 SUR,Suriname,Paramaribo,2002,0,0,1.0
@@ -4480,7 +4480,7 @@ SUR,Suriname,Paramaribo,2022,0,0,1.0
 SUR,Suriname,Paramaribo,2023,32,8,1.0
 SUR,Suriname,Paramaribo,2024,102,20,1.0
 SUR,Suriname,Paramaribo,2025,0,0,1.0
-SUR,Suriname,Paramaribo,2026,4,1,0.792
+SUR,Suriname,Paramaribo,2026,4,1,0.795
 BRN,Brunei,Bandar Seri Begawan,2000,0,0,1.0
 BRN,Brunei,Bandar Seri Begawan,2001,6,1,1.0
 BRN,Brunei,Bandar Seri Begawan,2002,26,5,1.0
@@ -4507,7 +4507,7 @@ BRN,Brunei,Bandar Seri Begawan,2022,0,0,1.0
 BRN,Brunei,Bandar Seri Begawan,2023,4,1,1.0
 BRN,Brunei,Bandar Seri Begawan,2024,7,2,1.0
 BRN,Brunei,Bandar Seri Begawan,2025,3,1,1.0
-BRN,Brunei,Bandar Seri Begawan,2026,3,1,0.795
+BRN,Brunei,Bandar Seri Begawan,2026,3,1,0.797
 BLZ,Belize,Belmopan,2000,0,0,1.0
 BLZ,Belize,Belmopan,2001,0,0,1.0
 BLZ,Belize,Belmopan,2002,3,1,1.0
@@ -4534,7 +4534,7 @@ BLZ,Belize,Belmopan,2022,5,1,1.0
 BLZ,Belize,Belmopan,2023,17,5,1.0
 BLZ,Belize,Belmopan,2024,6,2,1.0
 BLZ,Belize,Belmopan,2025,0,0,1.0
-BLZ,Belize,Belmopan,2026,0,0,0.792
+BLZ,Belize,Belmopan,2026,0,0,0.795
 BHS,Bahamas,Nassau,2000,0,0,1.0
 BHS,Bahamas,Nassau,2001,0,0,1.0
 BHS,Bahamas,Nassau,2002,3,1,1.0
@@ -4561,7 +4561,7 @@ BHS,Bahamas,Nassau,2022,3,1,1.0
 BHS,Bahamas,Nassau,2023,47,7,1.0
 BHS,Bahamas,Nassau,2024,34,8,1.0
 BHS,Bahamas,Nassau,2025,4,1,1.0
-BHS,Bahamas,Nassau,2026,38,6,0.792
+BHS,Bahamas,Nassau,2026,41,7,0.795
 ISL,Iceland,Reykjavík,2000,0,0,1.0
 ISL,Iceland,Reykjavík,2001,6,2,1.0
 ISL,Iceland,Reykjavík,2002,8,2,1.0
@@ -4588,7 +4588,7 @@ ISL,Iceland,Reykjavík,2022,0,0,1.0
 ISL,Iceland,Reykjavík,2023,0,0,1.0
 ISL,Iceland,Reykjavík,2024,3,1,1.0
 ISL,Iceland,Reykjavík,2025,9,2,1.0
-ISL,Iceland,Reykjavík,2026,0,0,0.792
+ISL,Iceland,Reykjavík,2026,0,0,0.795
 CYN,N. Cyprus,North Nicosia,2000,13,3,1.0
 CYN,N. Cyprus,North Nicosia,2001,6,2,1.0
 CYN,N. Cyprus,North Nicosia,2002,13,4,1.0
@@ -4615,7 +4615,7 @@ CYN,N. Cyprus,North Nicosia,2022,4,1,1.0
 CYN,N. Cyprus,North Nicosia,2023,8,2,1.0
 CYN,N. Cyprus,North Nicosia,2024,21,5,1.0
 CYN,N. Cyprus,North Nicosia,2025,20,5,1.0
-CYN,N. Cyprus,North Nicosia,2026,0,0,0.795
+CYN,N. Cyprus,North Nicosia,2026,0,0,0.797
 VUT,Vanuatu,Port Vila,2000,4,1,1.0
 VUT,Vanuatu,Port Vila,2001,0,0,1.0
 VUT,Vanuatu,Port Vila,2002,3,1,1.0
@@ -4642,7 +4642,7 @@ VUT,Vanuatu,Port Vila,2022,81,15,1.0
 VUT,Vanuatu,Port Vila,2023,3,1,1.0
 VUT,Vanuatu,Port Vila,2024,16,4,1.0
 VUT,Vanuatu,Port Vila,2025,26,7,1.0
-VUT,Vanuatu,Port Vila,2026,7,2,0.795
+VUT,Vanuatu,Port Vila,2026,7,2,0.797
 NCL,New Caledonia,Nouméa,2000,0,0,1.0
 NCL,New Caledonia,Nouméa,2001,0,0,1.0
 NCL,New Caledonia,Nouméa,2002,15,3,1.0
@@ -4669,7 +4669,7 @@ NCL,New Caledonia,Nouméa,2022,21,5,1.0
 NCL,New Caledonia,Nouméa,2023,4,2,1.0
 NCL,New Caledonia,Nouméa,2024,5,1,1.0
 NCL,New Caledonia,Nouméa,2025,22,6,1.0
-NCL,New Caledonia,Nouméa,2026,12,2,0.795
+NCL,New Caledonia,Nouméa,2026,12,2,0.797
 GRL,Greenland,Nuuk,2000,3,1,1.0
 GRL,Greenland,Nuuk,2001,5,1,1.0
 GRL,Greenland,Nuuk,2002,4,1,1.0
@@ -4696,7 +4696,7 @@ GRL,Greenland,Nuuk,2022,4,1,1.0
 GRL,Greenland,Nuuk,2023,9,3,1.0
 GRL,Greenland,Nuuk,2024,6,2,1.0
 GRL,Greenland,Nuuk,2025,13,4,1.0
-GRL,Greenland,Nuuk,2026,5,1,0.792
+GRL,Greenland,Nuuk,2026,5,1,0.795
 FLK,Falkland Is.,Stanley,2000,0,0,1.0
 FLK,Falkland Is.,Stanley,2001,0,0,1.0
 FLK,Falkland Is.,Stanley,2002,0,0,1.0
@@ -4723,7 +4723,7 @@ FLK,Falkland Is.,Stanley,2022,6,2,1.0
 FLK,Falkland Is.,Stanley,2023,0,0,1.0
 FLK,Falkland Is.,Stanley,2024,3,1,1.0
 FLK,Falkland Is.,Stanley,2025,4,1,1.0
-FLK,Falkland Is.,Stanley,2026,4,1,0.792
+FLK,Falkland Is.,Stanley,2026,4,1,0.795
 ATF,Fr. S. Antarctic Lands,Fr. S. Antarctic Lands (label point),2000,0,0,1.0
 ATF,Fr. S. Antarctic Lands,Fr. S. Antarctic Lands (label point),2001,4,1,1.0
 ATF,Fr. S. Antarctic Lands,Fr. S. Antarctic Lands (label point),2002,0,0,1.0
@@ -4750,4 +4750,4 @@ ATF,Fr. S. Antarctic Lands,Fr. S. Antarctic Lands (label point),2022,3,1,1.0
 ATF,Fr. S. Antarctic Lands,Fr. S. Antarctic Lands (label point),2023,12,4,1.0
 ATF,Fr. S. Antarctic Lands,Fr. S. Antarctic Lands (label point),2024,0,0,1.0
 ATF,Fr. S. Antarctic Lands,Fr. S. Antarctic Lands (label point),2025,0,0,1.0
-ATF,Fr. S. Antarctic Lands,Fr. S. Antarctic Lands (label point),2026,6,2,0.795
+ATF,Fr. S. Antarctic Lands,Fr. S. Antarctic Lands (label point),2026,6,2,0.797
